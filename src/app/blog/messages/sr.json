@@ -1,0 +1,244 @@
+{
+    "blog": {
+        "articles": {
+            "blogImplanti": {
+                "title": "Koliko košta ugradnja zubnog implanta u Beogradu?",
+                "breadcrumbs": {
+                    "home": "Početna",
+                    "blog": "Blog",
+                    "current": "Zubni implanti"
+                },
+                "dateLabel": "Datum objave",
+                "intro": "Ugradnja zubnog implanta predstavlja jedno od najpouzdanijih i najdugotrajnijih rešenja za nadoknadu izgubljenih zuba. Jedno od najčešćih pitanja pacijenata jeste koliko košta zubni implant u Beogradu i od čega zavisi konačna cena terapije. U ovom vodiču objašnjavamo sve što treba da znate pre donošenja odluke.",
+                "sections": [
+                    {
+                        "heading": "Šta je zubni implant?",
+                        "content": "Zubni implant predstavlja veštački koren zuba izrađen od biokompatibilnog titanijuma koji se ugrađuje u kost vilice. Nakon procesa zarastanja na implant se postavlja zubna krunica koja po izgledu i funkciji veoma verno oponaša prirodan zub."
+                    },
+                    {
+                        "heading": "Od čega zavisi cena zubnog implanta?",
+                        "content": "Cena zavisi od proizvođača implanta, kvaliteta materijala, stanja kosti pacijenta, potrebe za dodatnim procedurama i vrste protetskog rada koji se postavlja na implant."
+                    },
+                    {
+                        "heading": "Kako izgleda procedura ugradnje?",
+                        "content": "Proces počinje pregledom i dijagnostikom. Nakon planiranja terapije implant se ugrađuje u lokalnoj anesteziji. Posle perioda zarastanja postavlja se trajna krunica."
+                    },
+                    {
+                        "heading": "Da li ugradnja implanta boli?",
+                        "content": "Savremene metode anestezije omogućavaju da sama procedura bude gotovo potpuno bezbolna. Nakon zahvata moguća je blaga nelagodnost koja se najčešće povlači za nekoliko dana."
+                    },
+                    {
+                        "heading": "Koliko traje oporavak?",
+                        "content": "Većina pacijenata se vraća svakodnevnim aktivnostima već narednog dana. Potpuno srastanje implanta sa kosti traje nekoliko meseci i predstavlja ključ uspeha terapije."
+                    },
+                    {
+                        "heading": "Ko je kandidat za zubni implant?",
+                        "content": "Većina odraslih osoba koje imaju dobro opšte zdravstveno stanje i dovoljno kosti može biti kandidat za implantološku terapiju. Konačnu procenu daje stomatolog nakon pregleda."
+                    },
+                    {
+                        "heading": "Prednosti zubnih implanta",
+                        "content": "Implanti pružaju prirodan izgled, stabilnost prilikom žvakanja, očuvanje kosti vilice i dugotrajno rešenje koje može trajati decenijama uz pravilnu oralnu higijenu."
+                    }
+                ],
+                "faq": [
+                    {
+                        "question": "Koliko traje ugradnja zubnog implanta?",
+                        "answer": "Sam zahvat najčešće traje između 30 i 60 minuta, u zavisnosti od složenosti slučaja."
+                    },
+                    {
+                        "question": "Da li implant može da traje ceo život?",
+                        "answer": "Uz pravilnu oralnu higijenu i redovne kontrole, implant može trajati više decenija."
+                    },
+                    {
+                        "question": "Da li svi mogu da ugrade implant?",
+                        "answer": "Većina odraslih osoba jeste kandidat, ali je neophodan pregled kako bi se procenilo stanje kosti i zdravlje usne duplje."
+                    }
+                ],
+                "conclusion": "Zubni implanti predstavljaju savremeno, estetski prihvatljivo i dugotrajno rešenje za nadoknadu izgubljenih zuba. Ukoliko želite da saznate da li ste kandidat za implantološku terapiju, zakažite pregled i konsultaciju sa našim timom.",
+                "seo": {
+                    "metaTitle": "Koliko košta ugradnja zubnog implanta u Beogradu? | Dental House",
+                    "metaDescription": "Saznajte od čega zavisi cena zubnog implanta, kako izgleda procedura ugradnje, koliko traje oporavak i koje su prednosti implantološke terapije.",
+                    "keywords": [
+                        "zubni implant",
+                        "implanti beograd",
+                        "cena implanta",
+                        "ugradnja implanta",
+                        "implantologija",
+                        "stomatolog beograd"
+                    ]
+                }
+            },
+            "blogKarijes": {
+                "title": "Karijes zuba – kako nastaje i kako ga sprečiti?",
+                "breadcrumbs": {
+                    "home": "Početna",
+                    "blog": "Blog",
+                    "current": "Karijes"
+                },
+                "dateLabel": "Datum objave",
+                "intro": "Karijes predstavlja jedno od najčešćih oboljenja zuba koje pogađa decu i odrasle. Nastaje postepeno, a ukoliko se ne leči na vreme može dovesti do ozbiljnijih problema poput infekcija, bolova i gubitka zuba.",
+                "sections": [
+                    {
+                        "heading": "Kako nastaje karijes?",
+                        "content": "Karijes nastaje usled delovanja bakterija koje razgrađuju ostatke hrane i stvaraju kiseline koje oštećuju zubnu gleđ."
+                    },
+                    {
+                        "heading": "Koji su prvi simptomi?",
+                        "content": "Prvi simptomi mogu biti osetljivost na hladno, toplo ili slatko, kao i pojava tamnih mrlja na površini zuba."
+                    },
+                    {
+                        "heading": "Kako sprečiti karijes?",
+                        "content": "Redovno pranje zuba, korišćenje konca, fluoridne paste i redovne kontrole kod stomatologa značajno smanjuju rizik od nastanka karijesa."
+                    },
+                    {
+                        "heading": "Kako se leči karijes?",
+                        "content": "Lečenje zavisi od stadijuma oštećenja. U ranim fazama dovoljno je uklanjanje karijesa i postavljanje plombe."
+                    }
+                ],
+                "faq": [
+                    {
+                        "question": "Da li karijes može da prođe sam?",
+                        "answer": "Ne. Karijes se ne povlači samostalno i zahteva stomatološki tretman."
+                    },
+                    {
+                        "question": "Koliko često treba ići na pregled?",
+                        "answer": "Preporučuje se kontrolni pregled na svakih šest meseci."
+                    }
+                ],
+                "conclusion": "Pravovremena dijagnostika i redovne kontrole najbolji su način da sačuvate zdravlje svojih zuba.",
+                "seo": {
+                    "metaTitle": "Karijes zuba – simptomi, uzroci i lečenje | Dental House",
+                    "metaDescription": "Saznajte kako nastaje karijes, koji su prvi simptomi i kako ga uspešno sprečiti i lečiti.",
+                    "keywords": [
+                        "karijes",
+                        "karijes zuba",
+                        "lečenje karijesa",
+                        "plombe",
+                        "stomatolog beograd"
+                    ]
+                }
+            },
+            "blogOrtodoncija": {
+                "title": "Fiksna proteza – kada je pravo vreme za ortodontsku terapiju?",
+                "breadcrumbs": {
+                    "home": "Početna",
+                    "blog": "Blog",
+                    "current": "Ortodoncija"
+                },
+                "dateLabel": "Datum objave",
+                "intro": "Nepravilno raspoređeni zubi mogu uticati na izgled osmeha, ali i na funkciju zagrižaja. Ortodontska terapija omogućava ispravljanje zuba i poboljšanje oralnog zdravlja.",
+                "sections": [
+                    {
+                        "heading": "Zašto je ortodontska terapija važna?",
+                        "content": "Pravilno postavljeni zubi olakšavaju održavanje higijene i smanjuju rizik od karijesa i bolesti desni."
+                    },
+                    {
+                        "heading": "Kada je najbolje vreme za protezu?",
+                        "content": "Iako se terapija često započinje u detinjstvu, odrasle osobe takođe mogu uspešno nositi fiksnu protezu."
+                    },
+                    {
+                        "heading": "Koliko traje terapija?",
+                        "content": "Trajanje zavisi od složenosti slučaja i najčešće traje između 12 i 24 meseca."
+                    },
+                    {
+                        "heading": "Kako održavati protezu?",
+                        "content": "Neophodno je redovno čišćenje zuba i kontrolni pregledi prema preporuci ortodonta."
+                    }
+                ],
+                "faq": [
+                    {
+                        "question": "Da li nošenje proteze boli?",
+                        "answer": "Nakon postavljanja može se javiti blaga nelagodnost koja prolazi nakon nekoliko dana."
+                    },
+                    {
+                        "question": "Da li odrasli mogu nositi protezu?",
+                        "answer": "Da, ortodontska terapija uspešno se sprovodi i kod odraslih pacijenata."
+                    }
+                ],
+                "conclusion": "Pravilan zagrižaj i lep osmeh predstavljaju investiciju u zdravlje i samopouzdanje.",
+                "seo": {
+                    "metaTitle": "Fiksna proteza – ortodontska terapija | Dental House",
+                    "metaDescription": "Saznajte kada je pravo vreme za fiksnu protezu i koliko traje ortodontska terapija.",
+                    "keywords": [
+                        "fiksna proteza",
+                        "ortodoncija",
+                        "ispravljanje zuba",
+                        "ortodont",
+                        "proteza beograd"
+                    ]
+                }
+            },
+            "blogIzbeljivanje": {
+                "title": "Profesionalno izbeljivanje zuba – sve što treba da znate",
+                "breadcrumbs": {
+                    "home": "Početna",
+                    "blog": "Blog",
+                    "current": "Izbeljivanje zuba"
+                },
+                "dateLabel": "Datum objave",
+                "intro": "Beli i blistavi zubi jedan su od najtraženijih estetskih zahvata u stomatologiji. Profesionalno izbeljivanje omogućava vidljivo posvetljivanje zuba na bezbedan način.",
+                "sections": [
+                    {
+                        "heading": "Šta je profesionalno izbeljivanje?",
+                        "content": "Postupak koji koristi specijalne gelove i savremene tehnike za uklanjanje pigmentacija sa površine zuba."
+                    },
+                    {
+                        "heading": "Ko je kandidat za tretman?",
+                        "content": "Većina osoba sa zdravim zubima i desnima može biti kandidat za izbeljivanje."
+                    },
+                    {
+                        "heading": "Koliko dugo traju rezultati?",
+                        "content": "Rezultati mogu trajati od jedne do nekoliko godina u zavisnosti od životnih navika."
+                    },
+                    {
+                        "heading": "Kako održavati rezultate?",
+                        "content": "Izbegavanje duvana, kafe i obojenih napitaka doprinosi dužem trajanju efekta."
+                    }
+                ],
+                "faq": [
+                    {
+                        "question": "Da li izbeljivanje oštećuje zube?",
+                        "answer": "Profesionalno izbeljivanje pod nadzorom stomatologa smatra se bezbednim postupkom."
+                    },
+                    {
+                        "question": "Koliko nijansi zubi mogu posvetleti?",
+                        "answer": "Rezultat zavisi od početne boje zuba i individualnih karakteristika pacijenta."
+                    }
+                ],
+                "conclusion": "Profesionalno izbeljivanje predstavlja brz i efikasan način da unapredite izgled svog osmeha.",
+                "seo": {
+                    "metaTitle": "Profesionalno izbeljivanje zuba | Dental House",
+                    "metaDescription": "Saznajte kako funkcioniše profesionalno izbeljivanje zuba i koliko dugo traju rezultati.",
+                    "keywords": [
+                        "izbeljivanje zuba",
+                        "beli zubi",
+                        "estetska stomatologija",
+                        "hollywood smile",
+                        "stomatolog beograd"
+                    ]
+                }
+            }
+        },
+
+        "categories": {
+            "implanti": {
+                "title": "Implanti"
+            },
+            "karijes": {
+                "title": "Karijes"
+            },
+            "ortodoncija": {
+                "title": "Ortodoncija"
+            },
+            "izbeljivanje": {
+                "title": "Izbeljivanje zuba"
+            }
+        },
+        "sidebar": {
+            "title": "Blog",
+            "description": "Saznajte najnovije informacije iz sveta stomatologije.",
+            "categories": "Kategorije",
+            "recent": "Poslednje posećeni članci"
+        }
+    }
+}

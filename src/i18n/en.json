@@ -1,0 +1,1550 @@
+{
+  "topBar": {
+    "phone": "+381 60 684 0500",
+    "email": "dentalhouse.bg@gmail.com",
+    "workingHours": "09:00–17:00",
+    "bookAppointment": "Book an appointment",
+    "languages": { 
+      "sr": "Serbian", 
+      "en": "English", 
+      "ru": "Russian" 
+    }
+  },
+  "header": {
+    "brand": "Dental House Vračar",
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "services": "Our Services",
+      "priceList": "Price List",
+      "contact": "Contact",
+      "servicesDropdown": {
+        "general": "General Dentistry",
+        "prosthetics": "Prosthodontics",
+        "estetic": "Cosmetic Dentistry",
+        "preventive": "Pediatric and Preventive Dentistry",
+        "orthodontics": "Orthodontics",
+        "implants": "Oral Surgery and Implants",
+        "facts": "Interesting Facts"
+      }
+    }
+  },
+  "footer": {
+    "contactTitle": "Contact",
+    "address": "Golsvordijeva 14, Belgrade",
+    "phone": "+381 60 684 0500",
+    "email": "dentalhouse.bg@gmail.com",
+    "instagram": "dentalhouse.vracar",
+    "servicesTitle": "Our Services",
+    "services": {
+      "orthodontics": "Orthodontics",
+      "implantology": "Implantology",
+      "surgery": "Oral Surgery",
+      "aesthetic": "Aesthetic Dentistry"
+    },
+    "workingHoursTitle": "Working Hours",
+    "workingHours": {
+      "monFri": "Mon – Fri: 11:00 – 19:00"
+    },
+    "copyright": "© {year} Dental House Vračar. All rights reserved."
+  },
+  "heroSlider": [
+    {
+      "title": "The Smile You Deserve",
+      "subtitle": "Professional dental care for the whole family",
+      "buttonText": "Book an Appointment",
+      "buttonLink": "/kontakt"
+    },
+    {
+      "title": "Your Smile, Our Care",
+      "subtitle": "We build trust through quality and dedication",
+      "buttonText": "Learn More",
+      "buttonLink": "/usluge"
+    },
+    {
+      "title": "Modern Equipment and Expert Team",
+      "subtitle": "Our clinic uses the latest technology",
+      "buttonText": "Learn More",
+      "buttonLink": "/o-nama"
+    }
+  ],
+  "aboutUs": {
+    "title": "About Our Dental Clinic",
+    "paragraph1": "About the Dental House clinic. Our presence in this field has allowed us to connect with leading global dental clinics, receive top-level training, and access the latest materials.",
+    "paragraph2": "With an exceptional team of doctors and assistants, we provide the ability to solve all your dental problems in one place.",
+    "paragraph3": "We provide safe, expert-based dental care using modern technology.",
+    "paragraph4": "Join us and discover how a medical approach to dentistry can make visiting the dentist an experience you love.",
+    "floatingBadge": {
+      "years": "15+",
+      "label": "Years of Experience"
+    },
+    "stats": {
+      "experienceYears": "35+",
+      "experienceLabel": "Years of Experience",
+      "countries": "2+",
+      "countriesLabel": "Countries",
+      "smilesRestored": "952+",
+      "smilesLabel": "Smiles Restored"
+    },
+    "services": {
+      "oral-diseases": "Conservative dentistry",
+      "prosthetics": "Prosthetics",
+      "aesteticDentistry": "Aesthetic dentistry",
+      "pediatricDentistry": "Pediatric and preventive dentistry",
+      "orthodontics": "Orthodontics for adults and children",
+      "surgery": "Surgery and implants"
+    },
+    "ctaButton": "Book an Appointment"
+  },
+  "servicesSection": {
+    "cardsBgAlt": "Our Services Background",
+    "service1": {
+      "icon": "/images/icons/opsta-stomatologija.svg",
+      "title": "Conservative Dentistry",
+      "description": "Conservative dentistry focuses on preserving natural teeth through prevention, diagnosis, and treatment of tooth decay. Using modern methods and high-quality materials, we restore damaged teeth, bringing back their functionality, strength, and natural appearance.",
+      "link": "/usluge/sekcije/konzervativna-stomatologija"
+    },
+    "service2": {
+      "icon": "/images/icons/ortodoncija.svg",
+      "title": "Prosthodontics",
+      "description": "Prosthodontics deals with replacing missing teeth and restoring the function and aesthetics of your smile. We use modern methods and materials to create crowns, bridges, dentures, and implant-supported solutions tailored to your needs. Our goal is to provide a natural look and comfort while restoring proper chewing and speech function. Whether it is a single tooth or a complete reconstruction, we offer an individualized approach so you can smile with confidence again.",
+      "link": "/usluge/sekcije/protetika"
+    },
+    "service3": {
+      "icon": "/images/icons/implantologija.svg",
+      "title": "Aesthetic Dentistry",
+      "description": "Aesthetic dentistry enables the perfect balance between the health and beauty of your smile. Using modern materials and precise techniques, we create a natural look that restores confidence and lasts for years.",
+      "link": "/usluge/sekcije/estetska-stomatologija"
+    },
+    "service4": {
+      "icon": "/images/icons/beljenje-zuba.svg",
+      "title": "Pediatric and Preventive Dentistry",
+      "description": "Pediatric and preventive dentistry preserves the health and proper development of children's teeth. Through modern cleaning methods, fluoridation, and preventive treatments, we ensure a natural and healthy smile that lasts and builds confidence.",
+      "link": "/usluge/sekcije/decija-i-preventivna-stomatologija"
+    },
+    "service5": {
+      "icon": "/images/icons/ortodoncija.svg",
+      "title": "Orthodontics",
+      "description": "Teeth and bite alignment using fixed or clear braces. Teeth and bite alignment using fixed or clear braces.",
+      "link": "/usluge/sekcije/ortodoncija"
+    },
+    "service6": {
+      "icon": "/images/icons/ortodoncija.svg",
+      "title": "Surgery and Implants",
+      "description": "Oral surgery and implant placement include modern and painless procedures for solving more complex dental problems and permanently replacing missing teeth. With precise diagnostics and advanced technology, we ensure safe procedures, quick recovery, and a natural look and functionality of your smile.",
+      "link": "/usluge/sekcije/hirurgija-i-implanti"
+    },
+    "service7": {
+      "icon": "/images/icons/zanimljivosti.svg",
+      "title": "Interesting Facts",
+      "description": "",
+      "link": "/usluge/sekcije/zanimljivosti"
+    },
+    "title": "Highest Standards in Dental Health",
+    "author": "Dr. Novak Simić",
+    "introParagraph": "Dental House was founded in 2005 in Belgrade, and over more than 18 years, it has developed high standards in dental practice. Our clinic uses state-of-the-art equipment and technology, enabling us to provide patients with safe and effective treatments at the highest dental standards. We collaborate with top professors and specialists, offering patients the most advanced dental procedures.",
+    "advantages1": "18+ years of experience",
+    "advantages2": "State-of-the-art equipment and technology",
+    "advantages3": "Safe and effective treatments",
+    "advantages4": "Collaboration with top specialists",
+    "equipment1Text": "High-end surgical lasers and piezo devices",
+    "equipment1Icon": "/images/icons/estetska-stomatologija.svg",
+    "equipment2Text": "Intraoral camera and digital tooth imaging",
+    "equipment2Icon": "/images/icons/endodoncija.svg",
+    "equipment3Text": "Sterilization according to strict standards",
+    "equipment3Icon": "/images/icons/implantologija.svg",
+    "equipment4Text": "Most advanced digital diagnostic devices",
+    "equipment4Icon": "/images/icons/ortodoncija.svg",
+    "priceText": "Here you can view the detailed price list of our dental services.",
+    "priceButton": "Service Price List",
+    "allServicesLink": "View All Services",
+    "more": "MORE +"
+  },
+  "team": {
+  "intro": {
+    "title": "Our Professional Team",
+    "breadcrumbHome": "Home",
+    "breadcrumbCurrent": "Team"
+  },
+  "title": "Meet Our Dentists",
+  "doctor1": {
+    "name": "Dr Pavle Jovanović",
+    "specialties": [
+      "Implantology",
+      "Oral Surgery",
+      "Prosthetics"
+    ],
+    "bio": "Specialist in implantology and oral surgery with many years of experience. Focuses on smile reconstruction and dental implant placement, combining function and aesthetics.",
+    "rating": "5"
+  },
+  "doctor2": {
+    "name": "Dr Ana Popović",
+    "specialties": [
+      "Orthodontics",
+      "Aesthetic Dentistry"
+    ],
+    "bio": "Expert in orthodontics and aesthetic dentistry with many years of experience. Dedicated to correcting tooth alignment and creating natural, harmonious smiles for children and adults.",
+    "rating": "5"
+  },
+  "doctor3": {
+    "name": "Dr Jelena Orozović",
+    "specialties": [
+      "Conservative Dentistry",
+      "Endodontics"
+    ],
+    "bio": "Specialist in conservative dentistry and endodontics with many years of experience. Skilled in treating tooth decay and performing complex root canal therapies while preserving natural tooth structure.",
+    "rating": "5"
+  },
+  "doctor4": {
+    "name": "Dr Vanja Bojić",
+    "specialties": [
+      "Pediatric Dentistry"
+    ],
+    "bio": "Specialist in pediatric dentistry with many years of experience. Focused on the oral health and proper development of children's teeth, providing gentle and educational treatments.",
+    "rating": "5"
+  },
+  "doctor5": {
+    "name": "Dr Ana Mašojević",
+    "specialties": [
+      "Ortodoncija"
+    ],
+    "bio": "A specialist in conservative and aesthetic dentistry with several years of experience. She focuses on preserving natural teeth and creating beautiful, harmonious smiles using modern techniques.",
+    "rating": "5"
+  },
+  "doctor6": {
+    "name": "Dr Filip Despotović",
+    "specialties": [
+      "Oral Surgery",
+      "Implantology"
+    ],
+    "bio": "Specialist in oral surgery and implantology with many of experience. Skilled in surgical procedures and implant placement, ensuring long-lasting functionality and aesthetics for patients.",
+    "rating": "5"
+  },
+    "more": "MORE +",
+    "bookButton": "Book appointment"
+},
+  "testimonials": {
+    "title": "Patient Reviews",
+    "testimonial1": {
+      "text": "Excellent service and extremely friendly staff!",
+      "name": "Ana Petrović",
+      "role": "Dentist",
+      "rating": "4"
+    },
+    "testimonial2": {
+      "text": "Professional and skilled dentists.",
+      "name": "Marko Jovanović",
+      "role": "Dentist",
+      "rating": "5"
+    },
+    "testimonial3": {
+      "text": "Highly recommended!",
+      "name": "Jelena Ilić",
+      "role": "Dentist",
+      "rating": "3"
+    }
+  },
+  "blog": {
+  "header": "BLOG",
+  "title": "The World of Dentistry",
+  "subtitle": "Read the latest news and insights from the field of dentistry",
+  "post1": {
+    "date": "MAY 31, 2026",
+    "title": "Dental Implants",
+    "description": "A dental implant is an artificial tooth root made of biocompatible titanium that is placed into the jawbone. After the healing process, a dental crown is attached to the implant, closely mimicking the appearance and function of a natural tooth.",
+    "slug": "implanti",
+    "image": "/images/webp/oralna-higijena.webp"
+  },
+  "post2": {
+    "date": "JUNE 1, 2026",
+    "title": "Tooth Decay",
+    "description": "Tooth decay is caused by bacteria that break down food residues and produce acids that damage tooth enamel.",
+    "slug": "karijes",
+    "image": "/images/webp/orasasti-plodovi.webp"
+  },
+  "post3": {
+    "date": "JUNE 1, 2026",
+    "title": "Orthodontics",
+    "description": "Properly aligned teeth make oral hygiene easier and reduce the risk of tooth decay and gum disease.",
+    "slug": "ortodoncija",
+    "image": "/images/webp/slatkisi.webp"
+  },
+  "post4": {
+    "date": "JUNE 1, 2026",
+    "title": "Teeth Whitening",
+    "description": "A procedure that uses specialized gels and modern techniques to remove stains and discoloration from the tooth surface.",
+    "slug": "izbeljivanje",
+    "image": "/images/webp/slatkisi.webp"
+  },
+  "more": "READ MORE +"
+  },
+  "aboutPage": {
+    "intro": {
+      "title": "About Us",
+      "breadcrumbHome": "Home",
+      "breadcrumbCurrent": "About Us"
+    },
+    "team": {
+      "title": "Meet Our Medical Team"
+    },
+    "services": {
+      "title": "Our Services",
+      "0": { "name": "Oral Surgery", "icon": "⚕️" },
+      "1": { "name": "Implantology", "icon": "🦷" },
+      "2": { "name": "Prosthodontics", "icon": "🪥" },
+      "3": { "name": "Pediatric Dentistry", "icon": "👶" },
+      "4": { "name": "Periodontology", "icon": "❤️" },
+      "5": { "name": "Orthodontics for Children and Adults", "icon": "😁" },
+      "6": { "name": "Teeth Whitening", "icon": "✨" },
+      "7": { "name": "Digital Orthopantomogram Imaging", "icon": "📸" }
+    },
+    "doctors": {
+      "0": {
+        "name": "Dr. Ana Petrović",
+        "specialties": [
+          "General Dentistry",
+          "Preventive Care",
+          "Aesthetic Dentistry"
+        ],
+        "bio": "Specialist in prosthodontics with over 15 years of experience. Ana graduated from the Faculty of Dentistry at the University of Belgrade and further specialized in aesthetic and functional prosthetics abroad. She combines traditional techniques with modern technology to provide the most advanced solutions for patients’ smiles. She is dedicated to personalized care and creating long-lasting, natural results. She regularly attends international congresses and professional training.",
+        "rating": 5,
+        "img": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=500&q=80"
+      },
+      "1": {
+        "name": "Dr. Marko Jovanović",
+        "specialties": [
+          "Orthodontics",
+          "Braces for Children and Adults"
+        ],
+        "bio": "Oral surgery specialist with more than 12 years of clinical experience. Marko is known for his precision and calm approach, making complex procedures safer and more comfortable for patients. He has completed advanced training in implantology and minimally invasive surgery. His focus is on complex case rehabilitation and long-term treatment success. He is actively involved in mentoring young dentists.",
+        "rating": 4,
+        "img": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=500&q=80"
+      },
+      "2": {
+        "name": "Dr. Ivana Kostić",
+        "specialties": [
+          "Aesthetic Dentistry",
+          "Ceramic Veneers",
+          "Smile Reconstruction"
+        ],
+        "bio": "Pediatric dentistry specialist with over 10 years of experience working with children and adolescents. Ivana is known for her patience and ability to help young patients overcome dental anxiety. Her philosophy is based on preventive dentistry and parental education to build lifelong healthy habits. She also performs orthodontic treatments for children and aesthetic smile reconstructions.",
+        "rating": 5,
+        "img": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=500&q=80"
+      }
+    }
+  },
+  "generalDentistry": {
+    "breadcrumbs": {
+      "title": "About Us",
+      "home": "Home",
+      "services": "Our Services",
+      "current": "General Dentistry"
+    },
+    "hero": {
+      "title": "Conservative dentistry",
+      "description": "Our clinic provides comprehensive general dentistry services — from routine checkups and fillings to advanced diagnostics and prevention."
+    },
+    "section1": {
+      "title": "A Healthy Smile Starts with Basic Care",
+      "paragraph1": "General dentistry includes diagnosis, treatment, and prevention of dental diseases.",
+      "paragraph2": "Regular checkups and professional cleaning help prevent serious issues.",
+      "paragraph3": "We use digital X-rays for precise diagnosis and treatment planning.",
+      "benefits": [
+        "Composite fillings",
+        "Tartar removal and polishing",
+        "Caries and gum treatment",
+        "Restoration of damaged teeth",
+        "Preventive examinations"
+      ]
+    },
+    "services": [
+      {
+        "title": "Composite Filling",
+        "description": "A modern aesthetic filling used to repair damaged teeth and restore their natural appearance."
+      },
+      {
+        "title": "Composite Filling with Metal/FRC Post",
+        "description": "Used to strengthen weakened teeth and extend their lifespan."
+      },
+      {
+        "title": "Composite Veneer",
+        "description": "An aesthetic solution for improving the shape and color of front teeth."
+      },
+      {
+        "title": "Ultrasonic Deep Cleaning and Air Polishing",
+        "description": "Removal of tartar and deposits using ultrasound and air polishing for a healthy smile."
+      },
+      {
+        "title": "Periodontal Pocket Treatment",
+        "description": "A gum treatment that helps stop the progression of periodontal disease."
+      },
+      {
+        "title": "Inter-appointment Medication",
+        "description": "A temporary medication placed between treatments to reduce infection."
+      },
+      {
+        "title": "Incision and Drainage",
+        "description": "An emergency procedure to remove infection and relieve pain."
+      },
+      {
+        "title": "Endodontic Therapy",
+        "description": "Root canal treatment aimed at preserving the natural tooth."
+      },
+      {
+        "title": "Causal Periodontal Therapy",
+        "description": "Treatment of the underlying causes of gum disease for long-term oral health."
+      },
+      {
+        "title": "Endodontic Phase",
+        "description": "A specific stage in root canal treatment involving detailed canal preparation."
+      },
+      {
+        "title": "Ceramic Inlay/Onlay",
+        "description": "High-quality restorations that restore both function and aesthetics of the tooth."
+      }
+    ],
+    "section2": {
+      "title": "Painless Treatments and Comfortable Experience",
+      "paragraph1": "We use modern anesthesia techniques for maximum comfort.",
+      "paragraph2": "Special attention is given to anxious patients.",
+      "paragraph3": "Our goal is long-term trust and dental health."
+    },
+    "cta": {
+      "title": "Book Your Appointment Today",
+      "description": "Discover how a smile can transform your confidence.",
+      "button": "Contact Us"
+    }
+  },
+  "orthodontics": {
+    "breadcrumbs": {
+      "title": "Orthodontics",
+      "home": "Home",
+      "services": "Our Services",
+      "current": "Orthodontics"
+    },
+    "hero": {
+      "title": "Orthodontics",
+      "description": "Orthodontics is a branch of dentistry focused on correcting the position of teeth and jaws to achieve a proper bite and harmonious smile. Modern orthodontic treatments provide discreet, comfortable and effective corrections for patients of all ages."
+    },
+    "section1": {
+      "title": "Perfectly Aligned Teeth – The Key to a Healthy Smile",
+      "paragraph1": "Properly aligned teeth are important not only for aesthetics but also for oral health. Orthodontic treatment makes cleaning easier, reduces the risk of cavities and gum disease, and improves chewing and speech function.",
+      "paragraph2": "Our clinic applies individualized treatment plans using digital analysis and 3D imaging. Each therapy is carefully tailored to the patient – whether child, teenager, or adult.",
+      "benefits": [
+        "Traditional metal and aesthetic ceramic braces",
+        "Clear aligners for discreet correction",
+        "Digital treatment planning and 3D imaging",
+        "Progress monitoring and therapy adjustments",
+        "Oral hygiene guidance during treatment"
+      ]
+    },
+    "services": [
+      {
+        "title": "Bruxism Splint",
+        "description": "A custom-made splint designed to protect teeth from wear caused by grinding and clenching, while reducing jaw pain and tension."
+      },
+      {
+        "title": "Myobrace – Removable Appliance",
+        "description": "A non-invasive removable appliance for children that helps correct improper jaw position and breathing, supporting proper development of teeth and jaws."
+      },
+      {
+        "title": "Invisalign – Clear Aligners",
+        "description": "Aesthetic transparent aligners for gradual teeth straightening without fixed braces, offering maximum comfort and a discreet treatment."
+      },
+      {
+        "title": "Fixed Orthodontic Braces",
+        "description": "Traditional fixed braces that enable precise alignment of teeth and jaws, delivering optimal results for a healthy, straight smile."
+      },
+      {
+        "title": "Orthodontic Analysis",
+        "description": "A detailed evaluation of teeth, jaw, and bite using modern diagnostics to plan an effective orthodontic treatment."
+      },
+      {
+        "title": "Damon Fixed Braces",
+        "description": "An advanced Damon system of fixed braces with low-friction technology for faster and more comfortable tooth movement with minimal discomfort."
+      }
+    ],
+    "section2": {
+      "title": "Modern Methods and Maximum Comfort",
+      "paragraph1": "Modern orthodontics enables painless and discreet correction of tooth alignment. Clear appliances and advanced techniques ensure comfort and faster results.",
+      "paragraph2": "Our team follows global orthodontic trends and uses the latest technology to provide every patient with a perfect smile with minimal discomfort and maximum results."
+    },
+    "cta": {
+      "title": "Book Your Appointment Today",
+      "description": "Discover how a beautiful smile can transform your confidence. Trust your orthodontic treatment to Dental House professionals.",
+      "button": "Contact Us"
+    }
+  },
+  "prosthetics": {
+    "breadcrumbs": {
+      "title": "Prosthetics",
+      "home": "Home",
+      "services": "Our Services",
+      "current": "Prosthetics"
+    },
+    "hero": {
+      "title": "Dental Prosthetics",
+      "description": "Prosthetics restore functionality, aesthetics, and confidence. Our team uses modern materials and precise technology to create crowns, bridges, and dentures that perfectly match your smile."
+    },
+    "section1": {
+      "title": "Crowns and bridges for a natural look and durability",
+      "paragraph1": "Ceramic and zirconia crowns are designed to fully replicate the natural appearance of teeth.",
+      "paragraph2": "Our clinic uses digital planning and precise impressions to achieve aesthetically perfect and functional results.",
+      "list1": "Metal-free and zirconia crowns",
+      "list2": "Bridges for replacing missing teeth",
+      "list3": "Aesthetic smile reconstruction",
+      "list4": "CAD/CAM digital fabrication of prosthetic work"
+    },
+    "services": [
+      {
+        "title": "Cast Post and Core",
+        "description":
+          "A custom-made metal post and core used to strengthen a tooth after endodontic treatment, providing a stable foundation for a crown and long-term durability."
+      },
+      {
+        "title": "Porcelain-Fused-to-Metal Crown",
+        "description":
+          "A combination of metal strength and ceramic aesthetics, ideal for durable and functional restoration of damaged teeth."
+      },
+      {
+        "title": "Temporary Crown",
+        "description":
+          "A temporary solution that protects the tooth and gums while the permanent crown is being made, maintaining both aesthetics and function."
+      },
+      {
+        "title": "All-Ceramic Crown",
+        "description":
+          "A highly aesthetic crown without a metal base, offering a natural appearance and seamless integration with surrounding teeth."
+      },
+      {
+        "title": "Full Acrylic Denture",
+        "description":
+          "A complete denture used to replace all teeth in the jaw, designed to restore function and provide a natural-looking smile."
+      },
+      {
+        "title": "Partial Acrylic Denture",
+        "description":
+          "A partial denture that replaces multiple missing teeth while preserving the remaining natural teeth."
+      },
+      {
+        "title": "Flipper Denture",
+        "description":
+          "A temporary partial denture used as a quick and practical solution until a permanent prosthetic restoration is made."
+      },
+      {
+        "title": "Cast Metal Partial Denture",
+        "description":
+          "A metal-based partial denture offering high stability and durability, with improved fit and greater patient comfort."
+      },
+      {
+        "title": "Attachment",
+        "description":
+          "A precision retention element that provides stable and aesthetically discreet connection of a denture to existing teeth."
+      },
+      {
+        "title": "Milled Crown",
+        "description":
+          "A high-precision crown made using CAD/CAM technology, ensuring optimal fit and long-lasting performance."
+      },
+      {
+        "title": "Denture Relining",
+        "description":
+          "Adjustment of the inner surface of a denture to improve fit and comfort after changes in the jaw structure."
+      },
+      {
+        "title": "Denture Repair",
+        "description":
+          "Repair of damaged or broken dentures to restore their function and usability."
+      },
+      {
+        "title": "Addition of Tooth to Denture",
+        "description":
+          "Adding an extra tooth to an existing denture after tooth loss, without the need to create a new denture."
+      },
+      {
+        "title": "Removal of Old Crown or Bridge",
+        "description":
+          "Safe removal of worn-out prosthetic work while preserving the tooth structure for further treatment."
+      },
+      {
+        "title": "Biodental Plastic Denture",
+        "description":
+          "A modern flexible denture made from biocompatible material, highly comfortable and aesthetically discreet."
+      }
+    ],
+    "section2": {
+      "title": "Complete and partial dentures",
+      "paragraph1": "When a larger number of teeth are missing, dentures provide a practical and aesthetic solution.",
+      "paragraph2": "Each denture is individually crafted according to your needs to ensure stability, functionality, and aesthetic harmony."
+    },
+    "cta": {
+      "title": "Schedule your appointment today",
+      "description": "Discover how much your smile can transform your appearance and confidence.",
+      "button": "Contact us"
+    }
+  },
+  "implantology": {
+    "breadcrumbs": {
+      "title": "Implantology",
+      "home": "Home",
+      "services": "Our Services",
+      "current": "Implantology"
+    },
+    "hero": {
+      "title": "Implantology",
+      "description": "Implantology is the most advanced method to replace missing teeth. Dental implants provide a permanent solution that looks, functions, and feels like a natural tooth."
+    },
+    "section1": {
+      "title": "Modern solution for missing teeth",
+      "paragraph1": "A dental implant is a titanium screw inserted into the jawbone that acts as an artificial tooth root. A crown is then placed on top to fully replace the natural tooth in function and appearance.",
+      "paragraph2": "Today, implantology allows missing teeth to be replaced quickly, painlessly, and long-term, with minimal invasiveness and high success rate.",
+      "list1": "Natural tooth function and appearance",
+      "list2": "No need to grind adjacent teeth",
+      "list3": "Durable and stable solution",
+      "list4": "Painless and safe procedure",
+      "list5": "Increased confidence and chewing comfort"
+    },
+    "section2": {
+      "title": "Implant placement and recovery process",
+      "paragraph1": "Implant placement is a precise and painless procedure performed under local anesthesia. After placement, the implant naturally fuses with the bone over several weeks.",
+      "paragraph2": "Afterwards, the abutment and crown are placed, resulting in a fully functional and aesthetically perfect tooth. The whole process is supervised by our experts.",
+      "paragraph3": "Implants do not require special care — regular hygiene and dental check-ups ensure longevity and stability."
+    },
+    "cta": {
+      "title": "Restore function and your smile with dental implants",
+      "description": "Our team of implantology specialists provides safe, fast, and aesthetically flawless solutions for every case of tooth loss.",
+      "button": "Contact us"
+    }
+  },
+  "teethWhitening": {
+      "breadcrumbs": {
+        "title": "Teeth Whitening",
+        "home": "Home",
+        "services": "Our Services",
+        "current": "Teeth Whitening"
+      },
+      "hero": {
+        "title": "Teeth Whitening",
+        "description": "Teeth whitening is one of the most sought-after cosmetic treatments, restoring your smile’s natural shine and freshness. Using modern, safe methods, teeth can be lightened several shades without damaging enamel."
+      },
+      "section1": {
+        "title": "Restore Your Smile’s Natural Glow",
+        "paragraph1": "Our team uses the latest techniques and materials for teeth whitening — safe, effective, and completely painless. Prior to treatment, a detailed examination and professional cleaning are performed to ensure even and optimal results.",
+        "paragraph2": "We offer two types of treatments: in-office whitening with LED light and at-home whitening with custom trays. Both approaches provide long-lasting results and adapt to your needs.",
+        "list1": "Visible results after just one session",
+        "list2": "No enamel damage or gum irritation",
+        "list3": "Painless and pleasant procedure",
+        "list4": "Possibility of at-home whitening under expert supervision",
+        "list5": "Naturally white teeth and a confident smile"
+      },
+      "section2": {
+        "title": "Long-Lasting Results and Professional Care",
+        "paragraph1": "The whitening effect lasts 12 to 24 months depending on your habits. To maintain whiteness, avoid dark drinks, smoking, and follow regular dental check-ups.",
+        "paragraph2": "Teeth whitening is completely safe — the products we use are clinically tested and do not damage enamel. Our goal is for you to achieve naturally white teeth without an artificial look.",
+        "paragraph3": "At the Dental House clinic, every treatment is personalized. Our specialists ensure the process is comfortable, safe, and results in a smile you’ll love."
+      },
+      "cta": {
+        "title": "Book Your Appointment Today",
+        "description": "Discover how a smile can change your appearance and confidence. Trust the Dental House experts for professional teeth whitening.",
+        "button": "Contact Us"
+      }
+    },
+    "estetics": {
+      "breadcrumbs": {
+        "title": "Aesthetic Dentistry",
+        "home": "Home",
+        "services": "Our Services",
+        "current": "Prosthodontics"
+      },
+      "hero": {
+        "title": "Aesthetic Dentistry",
+        "description": "Aesthetic dentistry allows a perfect balance between the health and beauty of your smile. Using modern materials and precise techniques, we create a natural look that restores confidence and lasts for years."
+      },
+      "services": [
+        {
+          "title": "In-Office Teeth Whitening",
+          "description": "A fast and effective professional teeth whitening treatment performed in the clinic, with gum protection and minimal sensitivity, for a bright and natural-looking smile."
+        },
+        {
+          "title": "At-Home Teeth Whitening",
+          "description": "A safe and comfortable at-home whitening method using custom-made trays and gels for gradual and controlled teeth brightening."
+        },
+        {
+          "title": "Tooth Jewelry (Crystal)",
+          "description": "An elegant and discreet tooth decoration using crystal gems, adding a touch of sophistication and shine to your smile without damaging the tooth."
+        },
+        {
+          "title": "Hyaluronic Filler – 1 ml",
+          "description": "A safe and precise application of hyaluronic filler for lip enhancement, wrinkle reduction, and facial contouring with natural-looking results."
+        },
+        {
+          "title": "Botox – 3 Areas",
+          "description": "An aesthetic Botox treatment for relaxing expression lines on the forehead, between the eyebrows, and around the eyes, for a refreshed and youthful appearance."
+        }
+      ],
+      "cta": {
+        "title": "Book Your Appointment Today",
+        "description": "Discover how a smile can transform your appearance and boost your confidence.",
+        "button": "Contact Us"
+      }
+    },
+  "preventive": {
+    "breadcrumbs": {
+      "title": "Pediatric and Preventive Dentistry",
+      "home": "Home",
+      "services": "Our Services",
+      "current": "Pediatric and Preventive Dentistry"
+    },
+    "hero": {
+      "title": "Pediatric and Preventive Dentistry",
+      "description": "Pediatric and preventive dentistry preserves the health and proper development of children's teeth. Through modern cleaning methods, fluoride treatments, and preventive care, we ensure a natural and healthy smile that lasts and boosts confidence."
+    },
+    "services": [
+      {
+        "title": "Filling on Primary Tooth",
+        "description": "Safe and careful filling of a damaged primary tooth using composite material, preserving the natural tooth and gum health."
+      },
+      {
+        "title": "Endodontic Therapy on Primary Teeth",
+        "description": "Root canal treatment for primary teeth to preserve them until natural replacement by permanent teeth, with minimal discomfort."
+      },
+      {
+        "title": "Fissure Sealant on Primary Teeth",
+        "description": "Preventive protection of the chewing surfaces of primary teeth with a special sealant, reducing the risk of cavities and tooth damage."
+      },
+      {
+        "title": "Ultrasonic Cleaning and Polishing",
+        "description": "Ultrasonic cleaning and gentle polishing to remove plaque and tartar, maintaining the health and shine of primary teeth."
+      },
+      {
+        "title": "Fluoride Treatment",
+        "description": "Application of fluoride to strengthen enamel and prevent cavities in children, performed safely and in a controlled manner."
+      },
+      {
+        "title": "Extraction of Primary Tooth",
+        "description": "Painless and safe removal of a primary tooth when necessary, with minimal discomfort and careful monitoring of the healing process."
+      },
+      {
+        "title": "Late Cancellation Fee",
+        "description": "A fee applied for last-minute appointment cancellations, helping ensure better scheduling and care for all patients."
+      }
+    ],
+    "cta": {
+      "title": "Book Your Appointment Today",
+      "description": "Discover how a smile can transform your appearance and boost your confidence.",
+      "button": "Contact Us"
+    }
+  },
+  "surgery": {
+    "breadcrumbs": {
+      "title": "Surgery and Implants",
+      "home": "Home",
+      "services": "Our Services",
+      "current": "Surgery and Implants"
+    },
+    "hero": {
+      "title": "Surgery and Implants"
+    },
+    "services": [
+      {
+        "title": "Tooth Extraction",
+        "description": "Safe and careful removal of a tooth with minimal discomfort, preserving the surrounding healthy structures."
+      },
+      {
+        "title": "Extraction of Retained Roots and Teeth",
+        "description": "Removal of remaining roots or partially preserved teeth to prevent infections and damage to surrounding tissues."
+      },
+      {
+        "title": "Extraction of Impacted Wisdom or Canine Teeth",
+        "description": "Surgical removal of impacted teeth that have not properly erupted, performed in a controlled and safe manner."
+      },
+      {
+        "title": "Complex Extraction of Impacted Teeth",
+        "description": "Complicated surgical removal of teeth that are fully or partially trapped in the jaw, with minimal discomfort."
+      },
+      {
+        "title": "Canine Exposure with Bracket Placement",
+        "description": "Preparation and exposure of canine teeth for orthodontic treatment, including bracket placement for controlled tooth movement."
+      },
+      {
+        "title": "Flap Surgery",
+        "description": "Surgical intervention on the gums to access a tooth or bone, with careful bleeding control and optimal healing."
+      },
+      {
+        "title": "Apicoectomy",
+        "description": "Precise surgical removal of the tip of a tooth root to preserve the remaining tooth and prevent infection."
+      },
+      {
+        "title": "Ridge Leveling",
+        "description": "Shaping the jawbone to prepare for prosthetic work or implants, ensuring an even and aesthetically pleasing ridge."
+      },
+      {
+        "title": "Complicated Wisdom Tooth Extraction",
+        "description": "Surgical removal of problematic wisdom teeth that may be partially impacted or misaligned."
+      },
+      {
+        "title": "Tooth Extraction Near Nerve or Sinus",
+        "description": "Specially careful surgical procedure for teeth close to nerves or sinuses, minimizing the risk of complications."
+      },
+      {
+        "title": "BIO OSS and Collagen Membrane",
+        "description": "Use of biomaterials for bone augmentation and collagen membranes to promote faster and higher-quality healing after surgery."
+      },
+      {
+        "title": "Frenectomy",
+        "description": "Surgical removal or shortening of oral or lingual frenula to improve oral function and prevent dental problems."
+      },
+      {
+        "title": "Cyst Removal",
+        "description": "Safe removal of cystic formations in the jaw to preserve surrounding bone and teeth."
+      },
+      {
+        "title": "Gingivectomy per Tooth",
+        "description": "Precise removal or shaping of gum tissue to improve the aesthetics and oral health of individual teeth."
+      },
+      {
+        "title": "Dental Implant",
+        "description": "Placement of a dental implant as a permanent solution for a missing tooth, ensuring optimal function and smile aesthetics."
+      }
+    ],
+    "cta": {
+      "title": "Book Your Appointment Today",
+      "description": "Discover how a smile can transform your appearance and boost your confidence. Leave your teeth whitening to the experts at Dental House clinic.",
+      "button": "Contact Us"
+    }
+  },
+  "interestingFacts": {
+    "breadcrumbs": {
+      "title": "Interesting Facts",
+      "home": "Home",
+      "services": "Our Services",
+      "current": "Interesting Facts"
+    },
+    "hero": {
+      "title": "Interesting Facts"
+    },
+    "paragraph1": "Many patients postpone visiting the dentist until a problem becomes serious, even though modern dentistry today offers fast, painless, and long-lasting solutions. When it comes to dental fillings, the choice of material plays a crucial role in both function and appearance. In the past, amalgam fillings were widely used due to their durability, but they were highly visible because of their dark color. As a result, many patients felt self-conscious about their smile.",
+    "paragraph2": "Today, the situation is completely different.",
+    "paragraph3": "Composite (white) fillings allow the tooth to be restored in a way that makes the filling almost invisible. After treatment, patients regain a natural-looking smile without visible signs of dental work.",
+    "paragraph4": "For cases requiring even higher precision and durability, ceramic fillings and inlay/onlay restorations are used. These are custom-made in a dental laboratory and represent a premium level of dental restoration — ideal for patients who want maximum aesthetics and long-term stability.",
+    "title": "Composite & Ceramic Fillings",
+    "comparationTitle": "Before treatment:",
+    "item1": "pain or sensitivity to hot/cold",
+    "item2": "visible damaged or dark fillings",
+    "item3": "lack of confidence when smiling",
+    "item4": "reduced chewing function",
+    "comparationTitle2": "After treatment:",
+    "item5": "natural and aesthetic smile",
+    "item6": "fully functional tooth",
+    "item7": "long-term protection against decay",
+    "item8": "improved self-confidence",
+    "paragraph5": "Modern materials and techniques allow well-done restorations to last 10–15 years or even longer with proper oral hygiene and regular dental check-ups.",
+    "paragraph6": "The goal of modern dentistry is not just to “fix a tooth”, but to restore natural appearance, function, and confidence in everyday life."
+  },
+    "categories": {
+    "opsta": "General Dentistry",
+    "ortodoncija": "Orthodontics",
+    "protetika": "Prosthetics",
+    "implantologija": "Implantology",
+    "beljenje": "Teeth Whitening"
+  },
+  "services": {
+    "categories": "Categories",
+    "service": "Service",
+    "price": "Price",
+    "scrollTop": "Back to top",
+    "services": [
+      {
+        "id": "oral-diseases",
+        "title": "Oral Diseases",
+        "icon": "/images/icons/teeths-dental.png",
+        "items": [
+          { "name": "Composite filling-1 surface", "price": 4500 },
+          { "name": "Composite filling-2 surfaces", "price": 5000 },
+          { "name": "Composite filling-MOD", "price": 5500 },
+          { "name": "Composite filling with metal/FRC post", "price": 8000 },
+          { "name": "Composite veneer", "price": 8000 },
+          { "name": "Deep cleaning + air polishing", "price": 5000 },
+          { "name": "Periodontal pocket treatment-1 tooth", "price": 3500 },
+          { "name": "Interseans treatment", "price": 3000 },
+          { "name": "Incision, drainage, first aid", "price": 50 },
+          { "name": "Endodontic therapy-1 canal (teeth 1-3)", "price": 80 },
+          { "name": "Endodontic therapy-2 canals (teeth 4-5)", "price": 10000 },
+          { "name": "Endodontic therapy-3,4 canals (teeth 6-8)", "price": 12000 },
+          { "name": "Causal therapy of periodontopathy-1 jaw", "price": 18000 },
+          { "name": "Endodontic phase", "price": 4000 },
+          { "name": "Ceramic inlay/onlay", "price": 20000 }
+        ]
+      },
+      {
+        "id": "prosthetics",
+        "title": "Prosthetics",
+        "icon": "/images/icons/teeths-prothetics.png",
+        "items": [
+          { "name": "Cast post", "price": 12000 },
+          { "name": "Metal-ceramic crown", "price": 14000 },
+          { "name": "Metal-ceramic crown on implant", "price": 24000 },
+          { "name": "Temporary crown made in-office", "price": 2000 },
+          { "name": "Temporary PMMA crown", "price": 4000 },
+          { "name": "All-ceramic crown", "price": 26000 },
+          { "name": "All-ceramic crown on implant", "price": 35000 },
+          { "name": "Full acrylic denture-both jaws", "price": 65000 },
+          { "name": "Full acrylic denture-1 jaw", "price": 35000 },
+          { "name": "Partial acrylic denture", "price": 30000 },
+          { "name": "Clip denture", "price": 12000 },
+          { "name": "Skeletal Vizil denture", "price": 53000 },
+          { "name": "Attachment-1 piece", "price": 6000 },
+          { "name": "Milled crown", "price": 14000 },
+          { "name": "Direct denture relining", "price": 6000 },
+          { "name": "Indirect denture relining", "price": 12000 },
+          { "name": "Denture repair with impression", "price": 10000 },
+          { "name": "Denture repair without impression", "price": 8000 },
+          { "name": "Adding teeth to denture", "price": 3500 },
+          { "name": "Removal of old crown/bridge", "price": 1500 },
+          { "name": "Biodental plastic denture", "price": 60000 }
+        ]
+      },
+      {
+        "id": "esthetic-dentistry",
+        "title": "Esthetic Dentistry",
+        "icon": "/images/icons/teeths-whitening.png",
+        "items": [
+          { "name": "In-office teeth whitening-both jaws", "price": 30000 },
+          { "name": "Take-home teeth whitening kit-both jaws", "price": 30000 },
+          { "name": "Zirconium dental jewelry", "price": 5000 },
+          { "name": "Hyaluronic filler 1 ml", "price": 24000 },
+          { "name": "Botox 3 regions", "price": 36000 }
+        ]
+      },
+      {
+        "id": "children-preventive",
+        "title": "Children & Preventive Dentistry",
+        "icon": "/images/icons/teeths-children-dentistry.png",
+        "items": [
+          { "name": "Filling on milk tooth-1 surface", "price": 4500 },
+          { "name": "Filling on milk tooth-2-3 surfaces", "price": 5000 },
+          { "name": "Endodontic therapy on milk teeth (1-3)", "price": 8000 },
+          { "name": "Endodontic therapy on milk teeth (4-5)", "price": 10000 },
+          { "name": "Fissure sealing on milk teeth", "price": 3000 },
+          { "name": "Fissure sealing on permanent teeth", "price": 3000 },
+          { "name": "UMN and polishing", "price": 3000 },
+          { "name": "Fluoridation", "price": 4000 },
+          { "name": "Milk tooth extraction", "price": 5000 },
+          { "name": "Late cancellation fee", "price": 4000 }
+        ]
+      },
+      {
+        "id": "orthodontics",
+        "title": "Orthodontics",
+        "icon": "/images/icons/teeths-ortodontics.png",
+        "items": [
+          { "name": "Splint/Bruxism foil", "price": 9000 },
+          { "name": "Myobrace mobile appliance", "price": 30000 },
+          { "name": "Invisalign aligner", "price": 120000 },
+          { "name": "Fixed orthodontic appliance", "price": 76000 },
+          { "name": "Orthodontic analysis", "price": 6000 },
+          { "name": "Fixed Damon appliance", "price": 140000 }
+        ]
+      },
+      {
+        "id": "surgery-implants",
+        "title": "Surgery & Implants",
+        "icon": "/images/icons/teeths-implantology.png",
+        "items": [
+          { "name": "Routine tooth extraction", "price": 5000 },
+          { "name": "Complicated extraction", "price": 8000 },
+          { "name": "Extraction of retained roots & teeth-surgery", "price": 12000 },
+          { "name": "Extraction of impacted wisdom/eye teeth", "price": 18000 },
+          { "name": "Difficult extraction of impacted teeth", "price": 24000 },
+          { "name": "Canine liberalization with bonding", "price": 18000 },
+          { "name": "Flap surgery per tooth", "price": 6000 },
+          { "name": "Apicotomy-1,2 roots (1-4)", "price": 18000 },
+          { "name": "Apicotomy-3 roots, molars", "price": 24000 },
+          { "name": "Ridge leveling", "price": 24000 },
+          { "name": "Complicated wisdom tooth extraction", "price": 10000 },
+          { "name": "Tooth extraction communicating with nerve or sinus", "price": 30000 },
+          { "name": "BIO OSS & collagen membrane", "price": 36000 },
+          { "name": "Frenectomy", "price": 14000 },
+          { "name": "Cyst extirpation", "price": 24000 },
+          { "name": "Gingivectomy per tooth", "price": 3500 },
+          { "name": "Implant - ALPHA BIO", "price": 65000 }
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Price List",
+    "breadcrumbs": {
+      "home": "Home",
+      "current": "Price List"
+    }
+  },
+  "blogCategories": {
+    "oralna-higijena": {
+      "title": "Oral Hygiene",
+      "excerpt": "Proper oral hygiene is the foundation of a healthy and beautiful smile. Regular brushing prevents plaque buildup, tartar formation, and tooth decay while keeping gums firm and healthy..."
+    },
+    "hrana-za-zdrave-zube": {
+      "title": "Food for Healthy Teeth",
+      "excerpt": "What we eat daily has a major impact on dental and gum health. Some foods strengthen enamel and promote oral health, while others accelerate tooth decay and erosion..."
+    },
+    "vino-i-zubi": {
+      "title": "Wine and Teeth",
+      "excerpt": "A glass of wine can be a pleasant habit with a meal, but few people know that wine, especially red wine, can affect the appearance and health of your teeth..."
+    },
+    "beljenje-zuba": {
+      "title": "Teeth Whitening",
+      "excerpt": "Teeth whitening is one of the most popular aesthetic dental treatments. It provides fast and visible results, refreshes your smile, and boosts confidence..."
+    },
+    "ortodoncija": {
+      "title": "Orthodontics",
+      "excerpt": "Orthodontics is a branch of dentistry focused on correcting the alignment of teeth and jaws. The goal is not only aesthetic but also functional – properly aligned teeth improve chewing..."
+    }
+  },
+   "blogSidebar": {
+    "title": "Blog",
+    "description": "Discover the latest news from the world of dentistry and learn something new about proper dental care.",
+    "recent": "Recently visited articles",
+    "categories": "Categories"
+  },
+  "blogBeljenjeZuba": {
+    "title": "Teeth Whitening",
+    "breadcrumbs": {
+      "home": "Home",
+      "blog": "Blog",
+      "current": "Teeth Whitening"
+    },
+    "published": "Published on",
+    "imageAltMain": "Teeth Whitening",
+    "imageAltSecondary": "Proper Teeth Cleaning",
+    "content": {
+      "p1": "Teeth whitening is an aesthetic treatment that brightens teeth and improves your smile.",
+      "p2": "There are different whitening methods, including professional treatments at the dentist and home kits.",
+      "p3": "Proper oral hygiene helps maintain the whiteness of your teeth and overall oral health.",
+      "p4": "Avoid foods and drinks that can stain teeth, such as coffee, red wine, and tea.",
+      "p5": "Regular dental check-ups ensure lasting results and healthy teeth."
+    }
+  },
+   "blog-content": {
+        "articles": {
+          "blogImplanti": {
+            "title": "How Much Does a Dental Implant Cost in Belgrade?",
+            "breadcrumbs": {
+              "home": "Home",
+              "blog": "Blog",
+              "current": "Dental Implants"
+            },
+            "dateLabel": "Publication Date",
+            "intro": "Dental implant placement is one of the most reliable and long-lasting solutions for replacing missing teeth. One of the most common questions patients ask is how much a dental implant costs in Belgrade and what factors influence the final treatment price. In this guide, we explain everything you need to know before making a decision.",
+            "sections": [
+              {
+                "heading": "What Is a Dental Implant?",
+                "content": "A dental implant is an artificial tooth root made of biocompatible titanium that is placed into the jawbone. After the healing process, a dental crown is attached to the implant, closely mimicking the appearance and function of a natural tooth."
+              },
+              {
+                "heading": "What Determines the Cost of a Dental Implant?",
+                "content": "The price depends on the implant manufacturer, material quality, the patient's bone condition, the need for additional procedures, and the type of prosthetic restoration placed on the implant."
+              },
+              {
+                "heading": "What Does the Procedure Look Like?",
+                "content": "The process begins with an examination and diagnostics. After treatment planning, the implant is placed under local anesthesia. Following the healing period, a permanent crown is attached."
+              },
+              {
+                "heading": "Is Dental Implant Placement Painful?",
+                "content": "Modern anesthesia techniques make the procedure almost completely painless. After treatment, mild discomfort may occur but usually subsides within a few days."
+              },
+              {
+                "heading": "How Long Does Recovery Take?",
+                "content": "Most patients return to their daily activities the following day. Complete integration of the implant with the bone takes several months and is crucial for treatment success."
+              },
+              {
+                "heading": "Who Is a Candidate for a Dental Implant?",
+                "content": "Most adults with good overall health and sufficient bone volume can be candidates for implant therapy. The final assessment is made by a dentist after an examination."
+              },
+              {
+                "heading": "Benefits of Dental Implants",
+                "content": "Dental implants provide a natural appearance, chewing stability, preservation of jawbone structure, and a long-term solution that can last for decades with proper oral hygiene."
+              }
+            ],
+            "faqTitle": "Frequently asked questions",
+            "faq": [
+              {
+                "question": "How Long Does Dental Implant Placement Take?",
+                "answer": "The procedure itself usually takes between 30 and 60 minutes, depending on the complexity of the case."
+              },
+              {
+                "question": "Can a Dental Implant Last a Lifetime?",
+                "answer": "With proper oral hygiene and regular check-ups, a dental implant can last for several decades."
+              },
+              {
+                "question": "Can Everyone Get a Dental Implant?",
+                "answer": "Most adults are candidates, but an examination is necessary to evaluate bone condition and oral health."
+              }
+            ],
+            "conclusionTitle": "Conclusion",
+            "conclusion": "Dental implants are a modern, aesthetically pleasing, and long-lasting solution for replacing missing teeth. If you would like to find out whether you are a candidate for implant therapy, schedule an examination and consultation with our team.",
+            "seo": {
+              "metaTitle": "How Much Does a Dental Implant Cost in Belgrade? | Dental House",
+              "metaDescription": "Learn what affects the cost of dental implants, how the procedure is performed, recovery time, and the benefits of implant therapy.",
+              "keywords": [
+                "dental implant",
+                "implants belgrade",
+                "implant cost",
+                "implant placement",
+                "implantology",
+                "dentist belgrade"
+              ]
+            }
+          },
+          "blogKarijes": {
+            "title": "Tooth Decay – How Does It Develop and How Can It Be Prevented?",
+            "breadcrumbs": {
+              "home": "Home",
+              "blog": "Blog",
+              "current": "Tooth Decay"
+            },
+            "dateLabel": "Publication Date",
+            "intro": "Tooth decay is one of the most common dental diseases affecting both children and adults. It develops gradually and, if left untreated, can lead to serious problems such as infections, pain, and tooth loss.",
+            "sections": [
+              {
+                "heading": "How Does Tooth Decay Develop?",
+                "content": "Tooth decay develops when bacteria break down food particles and produce acids that damage tooth enamel."
+              },
+              {
+                "heading": "What Are the First Symptoms?",
+                "content": "Early symptoms may include sensitivity to cold, hot, or sweet foods and drinks, as well as dark spots appearing on the tooth surface."
+              },
+              {
+                "heading": "How Can Tooth Decay Be Prevented?",
+                "content": "Regular brushing, flossing, fluoride toothpaste, and routine dental check-ups significantly reduce the risk of tooth decay."
+              },
+              {
+                "heading": "How Is Tooth Decay Treated?",
+                "content": "Treatment depends on the stage of damage. In early stages, removing the decay and placing a filling is usually sufficient."
+              }
+            ],
+            "faqTitle": "Frequently asked questions",
+            "faq": [
+              {
+                "question": "Can Tooth Decay Go Away on Its Own?",
+                "answer": "No. Tooth decay does not heal on its own and requires dental treatment."
+              },
+              {
+                "question": "How Often Should I Visit the Dentist?",
+                "answer": "A routine dental examination every six months is recommended."
+              }
+            ],
+            "conclusionTitle": "Conclusion",
+            "conclusion": "Early diagnosis and regular check-ups are the best way to preserve the health of your teeth.",
+            "seo": {
+              "metaTitle": "Tooth Decay – Symptoms, Causes and Treatment | Dental House",
+              "metaDescription": "Learn how tooth decay develops, what the early symptoms are, and how to prevent and treat it successfully.",
+              "keywords": [
+                "tooth decay",
+                "dental caries",
+                "tooth decay treatment",
+                "fillings",
+                "dentist belgrade"
+              ]
+            }
+          },
+          "blogOrtodoncija": {
+            "title": "Braces – When Is the Right Time for Orthodontic Treatment?",
+            "breadcrumbs": {
+              "home": "Home",
+              "blog": "Blog",
+              "current": "Orthodontics"
+            },
+            "dateLabel": "Publication Date",
+            "intro": "Misaligned teeth can affect both the appearance of your smile and the function of your bite. Orthodontic treatment helps straighten teeth and improve oral health.",
+            "sections": [
+              {
+                "heading": "Why Is Orthodontic Treatment Important?",
+                "content": "Properly aligned teeth make oral hygiene easier and reduce the risk of tooth decay and gum disease."
+              },
+              {
+                "heading": "When Is the Best Time for Braces?",
+                "content": "Although treatment often begins during childhood, adults can also successfully undergo orthodontic treatment with braces."
+              },
+              {
+                "heading": "How Long Does Treatment Last?",
+                "content": "The duration depends on the complexity of the case and typically ranges from 12 to 24 months."
+              },
+              {
+                "heading": "How Should Braces Be Maintained?",
+                "content": "Regular cleaning and dental check-ups according to your orthodontist’s recommendations are essential."
+              }
+            ],
+            "faqTitle": "Frequently asked questions",
+            "faq": [
+              {
+                "question": "Do Braces Hurt?",
+                "answer": "Some mild discomfort may occur after placement, but it usually subsides within a few days."
+              },
+              {
+                "question": "Can Adults Wear Braces?",
+                "answer": "Yes, orthodontic treatment is highly successful in adult patients as well."
+              }
+            ],
+            "conclusionTitle": "Conclusion",
+            "conclusion": "A healthy bite and a beautiful smile are investments in both your health and self-confidence.",
+            "seo": {
+              "metaTitle": "Braces and Orthodontic Treatment | Dental House",
+              "metaDescription": "Learn when the right time is for braces and how long orthodontic treatment typically lasts.",
+              "keywords": [
+                "braces",
+                "orthodontics",
+                "teeth straightening",
+                "orthodontist",
+                "braces belgrade"
+              ]
+            }
+          },
+          "blogIzbeljivanje": {
+            "title": "Professional Teeth Whitening – Everything You Need to Know",
+            "breadcrumbs": {
+              "home": "Home",
+              "blog": "Blog",
+              "current": "Teeth Whitening"
+            },
+            "dateLabel": "Publication Date",
+            "intro": "White and bright teeth are among the most requested cosmetic dental treatments. Professional teeth whitening provides noticeable results in a safe and effective way.",
+            "sections": [
+              {
+                "heading": "What Is Professional Teeth Whitening?",
+                "content": "A procedure that uses specialized gels and modern techniques to remove stains and discoloration from the tooth surface."
+              },
+              {
+                "heading": "Who Is a Candidate for Treatment?",
+                "content": "Most people with healthy teeth and gums are suitable candidates for teeth whitening."
+              },
+              {
+                "heading": "How Long Do the Results Last?",
+                "content": "Results may last from one to several years depending on lifestyle habits."
+              },
+              {
+                "heading": "How Can You Maintain the Results?",
+                "content": "Avoiding tobacco, coffee, and strongly colored beverages helps prolong the whitening effect."
+              }
+            ],
+            "faqTitle": "Frequently asked questions",
+            "faq": [
+              {
+                "question": "Does Teeth Whitening Damage Teeth?",
+                "answer": "Professional teeth whitening performed under the supervision of a dentist is considered safe."
+              },
+              {
+                "question": "How Many Shades Can Teeth Become Whiter?",
+                "answer": "Results depend on the initial tooth color and individual patient characteristics."
+              }
+            ],
+            "conclusionTitle": "Conclusion",
+            "conclusion": "Professional teeth whitening is a fast and effective way to enhance the appearance of your smile.",
+            "seo": {
+              "metaTitle": "Professional Teeth Whitening | Dental House",
+              "metaDescription": "Learn how professional teeth whitening works and how long the results can last.",
+              "keywords": [
+                "teeth whitening",
+                "white teeth",
+                "cosmetic dentistry",
+                "hollywood smile",
+                "dentist belgrade"
+              ]
+            }
+          }
+        },
+
+      "categories": {
+        "implanti": {
+          "title": "Implants"
+        },
+        "karijes": {
+          "title": "Cavities"
+        },
+        "ortodoncija": {
+          "title": "Orthodontics"
+        },
+        "izbeljivanje": {
+          "title": "Teeth Whitening"
+        }
+      },
+      "sidebar": {
+        "title": "Blog",
+        "description": "Learn the latest information from the world of dentistry.",
+        "categories": "Categories",
+        "recent": "Recently viewed articles"
+      }
+    },
+  "contact": {
+    "title": "Contact",
+    "breadcrumbs": {
+      "home": "Home",
+      "contact": "Contact"
+    },
+    "heroText": "Call us, send a message or visit our clinic — we are always happy to help.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email address",
+      "subject": "Subject",
+      "subjectPlaceholder": "Enter message subject",
+      "message": "Message",
+      "messagePlaceholder": "Enter your message",
+      "submit": "Send",
+      "sending": "Sending..."
+    },
+    "toast": "Message has been sent!",
+    "clinic": {
+      "phone": "+381 63 288 289",
+      "email": "office@dentalhouse.rs",
+      "address": "Golsvordijeva 14, Belgrade, Serbia"
+    },
+    "map": {
+      "title": "Clinic location",
+      "aria": "Map showing Dental House clinic location"
+    },
+    "validation": {
+      "invalidEmail": "Please enter a valid email address.",
+      "messageTooShort": "Message must be at least {min} characters long.",
+      "messageTooLong": "Message can contain a maximum of {max} characters."
+    }
+  },
+  "blogPage": {
+    "title": "Blog",
+    "breadcrumbs": {
+      "home": "Home",
+      "blog": "Blog"
+    },
+    "readMore": "Read More +",
+    "posts": {
+      "implanti": {
+        "title": "What Is a Dental Implant?",
+        "excerpt": "A dental implant is an artificial tooth root made of biocompatible titanium that is placed into the jawbone. After the healing process, a dental crown is attached to the implant, closely mimicking the appearance and function of a natural tooth."
+      },
+      "karijes": {
+        "title": "How Does Tooth Decay Develop?",
+        "excerpt": "Tooth decay develops when bacteria break down food particles and produce acids that damage tooth enamel."
+      },
+      "ortodoncija": {
+        "title": "Why Is Orthodontic Treatment Important?",
+        "excerpt": "Properly aligned teeth make oral hygiene easier and reduce the risk of tooth decay and gum disease."
+      },
+      "izbeljivanje": {
+        "title": "What Is Professional Teeth Whitening?",
+        "excerpt": "A procedure that uses specialized gels and modern techniques to remove stains and discoloration from the tooth surface."
+      }
+    }
+  },
+  "doctor1Detail": {
+    "breadcrumbs": {
+      "title": "Doctor Details",
+      "home": "Home",
+      "services": "Our Services",
+      "current": "Doctor Details"
+    },
+    "section1": {
+      "title": "A Healthy Smile Starts with Basic Care",
+      "paragraph1": "General dentistry includes diagnosis, treatment and prevention of dental diseases.",
+      "paragraph2": "Regular checkups and professional cleaning help prevent serious issues.",
+      "paragraph3": "We use digital X-rays for precise diagnosis and treatment planning.",
+      "benefits": [
+        "Composite fillings",
+        "Tartar removal and polishing",
+        "Caries and gum treatment",
+        "Restoration of damaged teeth",
+        "Preventive examinations"
+      ]
+    }
+  },
+  "doctorPage": {
+    "doctors": [
+      {
+        "id": "dr-pavle-jovanovic",
+        "image": "/images/webp/dr-pavle.webp",
+        "doctor": {
+          "name": "Dr Pavle Jovanović",
+          "title": "Dentist"
+        },
+        "intro": {
+          "title": "Dr Pavle Jovanović",
+          "breadcrumbHome": "Home",
+          "breadcrumbCurrent": "Doctor"
+        },
+        "hero": {
+          "description": "Dr Pavle Jovanović is a specialist in implantology, oral surgery, and prosthetics.",
+          "cta": "Book an appointment"
+        },
+        "aboutDoctor": {
+          "title": "Get to know the doctor",
+          "paragraph1": "Dr Pavle Jovanović has extensive experience in implantology and aesthetic smile reconstruction.",
+          "paragraph2": "He is dedicated to providing precise and comfortable treatments for all patients.",
+          "paragraph3": "Known for his expertise in oral surgery and prosthetics, he ensures high-quality dental care."
+        },
+        "cta": {
+          "title": "Schedule a dental appointment",
+          "description": "Book your visit with Dr Pavle Jovanović for professional dental care.",
+          "button": "Contact us"
+        },
+        "rating": "5"
+      },
+      {
+        "id": "dr-ana-popovic",
+        "image": "/images/webp/dr-ana.webp",
+        "doctor": {
+          "name": "Dr Ana Popović",
+          "title": "Orthodontist"
+        },
+        "intro": {
+          "title": "Dr Ana Popović",
+          "breadcrumbHome": "Home",
+          "breadcrumbCurrent": "Doctor"
+        },
+        "hero": {
+          "description": "Dr Ana Popović specializes in orthodontics and aesthetics, focusing on both children and adults.",
+          "cta": "Book an appointment"
+        },
+        "aboutDoctor": {
+          "title": "Get to know the doctor",
+          "paragraph1": "Dr Ana Popović is committed to functional and aesthetic orthodontics.",
+          "paragraph2": "She provides tailored treatments for children and adults with modern orthodontic appliances.",
+          "paragraph3": "Her goal is to ensure beautiful smiles and healthy dental function."
+        },
+        "cta": {
+          "title": "Schedule a dental appointment",
+          "description": "Book your visit with Dr Ana Popović for professional orthodontic care.",
+          "button": "Contact us"
+        },
+        "rating": "5"
+      },
+      {
+        "id": "dr-jelena-orozovic",
+        "image": "/images/webp/dr-jelena.webp",
+        "doctor": {
+          "name": "Dr Jelena Orozović",
+          "title": "Conservative Dentistry Specialist"
+        },
+        "intro": {
+          "title": "Dr Jelena Orozović",
+          "breadcrumbHome": "Home",
+          "breadcrumbCurrent": "Doctor"
+        },
+        "hero": {
+          "description": "Dr Jelena Orozović specializes in conservative dentistry and endodontics.",
+          "cta": "Book an appointment"
+        },
+        "aboutDoctor": {
+          "title": "Get to know the doctor",
+          "paragraph1": "Dr Jelena Orozović has over 10 years of experience in pediatric and adult conservative dentistry.",
+          "paragraph2": "She is dedicated to preserving natural teeth and providing high-quality endodontic treatments.",
+          "paragraph3": "Her focus is patient comfort and long-term dental health."
+        },
+        "cta": {
+          "title": "Schedule a dental appointment",
+          "description": "Book your visit with Dr Jelena Orozović for professional conservative dental care.",
+          "button": "Contact us"
+        },
+        "rating": "5"
+      },
+      {
+        "id": "dr-vanja-bojić",
+        "image": "/images/webp/dr-vanja.webp",
+        "doctor": {
+          "name": "Dr Vanja Bojić",
+          "title": "Pediatric Dentist"
+        },
+        "intro": {
+          "title": "Dr Vanja Bojić",
+          "breadcrumbHome": "Home",
+          "breadcrumbCurrent": "Doctor"
+        },
+        "hero": {
+          "description": "Dr Vanja Bojić is a pediatric dentistry specialist, caring for children’s oral health.",
+          "cta": "Book an appointment"
+        },
+        "aboutDoctor": {
+          "title": "Get to know the doctor",
+          "paragraph1": "Dr Vanja Bojić has over 10 years of experience in pediatric dentistry.",
+          "paragraph2": "She is dedicated to gentle and effective treatments for children.",
+          "paragraph3": "Her focus is preventive care and educating children on oral hygiene."
+        },
+        "cta": {
+          "title": "Schedule a dental appointment",
+          "description": "Book your visit with Dr Vanja Bojić for expert pediatric dental care.",
+          "button": "Contact us"
+        },
+        "rating": "5",
+        "hobbies": {
+          "images": [
+            "/images/webp/vanja-lifestyle.webp",
+            "/images/webp/vanja-lifestyle-2.webp"
+          ]
+        }
+      },
+    {
+      "id": "dr-ana-masojevic",
+      "image": "/images/webp/dr-ana-masojevic.webp",
+      "doctor": {
+        "name": "Dr Ana Mašojević",
+        "title": "Orthodontics Specialist"
+      },
+      "intro": {
+        "title": "Dr Ana Mašojević",
+        "breadcrumbHome": "Home",
+        "breadcrumbCurrent": "Doctor"
+      },
+      "hero": {
+        "description": "The fulfillment of my dream began with enrolling in Dental School, and living that dream means working as a specialist in pediatric and preventive dentistry.",
+        "cta": "Book an appointment"
+      },
+      "aboutDoctor": {
+        "title": "Get to know the doctor better",
+        "paragraph1": "Dentistry is my true calling, and orthodontics is the field that inspires me the most.",
+        "paragraph2": "The most beautiful part of this job is the moment when joint effort results in a healthy, properly aligned and radiant smile.",
+        "paragraph3": "I also bring creativity and precision from my practice into my hobbies - photography and cooking, which I enjoy in my free time."
+      },
+      "cta": {
+        "title": "Book a dental check-up",
+        "description": "",
+        "button": "Contact us"
+      },
+      "rating": "5",
+      "hobbies": {
+        "images": [
+          "/images/webp/ana-masojevic-lifestyle.webp"
+        ]
+      }
+    },
+      {
+        "id": "dr-filip-despotovic",
+        "image": "/images/webp/dr-filip.webp",
+        "doctor": {
+          "name": "Dr Filip Despotović",
+          "title": "Oral Surgery & Implantology Specialist"
+        },
+        "intro": {
+          "title": "Dr Filip Despotović",
+          "breadcrumbHome": "Home",
+          "breadcrumbCurrent": "Doctor"
+        },
+        "hero": {
+          "description": "Dr Filip Despotović specializes in oral surgery and implantology.",
+          "cta": "Book an appointment"
+        },
+        "aboutDoctor": {
+          "title": "Get to know the doctor",
+          "paragraph1": "Dr Filip Despotović has over 10 years of experience in oral surgery and implantology.",
+          "paragraph2": "He provides precise and safe treatments, including advanced implant procedures.",
+          "paragraph3": "His priority is patient comfort and long-term oral health."
+        },
+        "cta": {
+          "title": "Schedule a dental appointment",
+          "description": "Book your visit with Dr Filip Despotović for expert oral surgery and implant care.",
+          "button": "Contact us"
+        },
+        "rating": "5"
+      }
+    ]
+  }
+}
+}

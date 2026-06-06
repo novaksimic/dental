@@ -1,0 +1,1493 @@
+{
+  "topBar": {
+    "phone": "+381 60 684 0500",
+    "email": "dentalhouse.bg@gmail.com",
+    "workingHours": "09:00–17:00",
+    "bookAppointment": "Zakažite pregled",
+    "languages": { 
+      "sr": "Srpski", 
+      "en": "Engleski", 
+      "ru": "Ruski" 
+    }
+  },
+  "header": {
+    "brand": "Dental House Vračar",
+    "nav": {
+      "home": "Početna",
+      "about": "O nama",
+      "services": "Usluge i zanimljivosti",
+      "priceList": "Cenovnik",
+      "contact": "Kontakt",
+      "servicesDropdown": {
+        "general": "Konzervativna stomatologija",
+        "prosthetics": "Protetika",
+        "estetic": "Estetska stomatologija",
+        "preventive": "Decija i preventivna stomatologija",
+        "orthodontics": "Ortodoncija",
+        "implants": "Hirurgija i implanti",
+        "facts": "Zanimljivosti"
+      }
+    }
+  },
+  "footer": {
+    "contactTitle": "Kontakt",
+    "address": "Golsvordijeva 14, Beograd",
+    "phone": "+381 60 684 0500",
+    "email": "dentalhouse.bg@gmail.com",
+    "instagram": "dentalhouse.vracar",
+    "servicesTitle": "Naše usluge",
+    "services": {
+      "orthodontics": "Ortodoncija",
+      "implantology": "Implantologija",
+      "surgery": "Oralna hirurgija",
+      "aesthetic": "Estetska stomatologija"
+    },
+    "workingHoursTitle": "Radno vreme",
+    "workingHours": {
+      "monFri": "Pon – Pet: 11:00 – 19:00"
+    },
+    "copyright": "© {year} Dental House Vračar. Sva prava zadržana."
+  },
+  "heroSlider": [
+    {
+      "title": "Osmeh koji zaslužujete",
+      "subtitle": "Stručna stomatološka nega za celu porodicu",
+      "buttonText": "Zakazite pregled",
+      "buttonLink": "/kontakt"
+    },
+    {
+      "title": "Vaš osmeh, naša briga",
+      "subtitle": "Poverenje gradimo kroz kvalitet i posvećenost",
+      "buttonText": "Saznajte više",
+      "buttonLink": "/usluge"
+    },
+    {
+      "title": "Savremena oprema i stručan tim",
+      "subtitle": "Naša ordinacija koristi najnoviju tehnologiju",
+      "buttonText": "Saznajte više",
+      "buttonLink": "/o-nama"
+    }
+  ],
+    "aboutUs": {
+    "title": "Više o stomatološkoj ordinaciji",
+    "paragraph1": "Dobrodošli u Dental House Vračar, stomatološku ordinaciju smeštenu u srcu Vračara, gde svaki osmeh dobija posebnu pažnju. Naša priča počinje vizijom jednog posvećenog stručnjaka koji je svojim trudom i dugogodišnjim iskustvom stvorio mesto gde stomatologija postaje prijatno iskustvo.Svaki detalj ordinacije je pažljivo osmišljen i uređen rukama našeg osnivača, čineći ga toplim, modernim i prijatnim za sve naše pacijente.",
+    "paragraph2": "U Dental House Vračar verujemo u savremenu, estetsku i bezbolnu stomatologiju, kombinujući najnovije tehnologijesa individuelnim pristupom svakom pacijentu. Naš cilj je ne samo da lečimo zube, već da stvaramo osmehe koji odrćavaju vašu ličnost i samopouzdanje.",
+    "paragraph3": "Naša misija je jednostavna, ali moćna `Stvaramo odmeh kakav zaslužujete`. Svaki osmeh koji izlazi iz naše ordinacije rezultat je pažnje, preciznosti i strasti koji ulažemo u svaki tretman. Bilo da je u pitanju estetska korekcija, preventivna nega ili složenija stomatološka intervencija, ovde ćete uvek biti u sigurnim rukama i u prijatnom ambijentu.",
+    "paragraph4": "Pridružite nam se i otkrijete kako mederni pristup stomatologiji može učiniti da poseta zubara bude iskustvo koje volite.",
+    "stats": {
+      "experienceYears": "35+",
+      "experienceLabel": "Godina iskustva",
+      "countries": "2+",
+      "countriesLabel": "Države",
+      "smilesRestored": "952+",
+      "smilesLabel": "Vraćena osmeha"
+    },
+    "services": {
+      "oral-diseases": "Konzervativna stomatologija",
+      "prosthetics": "Protetika",
+      "aesteticDentistry": "Estetska stomatologija",
+      "pediatricDentistry": "Dečija i preventivna stomatologija",
+      "orthodontics": "Ortodoncija za odrasle i decu",
+      "surgery": "Hirurgija i implenti"
+    },
+    "ctaButton": "Zakažite pregled"
+  },
+  "servicesSection": {
+    "cardsBgAlt": "Naše usluge pozadina",
+
+    "service1": {
+      "icon": "/images/icons/opsta-stomatologija.svg",
+      "title": "Konzervativna stomatologija",
+      "description": "Konzervativna stomatologija fokusirana je na očuvanje prirodnih zuba kroz prevenciju, dijagnostiku i lečenje karijesa. Savremenim metodama i kvalitetnim materijalima obnavljamo oštećene zube, vraćajući im funkcionalnost, čvrstinu i prirodan izgled.",
+      "link": "/usluge/sekcije/konzervativna-stomatologija"
+    },
+    "service2": {
+      "icon": "/images/icons/ortodoncija.svg",
+      "title": "Protetika",
+      "description": "Protetika se bavi nadoknadom izgubljenih zuba i obnavljanjem funkcije i estetike Vašeg osmeha. Koristimo savremene metode i materijale kako bismo izradili krunice, mostove, proteze i implantoprotetska rešenja koja su prilagođena Vašim potrebama. Naš cilj je da Vam omogućimo prirodan izgled i udobnost, uz vraćanje pravilne funkcije žvakanja i govora. Bilo da je reč o jednom zubu ili potpunoj rekonstrukciji, pružamo individualni pristup kako biste ponovo mogli da se osmehujete sa samopouzdanjem.",
+      "link": "/usluge/sekcije/protetika"
+    },
+    "service3": {
+      "icon": "/images/icons/implantologija.svg",
+      "title": "Estetska stomatologija",
+      "description": "Estetska stomatologija omogućava savršen balans između zdravlja i lepote osmeha. Koristeći savremene materijale i precizne tehnike, stvaramo prirodan izgled koji vraća samopouzdanje i traje godinama.",
+      "link": "/usluge/sekcije/estetska-stomatologija"
+    },
+    "service4": {
+      "icon": "/images/icons/beljenje-zuba.svg",
+      "title": "Decija i preventivna stomatologija",
+      "description": "Dečija i preventivna stomatologija čuva zdravlje i pravilan razvoj zuba kod dece. Kroz savremene metode čišćenja, fluorizacije i preventivnih tretmana, osiguravamo prirodan i zdrav osmeh koji traje i donosi samopouzdanje.",
+      "link": "/usluge/sekcije/decija-i-preventivna-stomatologija"
+    },
+    "service5": {
+      "icon": "/images/icons/ortodoncija.svg",
+      "title": "Ortodoncija",
+      "description": "Ispravljanje zuba i ugriza pomoću fiksnih ili providnih aparata. Ispravljanje zuba i ugriza pomoću fiksnih ili providnih aparata.",
+      "link": "/usluge/sekcije/ortodoncija"
+    },
+    "service6": {
+      "icon": "/images/icons/ortodoncija.svg",
+      "title": "Hirurgija i implanti",
+      "description": "Oralna hirurgija i ugradnja implantata obuhvataju savremene i bezbolne zahvate za rešavanje složenijih stomatoloških problema i trajnu nadoknadu izgubljenih zuba. Uz preciznu dijagnostiku i vrhunsku tehnologiju, omogućavamo sigurne intervencije, brz oporavak i prirodan izgled i funkcionalnost vašeg osmeha.",
+      "link": "/usluge/sekcije/hirurgija-i-implanti"
+    },
+    "service7": {
+      "icon": "/images/icons/zanimljivosti.svg",
+      "title": "Zanimljivosti",
+      "description": "",
+      "link": "/usluge/sekcije/zanimljivosti"
+    },
+    "title": "Najviši standardi u očuvanju zdravlja zuba",
+    "author": "Dr Novak Simić",
+    "introParagraph": "Ordinacija Dental House je osnovana 2005. godine u Beogradu, a kroz više od 18 godina postojanja razvila je visoke standarde u stomatološkoj praksi. Naša ordinacija koristi najsavremeniju opremu i tehnologiju, što nam omogućava da pacijentima pružimo bezbedne i efikasne tretmane po najvišim standardima stomatologije. Sarađujemo sa vrhunskim profesorima i specijalistima, pružajući pacijentima najnaprednije stomatološke procedure.",
+    
+    "advantages1": "18+ godina iskustva",
+    "advantages2": "Najmodernija oprema i tehnologija",
+    "advantages3": "Bezbedni i efikasni tretmani",
+    "advantages4": "Saradnja sa vrhunskim specijalistima",
+
+    "equipment1Text": "Vrhunski hirurški laserski i piezo uređaji",
+    "equipment1Icon": "/images/icons/estetska-stomatologija.svg",
+    "equipment2Text": "Intraoralna kamera i digitalno snimanje zuba",
+    "equipment2Icon": "/images/icons/endodoncija.svg",
+    "equipment3Text": "Sterilizacija po najstrožim standardima",
+    "equipment3Icon": "/images/icons/implantologija.svg",
+    "equipment4Text": "Najmoderniji digitalni dijagnostički uređaji",
+    "equipment4Icon": "/images/icons/ortodoncija.svg",
+
+    "priceText": "Ovde možete pogledati detaljan cenovnik naših stomatoloških usluga.",
+    "priceButton": "Cenovnik usluga",
+    "allServicesLink": "Pogledajte sve usluge",
+    "more": "VIŠE +"
+  },
+  "team": {
+  "intro": {
+    "title": "O nama",
+    "breadcrumbHome": "Početna",
+    "breadcrumbCurrent": "O nama"
+  },
+  "title": "Upoznajte naše doktore",
+  "doctor1": {
+    "name": "Dr spec. Pavle Jovanović",
+    "specialties": [
+      "Implantologija",
+      "Oralna hirurgija",
+      "Protetika"
+    ],
+    "bio": "Specijalista implantologije i oralne hirurgije sa više godina iskustva. Fokusira se na rekonstrukciju osmeha i postavljanje dentalnih implantata, kombinujući funkcionalnost i estetiku.",
+    "rating": "5"
+  },
+  "doctor2": {
+    "name": "Dr Ana Popović",
+    "specialties": [
+      "Ortodoncija",
+      "Estetika"
+    ],
+    "bio": "Stručnjak za ortodonciju i estetsku stomatologiju sa više godina iskustva. Posvećena korekciji položaja zuba i stvaranju prirodnog, skladnog osmeha kod dece i odraslih.",
+    "rating": "5"
+  },
+  "doctor3": {
+    "name": "Dr Jelena Orozović",
+    "specialties": [
+      "Konzervativna stomatologija",
+      "Endodoncija"
+    ],
+    "bio": "Specijalista konzervativne stomatologije i endodoncije sa više godina iskustva. Stručna u lečenju zubnog karijesa i složenih endodontskih tretmana, uz očuvanje prirodne zubne strukture.",
+    "rating": "5"
+  },
+  "doctor4": {
+    "name": "Dr Vanja Bojić",
+    "specialties": [
+      "Dečiji stomatolog"
+    ],
+    "bio": "Specijalista pedijatrijske stomatologije sa više godina iskustva. Posvećena zdravlju i pravilnom razvoju mlečnih i stalnih zuba kod dece, sa fokusom na bezbolne i edukativne tretmane.",
+    "rating": "5"
+  },
+  "doctor5": {
+    "name": "Dr Ana Mašojević",
+    "specialties": [
+      "Ortodoncija"
+    ],
+    "bio": "Stručnjak za konzervativnu i estetsku stomatologiju sa više godina iskustva. Fokusira se na očuvanje prirodnih zuba i kreiranje lepih, skladnih osmeha koristeći savremene tehnike.",
+    "rating": "5"
+  },
+  "doctor6": {
+    "name": "Dr Filip Despotović",
+    "specialties": [
+      "Oralna hirurgija",
+      "Implantologija"
+    ],
+    "bio": "Specijalista oralne hirurgije i implantologije sa više godina iskustva. Stručan u hirurškim procedurama i postavljanju implantata, sa ciljem dugotrajne funkcionalnosti i estetike pacijenata.",
+    "rating": "5"
+  },
+    "more": "VIŠE +",
+    "bookButton": "Zakažite pregled"
+},
+  "testimonials": {
+      "title": "Utisci naših pacijenata",
+      "testimonial1": {
+        "text": "Sjajna usluga i izuzetno ljubazno osoblje!",
+        "name": "Ana Petrović",
+        "role": "Stomatolog",
+        "rating": "4"
+      },
+      "testimonial2": {
+        "text": "Profesionalni i stručni stomatolozi.",
+        "name": "Marko Jovanović",
+        "role": "Stomatolog",
+        "rating": "5"
+      },
+      "testimonial3": {
+        "text": "Topla preporuka svima!",
+        "name": "Jelena Ilić",
+        "role": "Stomatolog",
+        "rating": "3"
+      }
+  },
+  "blog": {
+    "header": "BLOG",
+    "title": "Svet stomatologije",
+    "subtitle": "Pročitajte najnovije vesti iz oblasti stomatologije",
+    "post1": {
+      "date": "31. MAJ 2026.",
+      "title": "Implanti",
+      "description": "Zubni implant predstavlja veštački koren zuba izrađen od biokompatibilnog titanijuma koji se ugrađuje u kost vilice. Nakon procesa zarastanja na implant se postavlja zubna krunica koja po izgledu i funkciji veoma verno oponaša prirodan zub.",
+      "slug": "implanti",
+      "image": "/images/webp/zubni-implant.webp"
+    },
+    "post2": {
+      "date": "01. JUN 2026.",
+      "title": "Karijes",
+      "description": "Karijes nastaje usled delovanja bakterija koje razgrađuju ostatke hrane i stvaraju kiseline koje oštećuju zubnu gleđ.",
+      "slug": "karijes",
+      "image": "/images/webp/karijes.webp"
+    },
+    "post3": {
+      "date": "01. JUN 2026.",
+      "title": "Ortodoncija",
+      "description": "Pravilno postavljeni zubi olakšavaju održavanje higijene i smanjuju rizik od karijesa i bolesti desni." ,
+      "slug": "ortodoncija",
+      "image": "/images/webp/ortodoncija-blog-img.webp"
+    },
+    "post4": {
+      "date": "01. JUN 2026.",
+      "title": "Izbeljivanje zuba",
+      "description": "Postupak koji koristi specijalne gelove i savremene tehnike za uklanjanje pigmentacija sa površine zuba.",
+      "slug": "izbeljivanje",
+      "image": "/images/webp/beljenje-zuba.webp"
+    },
+    "more": "VIŠE +"
+  },
+  "aboutPage": {
+    "intro": {
+      "title": "O nama",
+      "breadcrumbHome": "Početna",
+      "breadcrumbCurrent": "O nama"
+    },
+    "team": {
+      "title": "Upoznajte naš tim lekara"
+    },
+    "services": {
+      "title": "Naše usluge",
+      "0": { "name": "Oralna hirurgija", "icon": "⚕️" },
+      "1": { "name": "Implantologija", "icon": "🦷" },
+      "2": { "name": "Protetika", "icon": "🪥" },
+      "3": { "name": "Dečija stomatologija", "icon": "👶" },
+      "4": { "name": "Parodontologija", "icon": "❤️" },
+      "5": { "name": "Ortodoncija za decu i odrasle", "icon": "😁" },
+      "6": { "name": "Beljenje zuba", "icon": "✨" },
+      "7": { "name": "Ortopan digitalno snimanje zuba", "icon": "📸" }
+    },
+    "doctors": {
+      "0": {
+        "name": "Dr. Ana Petrović",
+        "specialties": [
+          "Opšta stomatologija",
+          "Preventiva",
+          "Estetska stomatologija"
+        ],
+        "bio": "Specijalista stomatološke protetike sa preko 15 godina iskustva. Ana je završila Stomatološki fakultet Univerziteta u Beogradu i usavršavala se u oblasti estetske i funkcionalne protetike u inostranstvu. Tokom svoje karijere kombinuje tradicionalne metode sa savremenim tehnologijama kako bi pacijentima pružila najmodernija rešenja za njihov osmeh. Posebno je posvećena individualnom pristupu i stvaranju prirodnih, dugotrajnih rezultata. Redovno učestvuje na međunarodnim kongresima i edukacijama.",
+        "rating": 5,
+        "img": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=500&q=80"
+      },
+      "1": {
+        "name": "Dr. Marko Jovanović",
+        "specialties": [
+          "Ortodoncija",
+          "Aparati za decu i odrasle"
+        ],
+        "bio": "Specijalista oralne hirurgije sa više od 12 godina kliničkog iskustva. Marko je poznat po preciznom radu i smirenom pristupu, što složene zahvate čini sigurnijim i prijatnijim za pacijente. Završio je brojna usavršavanja iz oblasti implantologije i minimalno invazivne hirurgije. Posebno je fokusiran na rehabilitaciju složenih slučajeva i dugoročne rezultate. Aktivno učestvuje u edukaciji mladih stomatologa.",
+        "rating": 4,
+        "img": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=500&q=80"
+      },
+      "2": {
+        "name": "Dr. Ivana Kostić",
+        "specialties": [
+          "Estetska stomatologija",
+          "Keramičke fasete",
+          "Rekonstrukcija osmeha"
+        ],
+        "bio": "Specijalista pedijatrijske stomatologije sa više od 10 godina iskustva u radu sa decom i adolescentima. Ivana je poznata po svom strpljenju i sposobnosti da mališane oslobodi straha od zubara. Njena filozofija se zasniva na preventivnoj stomatologiji i edukaciji roditelja kako bi deca razvila zdrave navike koje traju ceo život. Takođe se bavi ortodontskim tretmanima kod dece i estetskim rekonstrukcijama osmeha.",
+        "rating": 5,
+        "img": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=500&q=80"
+      }
+    }
+  },
+  "generalDentistry": {
+    "breadcrumbs": {
+      "title": "O nama",
+      "home": "Početna",
+      "services": "Naše usluge",
+      "current": "Konzervativna stomatologija"
+    },
+    "hero": {
+      "title": "Konzervativna stomatologija",
+      "description": "Naša ordinacija pruža kompletne usluge opšte stomatologije — od redovnih pregleda i ispuna do napredne dijagnostike i prevencije."
+    },
+    "section1": {
+      "title": "Zdrav osmeh počinje osnovnom negom",
+      "paragraph1": "Konzervativna stomatologija obuhvata dijagnostiku, lečenje i prevenciju bolesti zuba.",
+      "paragraph2": "Redovni pregledi i profesionalno čišćenje pomažu u sprečavanju ozbiljnih problema.",
+      "paragraph3": "Koristimo digitalne rendgenske snimke za preciznu dijagnostiku i planiranje terapije.",
+      "benefits": [
+        "Kompozitne plombe",
+        "Uklanjanje kamenca i poliranje",
+        "Lečenje karijesa i desni",
+        "Rekonstrukcija oštećenih zuba",
+        "Preventivni pregledi"
+      ]
+    },
+    "services": [
+      {
+        "title": "Kompozitna plomba",
+        "description": "Savremena estetska plomba za rekonstrukciju oštećenog zuba i vraćanje prirodnog izgleda."
+      },
+      {
+        "title": "Kompozitna plomba sa metalnim/FRC kočićem",
+        "description": "Koristi se za ojačavanje oslabljenih zuba i produženje njihove dugotrajnosti."
+      },
+      {
+        "title": "Kompozitna faseta",
+        "description": "Estetsko poboljšanje oblika i boje prednjih zuba."
+      },
+      {
+        "title": "Ultrazvučno čišćenje i Air Flow poliranje",
+        "description": "Uklanjanje kamenca i naslaga uz ultrazvuk i Air Flow tehnologiju."
+      },
+      {
+        "title": "Terapija parodontalnih džepova",
+        "description": "Lečenje desni i zaustavljanje parodontalne bolesti."
+      },
+      {
+        "title": "Medikamentozna terapija između tretmana",
+        "description": "Privremena terapija za smanjenje infekcije između tretmana."
+      },
+      {
+        "title": "Incizija i drenaža",
+        "description": "Hitna intervencija za uklanjanje infekcije i bola."
+      },
+      {
+        "title": "Endodontska terapija",
+        "description": "Lečenje kanala korena zuba radi očuvanja prirodnog zuba."
+      },
+      {
+        "title": "Kauzalna parodontalna terapija",
+        "description": "Terapija uzroka bolesti desni za dugoročno zdravlje."
+      },
+      {
+        "title": "Endodontska faza",
+        "description": "Detaljna priprema i obrada kanala korena."
+      },
+      {
+        "title": "Keramički inlej/onlej",
+        "description": "Precizne estetske nadoknade za oštećene zube."
+      }
+    ],
+    "section2": {
+      "title": "Bezbolni tretmani i udobnost",
+      "paragraph1": "Koristimo savremenu anesteziju za maksimalnu udobnost.",
+      "paragraph2": "Posebna pažnja posvećena je pacijentima sa strahom.",
+      "paragraph3": "Cilj nam je dugoročno oralno zdravlje i poverenje."
+    },
+    "cta": {
+      "title": "Zakažite pregled",
+      "description": "Otkrijte kako zdrav osmeh menja samopouzdanje.",
+      "button": "Kontaktirajte nas"
+    }
+  },
+
+   "orthodontics": {
+    "breadcrumbs": {
+      "title": "Ortodoncija",
+      "home": "Početna",
+      "services": "Naše usluge",
+      "current": "Ortodoncija"
+    },
+    "hero": {
+      "title": "Ortodoncija",
+      "description": "Ortodoncija je grana stomatologije koja se bavi ispravljanjem položaja zuba i vilica kako bi se postigao pravilan zagrižaj i skladan osmeh. Savremeni ortodontski tretmani omogućavaju diskretne, udobne i efikasne korekcije za pacijente svih uzrasta."
+    },
+    "section1": {
+      "title": "Savršeno poređani zubi – ključ zdravog osmeha",
+      "paragraph1": "Pravilno poređani zubi nisu važni samo za estetiku, već i za zdravlje usne duplje. Ortodontska terapija olakšava održavanje higijene, smanjuje rizik od karijesa i bolesti desni, i poboljšava funkciju žvakanja i govora.",
+      "paragraph2": "Naša klinika primenjuje individualne planove terapije koristeći digitalnu analizu i 3D snimanje. Svaka terapija je pažljivo prilagođena pacijentu – detetu, tinejdžeru ili odrasloj osobi.",
+      "benefits": [
+        "Tradicionalne metalne i estetske keramičke proteze",
+        "Providni aligneri za diskretnu korekciju",
+        "Digitalno planiranje terapije i 3D snimanje",
+        "Praćenje napretka i prilagođavanje terapije",
+        "Uputstva za oralnu higijenu tokom terapije"
+      ]
+    },
+    "services": [
+      {
+        "title": "Udlaga za bruksizam",
+        "description": "Individualno izrađena udlaga koja štiti zube od trošenja izazvanog škripanjem i stiskanjem zuba, uz smanjenje bolova u vilici i napetosti."
+      },
+      {
+        "title": "Myobrace – mobilni aparat",
+        "description": "Neinvazivni mobilni aparat za decu koji pomaže pravilnom razvoju vilice i disanja, podržavajući pravilan rast zuba i vilica."
+      },
+      {
+        "title": "Invisalign – providni aligneri",
+        "description": "Estetski providni aligneri za postepeno ispravljanje zuba bez fiksne proteze, uz maksimalnu udobnost i diskretnost."
+      },
+      {
+        "title": "Fiksna ortodontska proteza",
+        "description": "Klasična fiksna proteza koja omogućava precizno ispravljanje položaja zuba i vilica za postizanje savršenog osmeha."
+      },
+      {
+        "title": "Ortodontska analiza",
+        "description": "Detaljna procena zuba, vilice i zagrižaja uz pomoć savremene dijagnostike za planiranje efikasne terapije."
+      },
+      {
+        "title": "Damon fiksna proteza",
+        "description": "Napredni Damon sistem fiksne proteze sa niskim trenjem za brže i udobnije pomeranje zuba uz minimalnu nelagodnost."
+      }
+    ],
+    "section2": {
+      "title": "Savremene metode i maksimalna udobnost",
+      "paragraph1": "Savremena ortodoncija omogućava bezbolne i diskretne korekcije položaja zuba. Providni aparati i napredne tehnike obezbeđuju udobnost i brže rezultate.",
+      "paragraph2": "Naš tim prati svetske ortodontske trendove i koristi najnoviju tehnologiju kako bi svaki pacijent dobio savršen osmeh uz minimalnu nelagodnost i maksimalne rezultate."
+    },
+    "cta": {
+      "title": "Zakažite pregled danas",
+      "description": "Otkrijte kako lep osmeh može promeniti vaše samopouzdanje. Prepustite ortodontsku terapiju stručnjacima Dental House ordinacije.",
+      "button": "Kontaktirajte nas"
+    }
+  },
+
+  "prosthetics": {
+    "breadcrumbs": {
+      "title": "Protetika",
+      "home": "Početna",
+      "services": "Naše usluge",
+      "current": "Protetika"
+    },
+    "hero": {
+      "title": "Stomatološka protetika",
+      "description": "Protetika vraća funkciju, estetiku i samopouzdanje. Naš tim koristi savremene materijale i preciznu tehnologiju za izradu krunica, mostova i proteza koje savršeno odgovaraju vašem osmehu."
+    },
+    "section1": {
+      "title": "Krunice i mostovi za prirodan izgled i dugotrajnost",
+      "paragraph1": "Keramičke i cirkonijumske krunice dizajnirane su da u potpunosti imitiraju prirodan izgled zuba.",
+      "paragraph2": "Koristimo digitalno planiranje i precizne otiske za estetski i funkcionalno savršene rezultate.",
+      "list1": "Bezmetalne i cirkonijumske krunice",
+      "list2": "Mostovi za nadoknadu nedostajućih zuba",
+      "list3": "Estetska rekonstrukcija osmeha",
+      "list4": "CAD/CAM digitalna izrada"
+    },
+    "services": [
+      {
+        "title": "Liveni kočić i nadogradnja",
+        "description": "Individualno izrađen metalni kočić koji ojačava zub nakon endodontske terapije i obezbeđuje stabilnu osnovu za krunicu."
+      },
+      {
+        "title": "Metalokeramička krunica",
+        "description": "Kombinacija metalne čvrstoće i keramike za dugotrajnu i estetsku rekonstrukciju zuba."
+      },
+      {
+        "title": "Privremena krunica",
+        "description": "Privremeno rešenje koje štiti zub i održava estetiku dok se izrađuje trajna krunica."
+      },
+      {
+        "title": "Bezmetalna krunica",
+        "description": "Visoko estetska krunica bez metalne osnove koja pruža prirodan izgled."
+      },
+      {
+        "title": "Totalna akrilatna proteza",
+        "description": "Proteza koja nadoknađuje sve zube u vilici i vraća funkciju i estetiku osmeha."
+      },
+      {
+        "title": "Parcijalna akrilatna proteza",
+        "description": "Delimična proteza koja nadoknađuje više zuba uz očuvanje preostalih prirodnih zuba."
+      },
+      {
+        "title": "Fliper proteza",
+        "description": "Privremena proteza kao brzo rešenje do izrade trajne nadoknade."
+      },
+      {
+        "title": "Livena skeletirana proteza",
+        "description": "Metalna proteza sa visokom stabilnošću i udobnošću nošenja."
+      },
+      {
+        "title": "Attachment",
+        "description": "Precizni retencioni element za stabilno i diskretno fiksiranje proteze."
+      },
+      {
+        "title": "Mlevena krunica",
+        "description": "Precizno izrađena krunica pomoću CAD/CAM tehnologije."
+      },
+      {
+        "title": "Reliniranje proteze",
+        "description": "Prilagođavanje unutrašnje površine proteze radi boljeg prijanjanja."
+      },
+      {
+        "title": "Popravka proteze",
+        "description": "Popravka oštećenih proteza i vraćanje funkcionalnosti."
+      },
+      {
+        "title": "Dodavanje zuba na protezu",
+        "description": "Dodavanje novog zuba na postojeću protezu bez izrade nove."
+      },
+      {
+        "title": "Skidanje stare krunice ili mosta",
+        "description": "Bezbedno uklanjanje stare protetske nadoknade uz očuvanje zuba."
+      },
+      {
+        "title": "Biodentalna fleksibilna proteza",
+        "description": "Savremena fleksibilna proteza od biokompatibilnog materijala."
+      }
+    ],
+    "section2": {
+      "title": "Kompletne i parcijalne proteze",
+      "paragraph1": "Kod većeg gubitka zuba proteze predstavljaju praktično i estetsko rešenje.",
+      "paragraph2": "Svaka proteza se izrađuje individualno kako bi obezbedila stabilnost i udobnost."
+    },
+    "cta": {
+      "title": "Zakažite pregled danas",
+      "description": "Otkrijte koliko vaš osmeh može promeniti vaš izgled i samopouzdanje.",
+      "button": "Kontaktirajte nas"
+    }
+  },
+
+  "implantology": {
+    "breadcrumbs": {
+      "title": "Implantologija",
+      "home": "Početna",
+      "services": "Naše usluge",
+      "current": "Implantologija"
+    },
+    "hero": {
+      "title": "Implantologija",
+      "description": "Implantologija je najnaprednija metoda nadoknade izgubljenih zuba. Dentalni implanti predstavljaju trajno rešenje koje izgleda, funkcioniše i oseća se kao prirodan zub."
+    },
+    "section1": {
+      "title": "Savremeno rešenje za nedostatak zuba",
+      "paragraph1": "Dentalni implant je titanijumski šraf koji se ugrađuje u kost i zamenjuje koren zuba.",
+      "paragraph2": "Na njega se postavlja krunica koja vraća funkciju i estetiku.",
+      "list1": "Prirodan izgled i funkcija",
+      "list2": "Bez brušenja susednih zuba",
+      "list3": "Dugotrajno rešenje",
+      "list4": "Bezbolna procedura",
+      "list5": "Povećano samopouzdanje"
+    },
+    "section2": {
+      "title": "Proces ugradnje i oporavka",
+      "paragraph1": "Implant se ugrađuje u lokalnoj anesteziji i spaja sa kosti.",
+      "paragraph2": "Nakon zarastanja postavlja se krunica i dobija se funkcionalan zub.",
+      "paragraph3": "Redovna higijena obezbeđuje dugotrajnost implantata."
+    },
+    "cta": {
+      "title": "Vratite funkciju i osmeh uz implantate",
+      "description": "Sigurna i moderna implantologija za svaki slučaj.",
+      "button": "Kontaktirajte nas"
+    }
+  },
+
+  "teethWhitening": {
+    "breadcrumbs": {
+      "title": "Izbeljivanje zuba",
+      "home": "Početna",
+      "services": "Naše usluge",
+      "current": "Izbeljivanje zuba"
+    },
+    "hero": {
+      "title": "Izbeljivanje zuba",
+      "description": "Izbeljivanje zuba vraća prirodnu belinu i sjaj osmeha bez oštećenja gleđi."
+    },
+    "section1": {
+      "title": "Vratite sjaj osmehu",
+      "paragraph1": "Koristimo sigurne i savremene metode izbeljivanja zuba.",
+      "paragraph2": "Pre tretmana se radi profesionalno čišćenje zuba.",
+      "list1": "Brzi rezultati",
+      "list2": "Bez oštećenja gleđi",
+      "list3": "Bezbolno",
+      "list4": "Ordinacijsko i kućno izbeljivanje",
+      "list5": "Prirodno bela boja zuba"
+    },
+    "section2": {
+      "title": "Dugotrajni rezultati",
+      "paragraph1": "Efekat traje 12–24 meseca.",
+      "paragraph2": "Postupak je potpuno bezbedan i klinički testiran.",
+      "paragraph3": "Terapija se prilagođava svakom pacijentu."
+    },
+    "cta": {
+      "title": "Zakažite izbeljivanje zuba",
+      "description": "Profesionalno i bezbedno izbeljivanje u ordinaciji.",
+      "button": "Kontaktirajte nas"
+    }
+  },
+
+  "estetics": {
+    "breadcrumbs": {
+      "title": "Estetska stomatologija",
+      "home": "Početna",
+      "services": "Naše usluge",
+      "current": "Estetska stomatologija"
+    },
+    "hero": {
+      "title": "Estetska stomatologija",
+      "description": "Estetska stomatologija omogućava savršen balans između zdravlja i lepote osmeha."
+    },
+    "services": [
+      {
+        "title": "Ordinacijsko izbeljivanje zuba",
+        "description": "Brzo profesionalno izbeljivanje u ordinaciji."
+      },
+      {
+        "title": "Kućno izbeljivanje zuba",
+        "description": "Izbeljivanje pomoću individualnih folija."
+      },
+      {
+        "title": "Zubni kristal",
+        "description": "Diskretni kristal koji se postavlja na zub za estetski efekat."
+      },
+      {
+        "title": "Hijaluronski filer – 1 ml",
+        "description": "Popunjavanje usana i korekcija bora hijaluronom."
+      },
+      {
+        "title": "Botoks – 3 regije",
+        "description": "Ublažavanje mimičkih bora na licu."
+      }
+    ],
+    "cta": {
+      "title": "Zakažite pregled danas",
+      "description": "Unapredite izgled i samopouzdanje.",
+      "button": "Kontaktirajte nas"
+    }
+  },
+
+  "preventive": {
+    "breadcrumbs": {
+      "title": "Dečija i preventivna stomatologija",
+      "home": "Početna",
+      "services": "Naše usluge",
+      "current": "Dečija i preventivna stomatologija"
+    },
+    "hero": {
+      "title": "Dečija i preventivna stomatologija",
+      "description": "Očuvanje zdravlja dečijih zuba kroz preventivne mere i redovne kontrole."
+    },
+    "services": [
+      {
+        "title": "Plomba na mlečnom zubu",
+        "description": "Popravka oštećenog mlečnog zuba."
+      },
+      {
+        "title": "Endodontska terapija mlečnih zuba",
+        "description": "Lečenje kanala mlečnih zuba."
+      },
+      {
+        "title": "Pečaćenje fisura",
+        "description": "Zaštita zuba od karijesa."
+      },
+      {
+        "title": "Ultrazvučno čišćenje",
+        "description": "Uklanjanje kamenca i naslaga."
+      },
+      {
+        "title": "Fluorizacija",
+        "description": "Jačanje gleđi kod dece."
+      },
+      {
+        "title": "Vađenje mlečnog zuba",
+        "description": "Bezbolno vađenje po potrebi."
+      },
+      {
+        "title": "Kasno otkazivanje termina",
+        "description": "Naknada za kasno otkazivanje pregleda."
+      }
+    ],
+    "cta": {
+      "title": "Zakažite pregled za dete",
+      "description": "Briga o zdravom dečijem osmehu.",
+      "button": "Kontaktirajte nas"
+    }
+  },
+
+  "surgery": {
+    "breadcrumbs": {
+      "title": "Oralna hirurgija i implanti",
+      "home": "Početna",
+      "services": "Naše usluge",
+      "current": "Oralna hirurgija i implanti"
+    },
+    "hero": {
+      "title": "Oralna hirurgija i implanti"
+    },
+    "services": [
+      {
+        "title": "Vađenje zuba",
+        "description": "Bezbedno i bezbolno vađenje zuba."
+      },
+      {
+        "title": "Vađenje zaostalih korenova",
+        "description": "Uklanjanje ostataka korena zuba."
+      },
+      {
+        "title": "Vađenje umnjaka i očnjaka",
+        "description": "Hirurško vađenje impaktiranih zuba."
+      },
+      {
+        "title": "Komplikovano vađenje zuba",
+        "description": "Složenije hirurško uklanjanje zuba."
+      },
+      {
+        "title": "Otvaranje očnjaka",
+        "description": "Priprema za ortodontsku terapiju."
+      },
+      {
+        "title": "Flap operacija",
+        "description": "Hirurški zahvat na desnima."
+      },
+      {
+        "title": "Apikotomija",
+        "description": "Uklanjanje vrha korena zuba."
+      },
+      {
+        "title": "Nivelacija grebena",
+        "description": "Oblikovanje kosti vilice."
+      },
+      {
+        "title": "Vađenje komplikovanih umnjaka",
+        "description": "Složeni hirurški zahvati."
+      },
+      {
+        "title": "Vađenje blizu nerva ili sinusa",
+        "description": "Precizna hirurgija visokog rizika."
+      },
+      {
+        "title": "BIO OSS i membrana",
+        "description": "Materijali za regeneraciju kosti."
+      },
+      {
+        "title": "Frenektomija",
+        "description": "Uklanjanje frenuluma."
+      },
+      {
+        "title": "Uklanjanje cisti",
+        "description": "Hirurško uklanjanje cističnih promena."
+      },
+      {
+        "title": "Gingivektomija",
+        "description": "Oblikovanje gingive."
+      },
+      {
+        "title": "Dentalni implant",
+        "description": "Ugradnja implantata kao trajnog rešenja."
+      }
+    ],
+    "cta": {
+      "title": "Zakažite pregled danas",
+      "description": "Sigurna i precizna oralna hirurgija.",
+      "button": "Kontaktirajte nas"
+    }
+  },
+  "interestingFacts": {
+    "breadcrumbs": {
+      "title": "Zanimljivosti",
+      "home": "Početna",
+      "services": "Naše usluge",
+      "current": "Zanimljivosti"
+    },
+    "hero": {
+      "title": "Zanimljivosti"
+    },
+    "paragraph1": "Mnogi pacijenti odlažu odlazak kod stomatologa sve dok problem ne postane ozbiljan, iako savremena stomatologija danas nudi brza, bezbolna i dugotrajna rešenja. Kada su u pitanju zubne plombe, izbor materijala igra ključnu ulogu kako u funkcionalnosti, tako i u estetici. Nekada su se amalgamske plombe široko koristile zbog svoje izdržljivosti, ali su bile veoma uočljive zbog tamne boje. Zbog toga su se mnogi pacijenti osećali nesigurno prilikom osmeha.",
+    "paragraph2": "Danas je situacija potpuno drugačija.",
+    "paragraph3": "Kompozitne (bele) plombe omogućavaju restauraciju zuba tako da plomba postane gotovo nevidljiva. Nakon tretmana, pacijenti ponovo dobijaju prirodan osmeh bez vidljivih tragova stomatološkog rada.",
+    "paragraph4": "U slučajevima kada su potrebni još veća preciznost i dugotrajnost, koriste se keramičke plombe i inlay/onlay nadoknade. One se izrađuju individualno u zubotehničkoj laboratoriji i predstavljaju premium nivo restauracije zuba — idealno rešenje za pacijente koji žele maksimalnu estetiku i dugoročnu stabilnost.",
+    "title": "Kompozitne i keramičke plombe",
+    "comparationTitle": "Pre tretmana:",  
+    "item1": "bol ili osetljivost na toplo/hladno",
+    "item2": "vidljive oštećene ili tamne plombe",
+    "item3": "nesigurnost prilikom osmeha",
+    "item4": "smanjena funkcija žvakanja", 
+    "comparationTitle2": "Nakon tretmana:",
+    "item5": "prirodan i estetski osmeh",
+    "item6": "potpuno funkcionalan zub",
+    "item7": "dugoročna zaštita od karijesa",
+    "item8": "povećano samopouzdanje",
+    "paragraph5": "Savremeni materijali i tehnike omogućavaju da kvalitetno urađene restauracije traju 10–15 godina ili čak duže uz pravilnu oralnu higijenu i redovne stomatološke kontrole.",
+    "paragraph6": "Cilj moderne stomatologije nije samo da „popravi zub“, već da vrati prirodan izgled, funkciju i samopouzdanje u svakodnevnom životu."
+  },
+  "categories": {
+    "opsta": "Opšta stomatologija",
+    "ortodoncija": "Ortodoncija",
+    "protetika": "Protetika",
+    "implantologija": "Implantologija",
+    "beljenje": "Beljenje zuba"
+  },
+  "services": {
+      "categories": "Kategorije",
+      "service": "Usluga",
+      "price": "Cena",
+      "scrollTop": "Vratite se na vrh",
+      "services": [
+        {
+          "id": "oral-diseases",
+          "title": "Konzervativna stomatologija",
+          "icon": "/images/icons/teeths-dental.png",
+          "items": [
+            { "name": "Kompozitni ispun-1 pov.", "price": 4500 },
+            { "name": "Kompozitni ispun-2 pov.", "price": 5000 },
+            { "name": "Kompozitni ispun-MOD", "price": 5500 },
+            { "name": "Kompozitna plomba sa metalnim/FRC kočićem", "price": 8000 },
+            { "name": "Kompozitna faseta", "price": 8000 },
+            { "name": "UZK-dubinsko čišćenje zuba, peskiranje", "price": 5000 },
+            { "name": "Obrada parodontalnog džepa-1 zub", "price": 3500 },
+            { "name": "Interseansni lek", "price": 3000 },
+            { "name": "Incizija, drenaža, prva pomoć", "price": 5000 },
+            { "name": "Endodonska terapija-1 kanal (zubi 1-3)", "price": 8000 },
+            { "name": "Endodonska terapija-2 kanala (zubi 4-5)", "price": 10000 },
+            { "name": "Endodonska terapija-3,4 kanala (zubi 6-8)", "price": 12000 },
+            { "name": "Kauzalna terapija parodontopatije-1 vilica", "price": 18000 },
+            { "name": "Endodontska faza", "price": 4000 },
+            { "name": "Keramički inlej/onlej", "price": 20000 }
+          ]
+        },
+        {
+          "id": "prosthetics",
+          "title": "Protetika",
+          "icon": "/images/icons/teeths-prothetics.png",
+          "items": [
+            { "name": "Livena nadogradnja", "price": 12000 },
+            { "name": "Metalo-keramička kruna", "price": 14000 },
+            { "name": "Metalo-keramička kruna na implantu", "price": 24000 },
+            { "name": "Privremena kruna izrađena u ordinaciji", "price": 2000 },
+            { "name": "Privremena PMMA kruna", "price": 4000 },
+            { "name": "Bezmetalna kruna", "price": 26000 },
+            { "name": "Bezmetalna kruna na implantu", "price": 35000 },
+            { "name": "Totalna akrilatna proteza-obe vilice", "price": 65000 },
+            { "name": "Totalna akrilatna proteza-1 vilica", "price": 35000 },
+            { "name": "Parcijalna akrilatna proteza", "price": 30000 },
+            { "name": "Žabica", "price": 12000 },
+            { "name": "Skeletirana Vizil proteza", "price": 53000 },
+            { "name": "Atečmen-1 kom.", "price": 6000 },
+            { "name": "Frezovana kruna", "price": 14000 },
+            { "name": "Podlaganje proteze-direktno", "price": 6000 },
+            { "name": "Podlaganje proteze-indirektno", "price": 12000 },
+            { "name": "Reparatura proteze sa otiskom", "price": 10000 },
+            { "name": "Reparatura proteze bez otiska", "price": 8000 },
+            { "name": "Dodavanje zuba u protezu", "price": 3500 },
+            { "name": "Skidanje stare krune/mosta", "price": 1500 },
+            { "name": "Biodental plast proteza", "price": 60000 }
+          ]
+        },
+        {
+          "id": "esthetic-dentistry",
+          "title": "Estetska stomatologija",
+          "icon": "/images/icons/teeths-whitening.png",
+          "items": [
+            { "name": "Izbeljivanje zuba u ordinaciji-obe vilice", "price": 30000 },
+            { "name": "Kućno izbeljivanje zuba-obe vilice", "price": 30000 },
+            { "name": "Cirkon-zubni nakit", "price": 5000 },
+            { "name": "Hijaluronski filer 1 ml", "price": 24000 },
+            { "name": "Botox 3 regije", "price": 36000 }
+          ]
+        },
+        {
+          "id": "children-preventive",
+          "title": "Dečija i preventivna stomatologija",
+          "icon": "/images/icons/teeths-children-dentistry.png",
+          "items": [
+            { "name": "Ispun na mlečnom zubu 1 pov.", "price": 4500 },
+            { "name": "Ispun na mlečnom zubu 2 i 3 površine", "price": 5000 },
+            { "name": "Endo th na mlečnim zubima (1-3)", "price": 8000 },
+            { "name": "Endo th na mlečnim zubima (4-5)", "price": 10000 },
+            { "name": "Zalivanje fisura na mlečnim zubima", "price": 3000 },
+            { "name": "Zalivanje fisura na stalnim zubima", "price": 3000 },
+            { "name": "UMN i poliranje zuba", "price": 3000 },
+            { "name": "Fluorizacija zuba", "price": 4000 },
+            { "name": "Ekstrakcija mlečnog zuba", "price": 5000 },
+            { "name": "Naknada za kasno otkazivanje termina", "price": 4000 }
+          ]
+        },
+        {
+          "id": "orthodontics",
+          "title": "Ortodoncija",
+          "icon": "/images/icons/teeths-ortodontics.png",
+          "items": [
+            { "name": "Splint-folija za bruksizam", "price": 9000 },
+            { "name": "Myobrace-mobilni aparat", "price": 30000 },
+            { "name": "Invisalign-folija za ispravljanje zuba", "price": 120000 },
+            { "name": "Fiksni ortodonski aparat", "price": 76000 },
+            { "name": "Ortodonska analiza", "price": 6000 },
+            { "name": "Fiksni ortodonski aparat Damon", "price": 140000 }
+          ]
+        },
+        {
+          "id": "surgery-implants",
+          "title": "Hirurgija i implanti",
+          "icon": "/images/icons/teeths-implantology.png",
+          "items": [
+            { "name": "Ekstrakcija zuba-rutinska", "price": 5000 },
+            { "name": "Ekstrakcija zuba-komplikovana", "price": 8000 },
+            { "name": "Ekstrakcija zaostalih korenova i zuba-hiruška", "price": 12000 },
+            { "name": "Ekstrakcija impaktiranih umnjaka/očnjaka", "price": 18000 },
+            { "name": "Teška ekstrakcija impaktiranih zuba", "price": 24000 },
+            { "name": "Liberalizacija očnjaka sa lepljenjem bravice", "price": 18000 },
+            { "name": "Režanj operacija –po zubu", "price": 6000 },
+            { "name": "Apikotomija-1,2 korena(1-4)", "price": 18000 },
+            { "name": "Apikotomija-3 korena, molari", "price": 24000 },
+            { "name": "Nivelacija grebena", "price": 24000 },
+            { "name": "Komplikovana ekstrakcija umnjaka", "price": 10000 },
+            { "name": "Ekstrakcija zuba koji komunicira sa nervom ili sinusom", "price": 30000 },
+            { "name": "BIO OSS i kolagena membrana", "price": 36000 },
+            { "name": "Frenektomija", "price": 14000 },
+            { "name": "Ekstirpacija ciste", "price": 24000 },
+            { "name": "Gingivektomija po zubu", "price": 3500 },
+            { "name": "Implant -ALPHA BIO", "price": 65000 }
+          ]
+        }
+      ]
+  },
+  "pricing": {
+    "title": "Cenovnik usluga",
+    "breadcrumbs": {
+      "home": "Početna",
+      "current": "Cenovnik usluga"
+    }
+  },
+  "blog-content": {
+        "articles": {
+            "blogImplanti": {
+                "title": "Koliko košta ugradnja zubnog implanta u Beogradu?",
+                "breadcrumbs": {
+                    "home": "Početna",
+                    "blog": "Blog",
+                    "current": "Zubni implanti"
+                },
+                "dateLabel": "Datum objave",
+                "intro": "Ugradnja zubnog implanta predstavlja jedno od najpouzdanijih i najdugotrajnijih rešenja za nadoknadu izgubljenih zuba. Jedno od najčešćih pitanja pacijenata jeste koliko košta zubni implant u Beogradu i od čega zavisi konačna cena terapije. U ovom vodiču objašnjavamo sve što treba da znate pre donošenja odluke.",
+                "sections": [
+                    {
+                        "heading": "Šta je zubni implant?",
+                        "content": "Zubni implant predstavlja veštački koren zuba izrađen od biokompatibilnog titanijuma koji se ugrađuje u kost vilice. Nakon procesa zarastanja na implant se postavlja zubna krunica koja po izgledu i funkciji veoma verno oponaša prirodan zub."
+                    },
+                    {
+                        "heading": "Od čega zavisi cena zubnog implanta?",
+                        "content": "Cena zavisi od proizvođača implanta, kvaliteta materijala, stanja kosti pacijenta, potrebe za dodatnim procedurama i vrste protetskog rada koji se postavlja na implant."
+                    },
+                    {
+                        "heading": "Kako izgleda procedura ugradnje?",
+                        "content": "Proces počinje pregledom i dijagnostikom. Nakon planiranja terapije implant se ugrađuje u lokalnoj anesteziji. Posle perioda zarastanja postavlja se trajna krunica."
+                    },
+                    {
+                        "heading": "Da li ugradnja implanta boli?",
+                        "content": "Savremene metode anestezije omogućavaju da sama procedura bude gotovo potpuno bezbolna. Nakon zahvata moguća je blaga nelagodnost koja se najčešće povlači za nekoliko dana."
+                    },
+                    {
+                        "heading": "Koliko traje oporavak?",
+                        "content": "Većina pacijenata se vraća svakodnevnim aktivnostima već narednog dana. Potpuno srastanje implanta sa kosti traje nekoliko meseci i predstavlja ključ uspeha terapije."
+                    },
+                    {
+                        "heading": "Ko je kandidat za zubni implant?",
+                        "content": "Većina odraslih osoba koje imaju dobro opšte zdravstveno stanje i dovoljno kosti može biti kandidat za implantološku terapiju. Konačnu procenu daje stomatolog nakon pregleda."
+                    },
+                    {
+                        "heading": "Prednosti zubnih implanta",
+                        "content": "Implanti pružaju prirodan izgled, stabilnost prilikom žvakanja, očuvanje kosti vilice i dugotrajno rešenje koje može trajati decenijama uz pravilnu oralnu higijenu."
+                    }
+                ],
+                "faqTitle": "Često postavljana pitanja",
+                "faq": [
+                    {
+                        "question": "Koliko traje ugradnja zubnog implanta?",
+                        "answer": "Sam zahvat najčešće traje između 30 i 60 minuta, u zavisnosti od složenosti slučaja."
+                    },
+                    {
+                        "question": "Da li implant može da traje ceo život?",
+                        "answer": "Uz pravilnu oralnu higijenu i redovne kontrole, implant može trajati više decenija."
+                    },
+                    {
+                        "question": "Da li svi mogu da ugrade implant?",
+                        "answer": "Većina odraslih osoba jeste kandidat, ali je neophodan pregled kako bi se procenilo stanje kosti i zdravlje usne duplje."
+                    }
+                ],
+                "conclusionTitle": "Zaključak",
+                "conclusion": "Zubni implanti predstavljaju savremeno, estetski prihvatljivo i dugotrajno rešenje za nadoknadu izgubljenih zuba. Ukoliko želite da saznate da li ste kandidat za implantološku terapiju, zakažite pregled i konsultaciju sa našim timom.",
+                "seo": {
+                    "metaTitle": "Koliko košta ugradnja zubnog implanta u Beogradu? | Dental House",
+                    "metaDescription": "Saznajte od čega zavisi cena zubnog implanta, kako izgleda procedura ugradnje, koliko traje oporavak i koje su prednosti implantološke terapije.",
+                    "keywords": [
+                        "zubni implant",
+                        "implanti beograd",
+                        "cena implanta",
+                        "ugradnja implanta",
+                        "implantologija",
+                        "stomatolog beograd"
+                    ]
+                }
+            },
+            "blogKarijes": {
+                "title": "Karijes zuba – kako nastaje i kako ga sprečiti?",
+                "breadcrumbs": {
+                    "home": "Početna",
+                    "blog": "Blog",
+                    "current": "Karijes"
+                },
+                "dateLabel": "Datum objave",
+                "intro": "Karijes predstavlja jedno od najčešćih oboljenja zuba koje pogađa decu i odrasle. Nastaje postepeno, a ukoliko se ne leči na vreme može dovesti do ozbiljnijih problema poput infekcija, bolova i gubitka zuba.",
+                "sections": [
+                    {
+                        "heading": "Kako nastaje karijes?",
+                        "content": "Karijes nastaje usled delovanja bakterija koje razgrađuju ostatke hrane i stvaraju kiseline koje oštećuju zubnu gleđ."
+                    },
+                    {
+                        "heading": "Koji su prvi simptomi?",
+                        "content": "Prvi simptomi mogu biti osetljivost na hladno, toplo ili slatko, kao i pojava tamnih mrlja na površini zuba."
+                    },
+                    {
+                        "heading": "Kako sprečiti karijes?",
+                        "content": "Redovno pranje zuba, korišćenje konca, fluoridne paste i redovne kontrole kod stomatologa značajno smanjuju rizik od nastanka karijesa."
+                    },
+                    {
+                        "heading": "Kako se leči karijes?",
+                        "content": "Lečenje zavisi od stadijuma oštećenja. U ranim fazama dovoljno je uklanjanje karijesa i postavljanje plombe."
+                    }
+                ],
+                "faqTitle": "Često postavljana pitanja",
+                "faq": [
+                    {
+                        "question": "Da li karijes može da prođe sam?",
+                        "answer": "Ne. Karijes se ne povlači samostalno i zahteva stomatološki tretman."
+                    },
+                    {
+                        "question": "Koliko često treba ići na pregled?",
+                        "answer": "Preporučuje se kontrolni pregled na svakih šest meseci."
+                    }
+                ],
+                "conclusionTitle": "Zaključak",
+                "conclusion": "Pravovremena dijagnostika i redovne kontrole najbolji su način da sačuvate zdravlje svojih zuba.",
+                "seo": {
+                    "metaTitle": "Karijes zuba – simptomi, uzroci i lečenje | Dental House",
+                    "metaDescription": "Saznajte kako nastaje karijes, koji su prvi simptomi i kako ga uspešno sprečiti i lečiti.",
+                    "keywords": [
+                        "karijes",
+                        "karijes zuba",
+                        "lečenje karijesa",
+                        "plombe",
+                        "stomatolog beograd"
+                    ]
+                }
+            },
+            "blogOrtodoncija": {
+                "title": "Fiksna proteza – kada je pravo vreme za ortodontsku terapiju?",
+                "breadcrumbs": {
+                    "home": "Početna",
+                    "blog": "Blog",
+                    "current": "Ortodoncija"
+                },
+                "dateLabel": "Datum objave",
+                "intro": "Nepravilno raspoređeni zubi mogu uticati na izgled osmeha, ali i na funkciju zagrižaja. Ortodontska terapija omogućava ispravljanje zuba i poboljšanje oralnog zdravlja.",
+                "sections": [
+                    {
+                        "heading": "Zašto je ortodontska terapija važna?",
+                        "content": "Pravilno postavljeni zubi olakšavaju održavanje higijene i smanjuju rizik od karijesa i bolesti desni."
+                    },
+                    {
+                        "heading": "Kada je najbolje vreme za protezu?",
+                        "content": "Iako se terapija često započinje u detinjstvu, odrasle osobe takođe mogu uspešno nositi fiksnu protezu."
+                    },
+                    {
+                        "heading": "Koliko traje terapija?",
+                        "content": "Trajanje zavisi od složenosti slučaja i najčešće traje između 12 i 24 meseca."
+                    },
+                    {
+                        "heading": "Kako održavati protezu?",
+                        "content": "Neophodno je redovno čišćenje zuba i kontrolni pregledi prema preporuci ortodonta."
+                    }
+                ],
+                "faqTitle": "Često postavljana pitanja",
+                "faq": [
+                    {
+                        "question": "Da li nošenje proteze boli?",
+                        "answer": "Nakon postavljanja može se javiti blaga nelagodnost koja prolazi nakon nekoliko dana."
+                    },
+                    {
+                        "question": "Da li odrasli mogu nositi protezu?",
+                        "answer": "Da, ortodontska terapija uspešno se sprovodi i kod odraslih pacijenata."
+                    }
+                ],
+                "conclusionTitle": "Zaključak",
+                "conclusion": "Pravilan zagrižaj i lep osmeh predstavljaju investiciju u zdravlje i samopouzdanje.",
+                "seo": {
+                    "metaTitle": "Fiksna proteza – ortodontska terapija | Dental House",
+                    "metaDescription": "Saznajte kada je pravo vreme za fiksnu protezu i koliko traje ortodontska terapija.",
+                    "keywords": [
+                        "fiksna proteza",
+                        "ortodoncija",
+                        "ispravljanje zuba",
+                        "ortodont",
+                        "proteza beograd"
+                    ]
+                }
+            },
+            "blogIzbeljivanje": {
+                "title": "Profesionalno izbeljivanje zuba – sve što treba da znate",
+                "breadcrumbs": {
+                    "home": "Početna",
+                    "blog": "Blog",
+                    "current": "Izbeljivanje zuba"
+                },
+                "dateLabel": "Datum objave",
+                "intro": "Beli i blistavi zubi jedan su od najtraženijih estetskih zahvata u stomatologiji. Profesionalno izbeljivanje omogućava vidljivo posvetljivanje zuba na bezbedan način.",
+                "sections": [
+                    {
+                        "heading": "Šta je profesionalno izbeljivanje?",
+                        "content": "Postupak koji koristi specijalne gelove i savremene tehnike za uklanjanje pigmentacija sa površine zuba."
+                    },
+                    {
+                        "heading": "Ko je kandidat za tretman?",
+                        "content": "Većina osoba sa zdravim zubima i desnima može biti kandidat za izbeljivanje."
+                    },
+                    {
+                        "heading": "Koliko dugo traju rezultati?",
+                        "content": "Rezultati mogu trajati od jedne do nekoliko godina u zavisnosti od životnih navika."
+                    },
+                    {
+                        "heading": "Kako održavati rezultate?",
+                        "content": "Izbegavanje duvana, kafe i obojenih napitaka doprinosi dužem trajanju efekta."
+                    }
+                ],
+                "faqTitle": "Često postavljana pitanja",
+                "faq": [
+                    {
+                        "question": "Da li izbeljivanje oštećuje zube?",
+                        "answer": "Profesionalno izbeljivanje pod nadzorom stomatologa smatra se bezbednim postupkom."
+                    },
+                    {
+                        "question": "Koliko nijansi zubi mogu posvetleti?",
+                        "answer": "Rezultat zavisi od početne boje zuba i individualnih karakteristika pacijenta."
+                    }
+                ],
+                "conclusionTitle": "Zaključak",
+                "conclusion": "Profesionalno izbeljivanje predstavlja brz i efikasan način da unapredite izgled svog osmeha.",
+                "seo": {
+                    "metaTitle": "Profesionalno izbeljivanje zuba | Dental House",
+                    "metaDescription": "Saznajte kako funkcioniše profesionalno izbeljivanje zuba i koliko dugo traju rezultati.",
+                    "keywords": [
+                        "izbeljivanje zuba",
+                        "beli zubi",
+                        "estetska stomatologija",
+                        "hollywood smile",
+                        "stomatolog beograd"
+                    ]
+                }
+            }
+        },
+
+        "categories": {
+            "implanti": {
+                "title": "Implanti"
+            },
+            "karijes": {
+                "title": "Karijes"
+            },
+            "ortodoncija": {
+                "title": "Ortodoncija"
+            },
+            "izbeljivanje": {
+                "title": "Izbeljivanje zuba"
+            }
+        },
+        "sidebar": {
+            "title": "Blog",
+            "description": "Saznajte najnovije informacije iz sveta stomatologije.",
+            "categories": "Kategorije",
+            "recent": "Poslednje posećeni članci"
+        }
+    },
+  "contact": {
+    "title": "Kontakt",
+    "breadcrumbs": {
+      "home": "Početna",
+      "contact": "Kontakt"
+    },
+    "heroText": "Pozovite nas, pošaljite poruku ili posetite ordinaciju — uvek rado pomažemo.",
+    "form": {
+      "name": "Ime i prezime",
+      "namePlaceholder": "Unesite ime i prezime",
+      "email": "Email",
+      "emailPlaceholder": "Unesite email adresu",
+      "subject": "Naslov",
+      "subjectPlaceholder": "Unesite naslov poruke",
+      "message": "Poruka",
+      "messagePlaceholder": "Unesite poruku",
+      "submit": "Pošalji",
+      "sending": "Šaljem..."
+    },
+    "toast": "Poruka je poslata!",
+    "clinic": {
+      "phone": "+381 63 288 289",
+      "email": "office@dentalhouse.rs",
+      "address": "Golsvordijeva 14, Beograd"
+    },
+    "map": {
+      "title": "Lokacija ordinacije",
+      "aria": "Mapa lokacije Dental House ordinacije"
+    },
+    "validation": {
+      "invalidEmail": "Unesite ispravnu email adresu.",
+      "messageTooShort": "Poruka mora imati najmanje {min} karaktera.",
+      "messageTooLong": "Poruka može imati najviše {max} karaktera."
+    }
+  },
+  "blogPage": {
+    "title": "Blog",
+    "breadcrumbs": {
+      "home": "Početna",
+      "blog": "Blog"
+    },
+    "readMore": "Više +",
+    "posts": {
+      "implanti": {
+        "title": "Šta je zubni implant?",
+        "excerpt": "Zubni implant predstavlja veštački koren zuba izrađen od biokompatibilnog titanijuma koji se ugrađuje u kost vilice. Nakon procesa zarastanja na implant se postavlja zubna krunica koja po izgledu i funkciji veoma verno oponaša prirodan zub."
+      },
+      "karijes": {
+        "title": "Kako nastaje karijes?",
+        "excerpt": "Karijes nastaje usled delovanja bakterija koje razgrađuju ostatke hrane i stvaraju kiseline koje oštećuju zubnu gleđ."
+      },
+      "ortodoncija": {
+        "title": "Zašto je ortodontska terapija važna?",
+        "excerpt": "Pravilno postavljeni zubi olakšavaju održavanje higijene i smanjuju rizik od karijesa i bolesti desni."
+      },
+      "izbeljivanje": {
+        "title": "Šta je profesionalno izbeljivanje?",
+        "excerpt": "Postupak koji koristi specijalne gelove i savremene tehnike za uklanjanje pigmentacija sa površine zuba."
+      }
+    }
+  },
+ "doctorPage": {
+  "doctors": [
+    {
+      "id": "dr-pavle-jovanovic",
+      "image": "/images/webp/dr-pavle.webp",
+      "doctor": {
+        "name": "Dr Pavle Jovanović",
+        "title": "Doktor stomatologije"
+      },
+      "intro": {
+        "title": "Dr Pavle Jovanović",
+        "breadcrumbHome": "Početna",
+        "breadcrumbCurrent": "Doktor"
+      },
+      "hero": {
+        "description": "Vodjen intuicijom, odlučujem da se specijalizujem za oralnu hirurgiju i implantologiju, kojom se bavim sa velikom strašću.",
+        "cta": "Zakažite pregled"
+      },
+      "aboutDoctor": {
+        "title": "Upoznajte doktora bliže",
+        "paragraph1": "Slobodne trenutke provodim u potrazi za avanturama i adrenalinskim aktivnostima koje ce obojiti život i prerasti u lepa sećanja.",
+        "paragraph2": "",
+        "paragraph3": ""
+      },
+      "cta": {
+        "title": "Zakažite stomatološki pregled",
+        "description": "",
+        "button": "Kontaktirajte nas"
+      },
+      "rating": "5",
+      "hobbies": {
+        "images": [
+          "/images/webp/pavle-lifestyle.webp",
+          "/images/webp/pavle-lifestyle-2.webp"
+        ]
+      }
+    },
+    {
+      "id": "dr-ana-popovic",
+      "image": "/images/webp/dr-ana.webp",
+      "doctor": {
+        "name": "Dr Ana Popović",
+        "title": "Specijalista ortodoncije"
+      },
+      "intro": {
+        "title": "Dr Ana Popović",
+        "breadcrumbHome": "Početna",
+        "breadcrumbCurrent": "Doktor"
+      },
+      "hero": {
+        "description": "Moj profesionalni put u stomatologiji i orotodnciji vodi me kroz stalno usavršavanje i ljubav prema osmehu koji menja živote.",
+        "cta": "Zakažite pregled"
+      },
+      "aboutDoctor": {
+        "title": "Upoznajte doktora bliže",
+        "paragraph1": "Van ordinacije, strastveni sam trkač, sa istrčanim brojnim polumaratonima - hobi koiji me uči disciplini, istrajnosti i pomeranju sopstvanih granica.",
+        "paragraph2": "Te vrednosti prenosim u rad sa pacijentima, gradeći odnos poverenja i posvećenosti, dajući sebi u potpunosti kako bih svakom osmehu dala najlepši i najsigurniji izraz.",
+        "paragraph3": ""
+      },
+      "cta": {
+        "title": "Zakažite stomatološki pregled",
+        "description": "",
+        "button": "Kontaktirajte nas"
+      },
+      "rating": "5",
+      "hobbies": {
+        "images": [
+          "/images/webp/ana-popovic-lifestyle.webp",
+          "/images/webp/ana-popovic-lifestyle-2.webp"
+        ]
+      }
+    },
+    {
+      "id": "dr-jelena-orozovic",
+      "image": "/images/webp/dr-jelena.webp",
+      "doctor": {
+        "name": "Dr Jelena Orozović",
+        "title": "Specijalista ortodoncije"
+      },
+      "intro": {
+        "title": "Dr Jelena Orozović",
+        "breadcrumbHome": "Početna",
+        "breadcrumbCurrent": "Doktor"
+      },
+      "hero": {
+        "description": "Moj profesionalni put oblikovan je posebnom ljubavlju prema endodonciji i stalnom težnjom ka usavršavanju, sa ciljem da svaki osmeh bude zdrav, lep i bez straha.",
+        "cta": "Zakažite pregled"
+      },
+      "aboutDoctor": {
+        "title": "Upoznajte doktora bliže",
+        "paragraph1": "U radu negujem pažljiv i posvećen pristup, dok kroz putovanja, duge šetnje i radoznalo istraživanje svakog novog kutka sveta i različitih kultura pronalazim inspiraciju.",
+        "paragraph2": "Kroz ovaj hobi pronalazim unutrašnji balans i energiju koju prenosim u odnosu sa pacijentima, gradeći poverenje i pružajući im potpunu posvećenost.",
+        "paragraph3": ""
+      },
+      "cta": {
+        "title": "Zakažite stomatološki pregled",
+        "description": "",
+        "button": "Kontaktirajte nas"
+      },
+      "rating": "5",
+      "hobbies": {
+      }
+    },
+    {
+      "id": "dr-vanja-bojic",
+      "image": "/images/webp/dr-vanja.webp",
+      "doctor": {
+        "name": "Dr Vanja Bojić",
+        "title": "Specijalista ortodoncije"
+      },
+      "intro": {
+        "title": "Dr Vanja Bojić",
+        "breadcrumbHome": "Početna",
+        "breadcrumbCurrent": "Doktor"
+      },
+      "hero": {
+        "description": "Ispunjenje mog sna počinje upisom Stomatološkog fakulteta a življenje sna jeste bavljenje stomatologijom koa specijalista dečije i preventivne stomatologije.",
+        "cta": "Zakažite pregled"
+      },
+      "aboutDoctor": {
+        "title": "Upoznajte doktora bliže",
+        "paragraph1": "Šetnje sa mojim psom i lepo vreme na moru upotpunjavaju moj život.",
+        "paragraph2": "",
+        "paragraph3": ""
+      },
+      "cta": {
+        "title": "Zakažite stomatološki pregled",
+        "description": "",
+        "button": "Kontaktirajte nas"
+      },
+      "rating": "5",
+      "hobbies": {
+        "images": [
+          "/images/webp/vanja-lifestyle.webp",
+          "/images/webp/vanja-lifestyle-2.webp"
+        ]
+      }
+    },
+    {
+      "id": "dr-ana-masojevic",
+      "image": "/images/webp/dr-ana-masojevic.webp",
+      "doctor": {
+        "name": "Dr Ana Mašojević",
+        "title": "Specijalista ortodoncije"
+      },
+      "intro": {
+        "title": "Dr Ana Mašojević",
+        "breadcrumbHome": "Početna",
+        "breadcrumbCurrent": "Doktor"
+      },
+      "hero": {
+        "description": "Ispunjenje mog sna počinje upisom Stomatološkog fakulteta, a život tog sna znači bavljenje stomatologijom kao specijalista dečije i preventivne stomatologije.",
+        "cta": "Zakažite pregled"
+      },
+      "aboutDoctor": {
+        "title": "Upoznajte doktora bliže",
+        "paragraph1": "Stomatologija je moj istinski poziv, a ortodoncija oblast koja me najviše inspiriše.",
+        "paragraph2": "Najlepši deo ovog posla je trenutak kada zajednički trud rezultira zdravim, pravilnim i blistavim osmehom.",
+        "paragraph3": "Kreativnost i preciznost iz ordinacije rado prenosim i u svoje hobije — fotografiju i kuvanje, u kojima uživam u slobodno vreme."
+      },
+      "cta": {
+        "title": "Zakažite stomatološki pregled",
+        "description": "",
+        "button": "Kontaktirajte nas"
+      },
+      "rating": "5",
+      "hobbies": {
+        "images": [
+          "/images/webp/ana-masojevic-lifestyle.webp"
+        ]
+      }
+    },
+    {
+      "id": "dr-filip-despotovic",
+      "image": "/images/webp/dr-filip.webp",
+      "doctor": {
+        "name": "Dr Filip Despotović",
+        "title": "Specijalista ortodoncije"
+      },
+      "intro": {
+        "title": "Dr Filip Despotović",
+        "breadcrumbHome": "Početna",
+        "breadcrumbCurrent": "Doktor"
+      },
+      "hero": {
+        "description": "Oralno hirurškim metodama doprinosim stvaranju dugotrajnih i estetskih rešenja za osmehe svojih pacijenata.",
+        "cta": "Zakažite pregled"
+      },
+      "aboutDoctor": {
+        "title": "Upoznajte doktora bliže",
+        "paragraph1": "Bogata socijalna interakcija i druženje su akcenat u mom privatnom životu.",
+        "paragraph2": "",
+        "paragraph3": ""
+      },
+      "cta": {
+        "title": "Zakažite stomatološki pregled",
+        "description": "",
+        "button": "Kontaktirajte nas"
+      },
+      "rating": "5",
+      "hobbies": {
+        "images": [
+          "/images/webp/filip-lifestyle.webp"
+        ]
+      }
+    }
+  ]
+}
+}
