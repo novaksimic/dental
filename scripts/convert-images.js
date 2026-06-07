@@ -1,26 +1,32 @@
-const sharp = require('sharp');
-const fs = require('fs');
-const path = require('path');
+import sharp from 'sharp';
+import fs from 'fs';
+import path from 'path';
 
-// Folder sa originalnim slikama
-const inputDir = path.join(__dirname, '../public/images');
-// Folder za konvertovane WebP slike
-const outputDir = path.join(__dirname, '../public/images/webp');
+const inputDir = path.join(process.cwd(), 'public/images');
+const outputDir = path.join(process.cwd(), 'public/images/webp');
 
-if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
+if (!fs.existsSync(outputDir)) {
+  fs.mkdirSync(outputDir, { recursive: true });
+}
 
-const exts = ['.webp', '.jpeg', '.webp'];
+const exts = ['.jpg', '.jpeg', '.png'];
 
 fs.readdirSync(inputDir).forEach(file => {
   const ext = path.extname(file).toLowerCase();
+
   if (exts.includes(ext)) {
     const inputPath = path.join(inputDir, file);
-    const outputPath = path.join(outputDir, file.replace(ext, '.webp'));
+    const outputPath = path.join(
+      outputDir,
+      file.replace(ext, '.webp')
+    );
 
     sharp(inputPath)
-      .webp({ quality: 80 }) // kvalitet 0-100
+      .webp({ quality: 80 })
       .toFile(outputPath)
-      .then(() => console.log(`✅ Konvertovano: ${file} → ${path.basename(outputPath)}`))
-      .catch(err => console.error(err));
+      .then(() =>
+        console.log(`✅ Konvertovano: ${file} → ${path.basename(outputPath)}`)
+      )
+      .catch(err => console.error('❌ Error:', err));
   }
 });
