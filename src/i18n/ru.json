@@ -253,28 +253,28 @@
     "title": "Импланты",
     "description": "Зубной имплант представляет собой искусственный корень зуба из биосовместимого титана, который устанавливается в кость челюсти. После периода приживления на имплант фиксируется коронка, которая по внешнему виду и функции максимально приближена к естественному зубу.",
     "slug": "implanti",
-    "image": "/images/webp/oralna-higijena.webp"
+    "image": "/images/webp/zubni-implant.webp"
   },
   "post2": {
     "date": "1 ИЮНЯ 2026 Г.",
     "title": "Кариес",
     "description": "Кариес возникает под воздействием бактерий, которые расщепляют остатки пищи и образуют кислоты, повреждающие зубную эмаль.",
     "slug": "karijes",
-    "image": "/images/webp/orasasti-plodovi.webp"
+    "image": "/images/webp/karijes.webp"
   },
   "post3": {
     "date": "1 ИЮНЯ 2026 Г.",
     "title": "Ортодонтия",
     "description": "Правильно расположенные зубы облегчают поддержание гигиены полости рта и снижают риск развития кариеса и заболеваний десен.",
     "slug": "ortodoncija",
-    "image": "/images/webp/slatkisi.webp"
+    "image": "/images/webp/ortodoncija-blog-img.webp"
   },
   "post4": {
     "date": "1 ИЮНЯ 2026 Г.",
     "title": "Отбеливание зубов",
     "description": "Процедура, в которой используются специальные гели и современные технологии для удаления пигментации с поверхности зубов.",
     "slug": "izbeljivanje",
-    "image": "/images/webp/slatkisi.webp"
+    "image": "/images/webp/beljenje-zuba.webp"
   },
   "more": "ПОДРОБНЕЕ +"
   },

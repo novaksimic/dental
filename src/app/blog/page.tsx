@@ -1,15 +1,19 @@
 "use client";
 
 import Image from "next/image";
-import Header from "../components/Header";
 import { motion } from "framer-motion";
 import SidePanelActivity from "../components/SidePanelActivity";
 import { category } from "./kategorije/category-constants";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
-import { addRecentPost, getRecentPosts } from "../utils/recent-posts-util";
+import Link from "next/link";
 
-const SectionWrapper = ({ children }) => (
+export interface Prop {
+  date: Date,
+  locale: string
+}
+
+const SectionWrapper = ({ children }: { children: React.ReactNode }) => (
     <motion.section
         initial={{ opacity: 0, y: 40 }}
         whileInView={{ opacity: 1, y: 0 }}
@@ -36,9 +40,9 @@ export default function BlogPage() {
               {t("title")}
             </h1>
             <div className="text-slate-700 text-sm md:text-base">
-              <a href="/" className="hover:text-green-700">
+              <Link href="/" className="hover:text-green-700">
                 {t("breadcrumbs.home")}
-              </a>{" "}
+              </Link>{" "}
               / <span className="font-semibold">{t("breadcrumbs.blog")}</span>
             </div>
           </div>
@@ -95,7 +99,7 @@ export default function BlogPage() {
   );
 }
 
-function DateComponent({ date, locale }) {
+function DateComponent({ date, locale }: Prop) {
   return (
     <span>
       {new Intl.DateTimeFormat(locale, {

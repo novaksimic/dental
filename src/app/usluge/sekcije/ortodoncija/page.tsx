@@ -1,10 +1,9 @@
 "use client";
 
-import Footer from "@/app/components/Footer";
-import Header from "@/app/components/Header";
 import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import ServicesAccordion from "../../service-accordion";
+import Link from "next/link";
 
 const SectionWrapper = ({ children }: { children: React.ReactNode }) => (
   <motion.section
@@ -22,39 +21,6 @@ type ServiceItem = {
   description: string;
 };
 
-const services = [
-  {
-    title: "Splint-folija za bruksizam",
-    description:
-      "Specijalni folija splint koji štiti zube od habanja uzrokovanog škripanjem i stiskom zuba, smanjuje bol i napetost vilice."
-  },
-  {
-    title: "Myobrace - mobilni aparat",
-    description:
-      "Neinvazivni mobilni aparat za decu koji pomaže u korekciji nepravilnog položaja vilice i disanja, uz pravilno formiranje zuba i vilice."
-  },
-  {
-    title: "Invisalign - folija za ispravljanje zuba",
-    description:
-      "Estetski providni aligneri za postepeno pomeranje zuba bez fiksnih aparata, sa maksimalnom udobnošću i diskretnim tretmanom."
-  },
-  {
-    title: "Fiksni ortodonski aparat",
-    description:
-      "Klasični fiksni aparat koji omogućava precizno ispravljanje zuba i vilice, sa optimalnim rezultatima za pravilan osmeh."
-  },
-  {
-    title: "Ortodonska analiza",
-    description:
-      "Detaljna analiza zuba, vilice i zagrižaja uz savremenu dijagnostiku radi planiranja efikasnog ortodontskog tretmana."
-  },
-  {
-    title: "Fiksni ortodonski aparat Damon",
-    description:
-      "Napredni Damon sistem fiksnih aparata sa niskim trenjem za brže i udobnije pomeranje zuba, uz minimalnu nelagodnost."
-  }
-];
-
 export default function OrthodonticsPage() {
   const t = useTranslations("orthodontics");
   const services = t.raw("services") as ServiceItem[]
@@ -70,11 +36,11 @@ export default function OrthodonticsPage() {
             </h1>
 
             <div className="text-slate-600 text-sm md:text-base space-x-2">
-              <a href="/" className="hover:text-mint transition">
+              <Link href="/" className="hover:text-green-700 transition">
                 {t("breadcrumbs.home")}
-              </a>
+              </Link>
               <span>/</span>
-              <a href="/usluge" className="hover:text-mint transition">
+              <a href="/usluge" className="hover:text-green-700 transition">
                 {t("breadcrumbs.services")}
               </a>
               <span>/</span>

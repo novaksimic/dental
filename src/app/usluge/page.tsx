@@ -2,11 +2,10 @@
 import React from "react";
 import ServicesSection from "../components/ServicesSection";
 import { motion } from "framer-motion";
-import Footer from "../components/Footer";
-import Header from "../components/Header";
+import Link from "next/link";
 
 // Wrapper za animirane sekcije
-const SectionWrapper = ({ children }) => (
+const SectionWrapper = ({ children }: { children: React.ReactNode }) => (
   <motion.section
     initial={{ opacity: 0, y: 40 }}
     whileInView={{ opacity: 1, y: 0 }}
@@ -29,7 +28,7 @@ export default function ServicesPage() {
             <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between">
               <h1 className="text-3xl font-bold text-slate-800 mb-6 md:mb-0">Naše usluge</h1>
               <div className="text-slate-700 text-sm md:text-base">
-                <a href="/" className="hover:text-green-700">Početna</a> / <span className="font-semibold">Naše usluge</span>
+                <Link href="/" className="hover:text-green-700">Početna</Link> / <span className="font-semibold">Naše usluge</span>
               </div>
             </div>
           </div>

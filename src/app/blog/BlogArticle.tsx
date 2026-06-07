@@ -2,10 +2,11 @@
 
 import { motion } from "framer-motion";
 import { CheckCircle2 } from "lucide-react";
-import { BlogArticle as BlogArticleType } from "./types";
+import { BlogArticle as BlogArticleType, FAQ, Section } from "./types";
 import SidePanelActivity from "../components/SidePanelActivity";
 import { addRecentPost, getRecentPosts } from "../utils/recent-posts-util";
 import { useEffect, useState } from "react";
+import Link from "next/link";
 
 interface Props {
   article: BlogArticleType;
@@ -65,15 +66,15 @@ export default function BlogArticle({ article, slug }: Props) {
                       </h1>
 
                       <div className="text-slate-700 text-sm md:text-base">
-                          <a href="/" className="hover:text-green-700">
+                          <Link href="/" className="hover:text-green-700">
                               {article.content.breadcrumbs.home}
-                          </a>
+                          </Link>
 
                           {" / "}
 
-                          <a href="/blog" className="hover:text-green-700">
+                          <Link href="/blog" className="hover:text-green-700">
                               {article.content.breadcrumbs.blog}
-                          </a>
+                          </Link>
 
                           {" / "}
 
@@ -117,7 +118,7 @@ export default function BlogArticle({ article, slug }: Props) {
                   {/* SECTIONS */}
                   {article.content.sections &&
                       Object.values(article.content.sections).map(
-                          (section: any, index) => (
+                          (section: Section, index) => (
                               <motion.section
                                   key={index}
                                   variants={fadeUp}
@@ -160,7 +161,7 @@ export default function BlogArticle({ article, slug }: Props) {
 
                               <div className="space-y-5">
                                   {Object.values(article.content.faq).map(
-                                      (faq: any, index) => (
+                                      (faq: FAQ, index) => (
                                           <motion.div
                                               key={index}
                                               whileHover={{

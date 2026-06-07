@@ -2,10 +2,11 @@ import { cookies } from "next/headers";
 import Cenovnik from "./page";
 
 export default async function Page() {
-  const locale = cookies().get("NEXT_LOCALE")?.value ?? "sr";
+  const cookieStore = await cookies();
+  const locale = cookieStore.get("NEXT_LOCALE")?.value ?? "sr";
 
   const res = await fetch("https://api.exchangerate-api.com/v4/latest/RSD", {
-    next: { revalidate: 86400 }, // cache 24h
+    next: { revalidate: 86400 },
   });
 
   const data = await res.json();

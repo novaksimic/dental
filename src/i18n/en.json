@@ -253,28 +253,28 @@
     "title": "Dental Implants",
     "description": "A dental implant is an artificial tooth root made of biocompatible titanium that is placed into the jawbone. After the healing process, a dental crown is attached to the implant, closely mimicking the appearance and function of a natural tooth.",
     "slug": "implanti",
-    "image": "/images/webp/oralna-higijena.webp"
+    "image": "/images/webp/zubni-implant.webp"
   },
   "post2": {
     "date": "JUNE 1, 2026",
     "title": "Tooth Decay",
     "description": "Tooth decay is caused by bacteria that break down food residues and produce acids that damage tooth enamel.",
     "slug": "karijes",
-    "image": "/images/webp/orasasti-plodovi.webp"
+    "image": "/images/webp/karijes.webp"
   },
   "post3": {
     "date": "JUNE 1, 2026",
     "title": "Orthodontics",
     "description": "Properly aligned teeth make oral hygiene easier and reduce the risk of tooth decay and gum disease.",
     "slug": "ortodoncija",
-    "image": "/images/webp/slatkisi.webp"
+    "image": "/images/webp/ortodoncija-blog-img.webp"
   },
   "post4": {
     "date": "JUNE 1, 2026",
     "title": "Teeth Whitening",
     "description": "A procedure that uses specialized gels and modern techniques to remove stains and discoloration from the tooth surface.",
     "slug": "izbeljivanje",
-    "image": "/images/webp/slatkisi.webp"
+    "image": "/images/webp/beljenje-zuba.webp"
   },
   "more": "READ MORE +"
   },

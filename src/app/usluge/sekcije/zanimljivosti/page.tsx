@@ -3,6 +3,7 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import { motion } from "framer-motion";
+import Link from "next/link";
 
 const SectionWrapper = ({ children }: { children: React.ReactNode }) => (
   <motion.section
@@ -29,11 +30,11 @@ export default function InterestingFactsPage() {
             </h1>
 
             <div className="text-slate-600 text-sm md:text-base space-x-2">
-              <a href="/" className="hover:text-mint transition">
+              <Link href="/" className="hover:text-green-700 transition">
                 {t("breadcrumbs.home")}
-              </a>
+              </Link>
               <span>/</span>
-              <a href="/usluge" className="hover:text-mint transition">
+              <a href="/usluge" className="hover:text-green-700 transition">
                 {t("breadcrumbs.services")}
               </a>
               <span>/</span>

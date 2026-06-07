@@ -1,10 +1,9 @@
 "use client";
 
-import Footer from "@/app/components/Footer";
-import Header from "@/app/components/Header";
 import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import ServicesAccordion from "../../service-accordion";
+import Link from "next/link";
 
 const SectionWrapper = ({ children }: { children: React.ReactNode }) => (
   <motion.section
@@ -22,45 +21,6 @@ type ServiceItem = {
   description: string;
 };
 
-
-const services = [
-  {
-    title: "Ispun na mlečnom zubu",
-    description:
-      "Bezbedno i pažljivo popunjavanje oštećenog mlečnog zuba kompozitnim materijalom, uz očuvanje prirodnog zuba i zdravlja desni."
-  },
-  {
-    title: "Endodontska terapija na mlečnim zubima",
-    description:
-      "Lečenje kanala mlečnih zuba radi očuvanja zuba dok ne dođe do prirodnog zamena stalnim zubom, uz minimalan osećaj nelagodnosti."
-  },
-  {
-    title: "Zalivanje fisura na mlečnim zubima",
-    description:
-      "Preventivna zaštita žvačnih površina mlečnih zuba posebnim zaštitnim premazom, smanjuje rizik od karijesa i oštećenja zuba."
-  },
-  {
-    title: "UMN i poliranje zuba",
-    description:
-      "Ultrazvučno čišćenje zuba i nežno poliranje za uklanjanje naslaga i kamenca, održavanje zdravlja i sjaja mlečnih zuba."
-  },
-  {
-    title: "Fluorizacija zuba",
-    description:
-      "Primena fluora radi jačanja gleđi i prevencije karijesa kod dece, sa bezbednim i kontrolisanim tretmanom."
-  },
-  {
-    title: "Ekstrakcija mlečnog zuba",
-    description:
-      "Bezbolno i sigurno vađenje mlečnog zuba kada je potrebno, uz minimalnu nelagodnost i pažljivo praćenje procesa zarastanja."
-  },
-  {
-    title: "Naknada za kasno otkazivanje termina",
-    description:
-      "Naknada se primenjuje u slučaju otkazivanja termina u poslednjem trenutku, što omogućava bolje planiranje i održavanje rasporeda svih pacijenata."
-  }
-];
-
 export default function PreventiveDentistryPage() {
   const t = useTranslations("preventive");
   const services = t.raw("services") as ServiceItem[]
@@ -76,11 +36,11 @@ export default function PreventiveDentistryPage() {
             </h1>
 
             <div className="text-slate-600 text-sm md:text-base space-x-2">
-              <a href="/" className="hover:text-mint transition">
+              <Link href="/" className="hover:text-green-700">
                 {t("breadcrumbs.home")}
-              </a>
+              </Link>
               <span>/</span>
-              <a href="/usluge" className="hover:text-mint transition">
+              <a href="/usluge" className="hover:text-green-700 transition">
                 {t("breadcrumbs.services")}
               </a>
               <span>/</span>

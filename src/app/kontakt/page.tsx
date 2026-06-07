@@ -1,10 +1,11 @@
 "use client";
-import React, { useState } from "react";
+import React from "react";
 import { Phone, MapPin } from "lucide-react";
 import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 
-const SectionWrapper = ({ children }) => (
+const SectionWrapper = ({ children }: { children: React.ReactNode }) => (
   <motion.section
     initial={{ opacity: 0, y: 40 }}
     whileInView={{ opacity: 1, y: 0 }}
@@ -24,9 +25,6 @@ export default function ContactPage() {
     address: t("clinic.address"),
   };
 
-  const showToast = useState(false);
-
-
   return (
     <div className="bg-gray-50 text-slate-900 relative">
       <SectionWrapper>
@@ -36,9 +34,9 @@ export default function ContactPage() {
               {t("title")}
             </h1>
             <div className="text-slate-700 text-sm md:text-base">
-              <a href="/" className="hover:text-green-700">
+              <Link href="/" className="hover:text-green-700">
                 {t("breadcrumbs.home")}
-              </a>{" "}
+              </Link>{" "}
               / <span className="font-semibold">{t("breadcrumbs.contact")}</span>
             </div>
           </div>

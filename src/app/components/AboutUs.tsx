@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { motion } from "framer-motion";
+import { easeOut, motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import {
   Smile,
@@ -23,7 +23,7 @@ const fadeUp = {
     y: 0,
     transition: {
       duration: 0.55,
-      ease: [0.22, 1, 0.36, 1],
+      ease: easeOut,
       delay,
     },
   }),
@@ -36,7 +36,7 @@ const fadeLeft = {
     x: 0,
     transition: {
       duration: 0.55,
-      ease: [0.22, 1, 0.36, 1],
+      ease: easeOut,
       delay,
     },
   }),
@@ -59,7 +59,7 @@ const staggerItem = {
     y: 0,
     transition: {
       duration: 0.4,
-      ease: [0.22, 1, 0.36, 1],
+      ease: easeOut,
     },
   },
 };
