@@ -65,17 +65,7 @@
 // }
 
 import { NextResponse } from 'next/server';
-import type { NextRequest } from 'next/server';
 
-export function middleware(req: NextRequest) {
-  console.log("Middleware started:", req.nextUrl.pathname);
-
-  try {
-    // force crash visibility
-    throw new Error("TEST ERROR FROM MIDDLEWARE");
-  } catch (e) {
-    console.error("Middleware caught error:", e);
-  }
-
+export function middleware() {
   return NextResponse.next();
 }
