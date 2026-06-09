@@ -1271,7 +1271,13 @@
         "description": "Запишитесь к Др Павле Йованович для профессионального стоматологического ухода.",
         "button": "Связаться с нами"
       },
-      "rating": "5"
+      "rating": "5",
+      "hobbies": {
+        "images": [
+          "/images/webp/pavle-lifestyle.webp",
+          "/images/webp/pavle-lifestyle-2.webp"
+        ]
+      }
     },
     {
       "id": "dr-ana-popovic",
@@ -1300,7 +1306,13 @@
         "description": "Запишитесь к Др Ана Попович для профессиональной ортодонтической помощи.",
         "button": "Связаться с нами"
       },
-      "rating": "5"
+      "rating": "5",
+      "hobbies": {
+        "images": [
+          "/images/webp/ana-popovic-lifestyle.webp",
+          "/images/webp/ana-popovic-lifestyle-2.webp"
+        ]
+      }
     },
     {
       "id": "dr-jelena-orozovic",
@@ -1427,7 +1439,12 @@
         "description": "Запишитесь к Др Филип Деспотович для профессиональной оральной хирургии и имплантологической помощи.",
         "button": "Связаться с нами"
       },
-      "rating": "5"
+      "rating": "5",
+      "hobbies": {
+          "images": [
+            "/images/webp/filip-lifestyle.webp"
+          ]
+      }
     }
   ]
 }

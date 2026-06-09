@@ -1386,7 +1386,13 @@
           "description": "Book your visit with Dr Pavle Jovanović for professional dental care.",
           "button": "Contact us"
         },
-        "rating": "5"
+        "rating": "5",
+        "hobbies": {
+          "images": [
+            "/images/webp/pavle-lifestyle.webp",
+            "/images/webp/pavle-lifestyle-2.webp"
+          ]
+        }
       },
       {
         "id": "dr-ana-popovic",
@@ -1415,7 +1421,13 @@
           "description": "Book your visit with Dr Ana Popović for professional orthodontic care.",
           "button": "Contact us"
         },
-        "rating": "5"
+        "rating": "5",
+        "hobbies": {
+          "images": [
+            "/images/webp/ana-popovic-lifestyle.webp",
+            "/images/webp/ana-popovic-lifestyle-2.webp"
+        ]
+      }
       },
       {
         "id": "dr-jelena-orozovic",
@@ -1444,10 +1456,12 @@
           "description": "Book your visit with Dr Jelena Orozović for professional conservative dental care.",
           "button": "Contact us"
         },
-        "rating": "5"
+        "rating": "5",
+        "hobbies": {
+        }
       },
       {
-        "id": "dr-vanja-bojić",
+        "id": "dr-vanja-bojic",
         "image": "/images/webp/dr-vanja.webp",
         "doctor": {
           "name": "Dr Vanja Bojić",
@@ -1542,7 +1556,12 @@
           "description": "Book your visit with Dr Filip Despotović for expert oral surgery and implant care.",
           "button": "Contact us"
         },
-        "rating": "5"
+        "rating": "5",
+        "hobbies": {
+          "images": [
+            "/images/webp/filip-lifestyle.webp"
+          ]
+        }
       }
     ]
   }
