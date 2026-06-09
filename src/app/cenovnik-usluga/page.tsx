@@ -17,16 +17,8 @@ const SectionWrapper = ({ children }: { children: React.ReactNode }) => (
   </motion.section>
 );
 
-type CenovnikProps = {
-  locale: "sr" | "en" | "ru";
-  rates: {
-    EUR: number;
-    RUB: number;
-  };
-};
 
-
-export default function PricingPage({ locale, rates }: CenovnikProps) {
+export default function PricingPage() {
   const t = useTranslations("pricing");
 
   return (
