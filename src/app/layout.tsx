@@ -16,8 +16,6 @@ export default async function RootLayout({
   
   const messages = (await import(`../i18n/${locale}.json`)).default;
 
-  console.log("Locale in layout:", locale)
-
   return (
     <html lang={locale}>
       <body className="min-h-screen flex flex-col bg-white text-gray-900 antialiased">
