@@ -206,7 +206,7 @@
   "doctor5": {
     "name": "Dr Ana Mašojević",
     "specialties": [
-      "Ortodoncija"
+      "Orthodontics"
     ],
     "bio": "A specialist in conservative and aesthetic dentistry with several years of experience. She focuses on preserving natural teeth and creating beautiful, harmonious smiles using modern techniques.",
     "rating": "5"
@@ -452,8 +452,8 @@
         "description": "Aesthetic transparent aligners for gradual teeth straightening without fixed braces, offering maximum comfort and a discreet treatment."
       },
       {
-        "title": "Fixed Orthodontic Braces",
-        "description": "Traditional fixed braces that enable precise alignment of teeth and jaws, delivering optimal results for a healthy, straight smile."
+        "title": "Fixed Orthodontic Appliance",
+        "description": "Traditional fixed appliance that enable precise alignment of teeth and jaws, delivering optimal results for a healthy, straight smile."
       },
       {
         "title": "Orthodontic Analysis",
@@ -527,49 +527,14 @@
           "A partial denture that replaces multiple missing teeth while preserving the remaining natural teeth."
       },
       {
-        "title": "Flipper Denture",
-        "description":
-          "A temporary partial denture used as a quick and practical solution until a permanent prosthetic restoration is made."
-      },
-      {
-        "title": "Cast Metal Partial Denture",
-        "description":
-          "A metal-based partial denture offering high stability and durability, with improved fit and greater patient comfort."
-      },
-      {
-        "title": "Attachment",
-        "description":
-          "A precision retention element that provides stable and aesthetically discreet connection of a denture to existing teeth."
-      },
-      {
-        "title": "Milled Crown",
-        "description":
-          "A high-precision crown made using CAD/CAM technology, ensuring optimal fit and long-lasting performance."
-      },
-      {
-        "title": "Denture Relining",
-        "description":
-          "Adjustment of the inner surface of a denture to improve fit and comfort after changes in the jaw structure."
-      },
-      {
         "title": "Denture Repair",
         "description":
           "Repair of damaged or broken dentures to restore their function and usability."
       },
       {
-        "title": "Addition of Tooth to Denture",
-        "description":
-          "Adding an extra tooth to an existing denture after tooth loss, without the need to create a new denture."
-      },
-      {
         "title": "Removal of Old Crown or Bridge",
         "description":
           "Safe removal of worn-out prosthetic work while preserving the tooth structure for further treatment."
-      },
-      {
-        "title": "Biodental Plastic Denture",
-        "description":
-          "A modern flexible denture made from biocompatible material, highly comfortable and aesthetically discreet."
       }
     ],
     "section2": {
@@ -670,8 +635,8 @@
           "description": "A safe and comfortable at-home whitening method using custom-made trays and gels for gradual and controlled teeth brightening."
         },
         {
-          "title": "Tooth Jewelry (Crystal)",
-          "description": "An elegant and discreet tooth decoration using crystal gems, adding a touch of sophistication and shine to your smile without damaging the tooth."
+          "title": "Dental zirconia",
+          "description": "Discreet zirconia that is placed on the tooth for an aesthetic effect."
         },
         {
           "title": "Hyaluronic Filler – 1 ml",
@@ -707,10 +672,6 @@
       {
         "title": "Endodontic Therapy on Primary Teeth",
         "description": "Root canal treatment for primary teeth to preserve them until natural replacement by permanent teeth, with minimal discomfort."
-      },
-      {
-        "title": "Fissure Sealant on Primary Teeth",
-        "description": "Preventive protection of the chewing surfaces of primary teeth with a special sealant, reducing the risk of cavities and tooth damage."
       },
       {
         "title": "Ultrasonic Cleaning and Polishing",
@@ -763,11 +724,11 @@
         "description": "Complicated surgical removal of teeth that are fully or partially trapped in the jaw, with minimal discomfort."
       },
       {
-        "title": "Canine Exposure with Bracket Placement",
+        "title": "Canine liberalization",
         "description": "Preparation and exposure of canine teeth for orthodontic treatment, including bracket placement for controlled tooth movement."
       },
       {
-        "title": "Flap Surgery",
+        "title": "Slicing Surgery",
         "description": "Surgical intervention on the gums to access a tooth or bone, with careful bleeding control and optimal healing."
       },
       {
@@ -1434,7 +1395,7 @@
         "image": "/images/webp/dr-jelena.webp",
         "doctor": {
           "name": "Dr Jelena Orozović",
-          "title": "Conservative Dentistry Specialist"
+          "title": "Doctor of Dentistry"
         },
         "intro": {
           "title": "Dr Jelena Orozović",
@@ -1458,6 +1419,10 @@
         },
         "rating": "5",
         "hobbies": {
+          "images": [
+            "/images/webp/jeca-lifestyle.webp",
+            "/images/webp/jeca-lifestyle-2.webp"
+          ]
         }
       },
       {
@@ -1465,7 +1430,7 @@
         "image": "/images/webp/dr-vanja.webp",
         "doctor": {
           "name": "Dr Vanja Bojić",
-          "title": "Pediatric Dentist"
+          "title": "Specialist in Children's Dentistry"
         },
         "intro": {
           "title": "Dr Vanja Bojić",
@@ -1500,7 +1465,7 @@
       "image": "/images/webp/dr-ana-masojevic.webp",
       "doctor": {
         "name": "Dr Ana Mašojević",
-        "title": "Orthodontics Specialist"
+        "title": "Orthodontic resident"
       },
       "intro": {
         "title": "Dr Ana Mašojević",
@@ -1534,7 +1499,7 @@
         "image": "/images/webp/dr-filip.webp",
         "doctor": {
           "name": "Dr Filip Despotović",
-          "title": "Oral Surgery & Implantology Specialist"
+          "title": "Oral Surgery resident"
         },
         "intro": {
           "title": "Dr Filip Despotović",

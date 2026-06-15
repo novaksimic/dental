@@ -187,7 +187,7 @@ export default function Header() {
                           ["preventive", "/usluge/sekcije/decija-i-preventivna-stomatologija"],
                           ["orthodontics", "/usluge/sekcije/ortodoncija"],
                           ["implants", "/usluge/sekcije/hirurgija-i-implanti"],
-                          ["facts", "/usluge/sekcije/beljenje-zuba"],
+                          ["facts", "/usluge/sekcije/zanimljivosti"],
                         ].map(([key, href]) => (
                           <Link
                             key={key}

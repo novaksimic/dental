@@ -74,9 +74,9 @@ export default function Testimonials() {
                   </h3>
 
                   {/* ROLE */}
-                  <p className="text-sm opacity-80 sm:text-base">
+                  {/* <p className="text-sm opacity-80 sm:text-base">
                     {t(`testimonial${i}.role`)}
-                  </p>
+                  </p> */}
 
                 </div>
               </SwiperSlide>

@@ -21,8 +21,8 @@ export default function HomePage() {
       />
 
       <AboutUsSection />
-      <ServicesSection />
       <Team />
+      <ServicesSection />
       <BlogSection />
       <Testimonials />
 

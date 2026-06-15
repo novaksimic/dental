@@ -168,7 +168,7 @@
   },
   "title": "Upoznajte naše doktore",
   "doctor1": {
-    "name": "Dr spec. Pavle Jovanović",
+    "name": "Dr Pavle Jovanović",
     "specialties": [
       "Implantologija",
       "Oralna hirurgija",
@@ -441,8 +441,8 @@
     },
     "services": [
       {
-        "title": "Udlaga za bruksizam",
-        "description": "Individualno izrađena udlaga koja štiti zube od trošenja izazvanog škripanjem i stiskanjem zuba, uz smanjenje bolova u vilici i napetosti."
+        "title": "Splint za bruksizam",
+        "description": "Individualno izrađen splint koji štiti zube od trošenja izazvanog škripanjem i stiskanjem zuba, uz smanjenje bolova u vilici i napetosti."
       },
       {
         "title": "Myobrace – mobilni aparat",
@@ -453,8 +453,8 @@
         "description": "Estetski providni aligneri za postepeno ispravljanje zuba bez fiksne proteze, uz maksimalnu udobnost i diskretnost."
       },
       {
-        "title": "Fiksna ortodontska proteza",
-        "description": "Klasična fiksna proteza koja omogućava precizno ispravljanje položaja zuba i vilica za postizanje savršenog osmeha."
+        "title": "Fiksni ortodontski aparat",
+        "description": "Klasični fiksni aparat koja omogućava precizno ispravljanje položaja zuba i vilica za postizanje savršenog osmeha."
       },
       {
         "title": "Ortodontska analiza",
@@ -523,40 +523,12 @@
         "description": "Delimična proteza koja nadoknađuje više zuba uz očuvanje preostalih prirodnih zuba."
       },
       {
-        "title": "Fliper proteza",
-        "description": "Privremena proteza kao brzo rešenje do izrade trajne nadoknade."
-      },
-      {
-        "title": "Livena skeletirana proteza",
-        "description": "Metalna proteza sa visokom stabilnošću i udobnošću nošenja."
-      },
-      {
-        "title": "Attachment",
-        "description": "Precizni retencioni element za stabilno i diskretno fiksiranje proteze."
-      },
-      {
-        "title": "Mlevena krunica",
-        "description": "Precizno izrađena krunica pomoću CAD/CAM tehnologije."
-      },
-      {
-        "title": "Reliniranje proteze",
-        "description": "Prilagođavanje unutrašnje površine proteze radi boljeg prijanjanja."
-      },
-      {
         "title": "Popravka proteze",
         "description": "Popravka oštećenih proteza i vraćanje funkcionalnosti."
       },
       {
-        "title": "Dodavanje zuba na protezu",
-        "description": "Dodavanje novog zuba na postojeću protezu bez izrade nove."
-      },
-      {
         "title": "Skidanje stare krunice ili mosta",
         "description": "Bezbedno uklanjanje stare protetske nadoknade uz očuvanje zuba."
-      },
-      {
-        "title": "Biodentalna fleksibilna proteza",
-        "description": "Savremena fleksibilna proteza od biokompatibilnog materijala."
       }
     ],
     "section2": {
@@ -660,8 +632,8 @@
         "description": "Izbeljivanje pomoću individualnih folija."
       },
       {
-        "title": "Zubni kristal",
-        "description": "Diskretni kristal koji se postavlja na zub za estetski efekat."
+        "title": "Zubni cirkon",
+        "description": "Diskretni cirkon koji se postavlja na zub za estetski efekat."
       },
       {
         "title": "Hijaluronski filer – 1 ml",
@@ -698,10 +670,6 @@
       {
         "title": "Endodontska terapija mlečnih zuba",
         "description": "Lečenje kanala mlečnih zuba."
-      },
-      {
-        "title": "Pečaćenje fisura",
-        "description": "Zaštita zuba od karijesa."
       },
       {
         "title": "Ultrazvučno čišćenje",
@@ -755,11 +723,11 @@
         "description": "Složenije hirurško uklanjanje zuba."
       },
       {
-        "title": "Otvaranje očnjaka",
+        "title": "Liberalizacija očnjaka",
         "description": "Priprema za ortodontsku terapiju."
       },
       {
-        "title": "Flap operacija",
+        "title": "Režanj operacija",
         "description": "Hirurški zahvat na desnima."
       },
       {
@@ -1359,7 +1327,7 @@
       "image": "/images/webp/dr-jelena.webp",
       "doctor": {
         "name": "Dr Jelena Orozović",
-        "title": "Specijalista ortodoncije"
+        "title": "Doktor stomatologije"
       },
       "intro": {
         "title": "Dr Jelena Orozović",
@@ -1383,6 +1351,10 @@
       },
       "rating": "5",
       "hobbies": {
+        "images": [
+          "/images/webp/jeca-lifestyle.webp",
+          "/images/webp/jeca-lifestyle-2.webp"
+        ]
       }
     },
     {
@@ -1390,7 +1362,7 @@
       "image": "/images/webp/dr-vanja.webp",
       "doctor": {
         "name": "Dr Vanja Bojić",
-        "title": "Specijalista ortodoncije"
+        "title": "Specijalista dečije stomatologije"
       },
       "intro": {
         "title": "Dr Vanja Bojić",
@@ -1425,7 +1397,7 @@
       "image": "/images/webp/dr-ana-masojevic.webp",
       "doctor": {
         "name": "Dr Ana Mašojević",
-        "title": "Specijalista ortodoncije"
+        "title": "Specijalizant ortodoncije"
       },
       "intro": {
         "title": "Dr Ana Mašojević",
@@ -1459,7 +1431,7 @@
       "image": "/images/webp/dr-filip.webp",
       "doctor": {
         "name": "Dr Filip Despotović",
-        "title": "Specijalista ortodoncije"
+        "title": "Specijalizant oralne hirurgije"
       },
       "intro": {
         "title": "Dr Filip Despotović",
