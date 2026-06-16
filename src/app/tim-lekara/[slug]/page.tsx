@@ -119,7 +119,7 @@ export default function DoctorPage() {
               {doctor.doctor.title}
             </p>
 
-            <p className="text-slate-600 leading-relaxed mb-8">
+            <p className="text-slate-600 leading-relaxed mb-8 text-justify">
               {doctor.hero.description}
             </p>
 
@@ -176,9 +176,9 @@ export default function DoctorPage() {
           <h2 className="text-3xl font-bold text-mint mb-8">
             {doctor.aboutDoctor.title}
           </h2>
-          <p className="text-slate-600 mb-4">{doctor.aboutDoctor.paragraph1}</p>
-          <p className="text-slate-600 mb-4">{doctor.aboutDoctor.paragraph2}</p>
-          <p className="text-slate-600 mb-4">{doctor.aboutDoctor.paragraph3}</p>
+          <p className="text-slate-600 mb-4 text-justify">{doctor.aboutDoctor.paragraph1}</p>
+          <p className="text-slate-600 mb-4 text-justify">{doctor.aboutDoctor.paragraph2}</p>
+          <p className="text-slate-600 mb-4 text-justify">{doctor.aboutDoctor.paragraph3}</p>
         </div>
 
         {/* HOBBIES / PRIVATE LIFE */}

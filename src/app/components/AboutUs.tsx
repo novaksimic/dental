@@ -176,7 +176,7 @@ export default function AboutSection() {
               initial="hidden"
               whileInView="visible"
               viewport={viewport}
-              className="flex flex-col space-y-4"
+              className="flex flex-col space-y-4 text-justify"
             >
               {[t("paragraph1"), t("paragraph2"), t("paragraph3")].map(
                 (text, i) => (
