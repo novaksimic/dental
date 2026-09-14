@@ -859,21 +859,78 @@
         "title": "Oral Diseases",
         "icon": "/images/icons/teeths-dental.png",
         "items": [
-          { "name": "Composite filling-1 surface", "price": 4500 },
-          { "name": "Composite filling-2 surfaces", "price": 5000 },
-          { "name": "Composite filling-MOD", "price": 5500 },
-          { "name": "Composite filling with metal/FRC post", "price": 8000 },
-          { "name": "Composite veneer", "price": 8000 },
-          { "name": "Deep cleaning + air polishing", "price": 5000 },
-          { "name": "Periodontal pocket treatment-1 tooth", "price": 3500 },
-          { "name": "Interseans treatment", "price": 3000 },
-          { "name": "Incision, drainage, first aid", "price": 50 },
-          { "name": "Endodontic therapy-1 canal (teeth 1-3)", "price": 80 },
-          { "name": "Endodontic therapy-2 canals (teeth 4-5)", "price": 10000 },
-          { "name": "Endodontic therapy-3,4 canals (teeth 6-8)", "price": 12000 },
-          { "name": "Causal therapy of periodontopathy-1 jaw", "price": 18000 },
-          { "name": "Endodontic phase", "price": 4000 },
-          { "name": "Ceramic inlay/onlay", "price": 20000 }
+          {
+            "name": "Composite filling-1 surface",
+            "price": 4500
+          },
+          {
+            "name": "Composite filling-2 surfaces",
+            "price": 5000
+          },
+          {
+            "name": "Composite filling-MOD",
+            "price": 5500
+          },
+          {
+            "name": "Composite filling with metal/FRC post",
+            "price": 10000
+          },
+          {
+            "name": "Composite veneer",
+            "price": 10000
+          },
+          {
+            "name": "UZK - polishing",
+            "price": 5000
+          },
+          {
+            "name": "UZK - deep cleaning and air polishing",
+            "price": 6000
+          },
+          {
+            "name": "Periodontal pocket treatment-1 tooth",
+            "price": 3500
+          },
+          {
+            "name": "Interseans treatment",
+            "price": 3000
+          },
+          {
+            "name": "Incision, drainage, first aid",
+            "price": 5000
+          },
+          {
+            "name": "Endodontic therapy-1 canal (teeth 1-3)",
+            "price": 10000
+          },
+          {
+            "name": "Endodontic therapy-2 canals (teeth 4-5)",
+            "price": 12000
+          },
+          {
+            "name": "Endodontic therapy-3,4 canals (teeth 6-8)",
+            "price": 14000
+          },
+          {
+            "name": "Revision of endodontic treatment",
+            "price": 6000
+          },
+          {
+            "name": "Causal therapy of periodontopathy-1 jaw",
+            "price": 18000
+          },
+          {
+            "name": "Endodontic phase",
+            "price": 5000
+          },
+          {
+            "name": "Ceramic inlay/onlay",
+            "price": 20000
+          },
+          {
+            "name": "Injectable composite veneer",
+            "price": 14000
+          }
         ]
       },
       {
@@ -881,27 +938,114 @@
         "title": "Prosthetics",
         "icon": "/images/icons/teeths-prothetics.png",
         "items": [
-          { "name": "Cast post", "price": 12000 },
-          { "name": "Metal-ceramic crown", "price": 14000 },
-          { "name": "Metal-ceramic crown on implant", "price": 24000 },
-          { "name": "Temporary crown made in-office", "price": 2000 },
-          { "name": "Temporary PMMA crown", "price": 4000 },
-          { "name": "All-ceramic crown", "price": 26000 },
-          { "name": "All-ceramic crown on implant", "price": 35000 },
-          { "name": "Full acrylic denture-both jaws", "price": 65000 },
-          { "name": "Full acrylic denture-1 jaw", "price": 35000 },
-          { "name": "Partial acrylic denture", "price": 30000 },
-          { "name": "Clip denture", "price": 12000 },
-          { "name": "Skeletal Vizil denture", "price": 53000 },
-          { "name": "Attachment-1 piece", "price": 6000 },
-          { "name": "Milled crown", "price": 14000 },
-          { "name": "Direct denture relining", "price": 6000 },
-          { "name": "Indirect denture relining", "price": 12000 },
-          { "name": "Denture repair with impression", "price": 10000 },
-          { "name": "Denture repair without impression", "price": 8000 },
-          { "name": "Adding teeth to denture", "price": 3500 },
-          { "name": "Removal of old crown/bridge", "price": 1500 },
-          { "name": "Biodental plastic denture", "price": 60000 }
+          {
+            "name": "Cast post",
+            "price": 12000
+          },
+          {
+            "name": "Metal-ceramic crown",
+            "price": 14000
+          },
+          {
+            "name": "Solo metal-ceramic crown",
+            "price": 18000
+          },
+          {
+            "name": "Metal-ceramic crown on implant",
+            "price": 29000
+          },
+          {
+            "name": "Temporary crown made in-office",
+            "price": 2000
+          },
+          {
+            "name": "Temporary PMMA crown",
+            "price": 4000
+          },
+          {
+            "name": "All-ceramic crown",
+            "price": 26000
+          },
+          {
+            "name": "Solo all-ceramic crown",
+            "price": 30000
+          },
+          {
+            "name": "All-ceramic crown on implant",
+            "price": 41000
+          },
+          {
+            "name": "Full acrylic denture-both jaws",
+            "price": 76000
+          },
+          {
+            "name": "Full acrylic denture-1 jaw",
+            "price": 41000
+          },
+          {
+            "name": "Partial acrylic denture",
+            "price": 41000
+          },
+          {
+            "name": "Immediate denture",
+            "price": 12000
+          },
+          {
+            "name": "Skeletal Vizil denture",
+            "price": 53000
+          },
+          {
+            "name": "Attachment-1 piece",
+            "price": 6000
+          },
+          {
+            "name": "Milled crown",
+            "price": 16000
+          },
+          {
+            "name": "Direct denture relining",
+            "price": 6000
+          },
+          {
+            "name": "Indirect denture relining",
+            "price": 12000
+          },
+          {
+            "name": "Denture repair with impression",
+            "price": 15000
+          },
+          {
+            "name": "Denture repair without impression",
+            "price": 12000
+          },
+          {
+            "name": "Adding teeth to denture",
+            "price": 3500
+          },
+          {
+            "name": "Removal of old crown/bridge",
+            "price": 1500
+          },
+          {
+            "name": "Biodental Plast denture",
+            "price": 60000
+          },
+          {
+            "name": "Veneer",
+            "price": 29000
+          },
+          {
+            "name": "Lumineer",
+            "price": 35000
+          },
+          {
+            "name": "Crown recementation",
+            "price": 3000
+          },
+          {
+            "name": "Bridge recementation",
+            "price": 5000
+          }
         ]
       },
       {
@@ -909,11 +1053,26 @@
         "title": "Esthetic Dentistry",
         "icon": "/images/icons/teeths-whitening.png",
         "items": [
-          { "name": "In-office teeth whitening-both jaws", "price": 30000 },
-          { "name": "Take-home teeth whitening kit-both jaws", "price": 30000 },
-          { "name": "Zirconium dental jewelry", "price": 5000 },
-          { "name": "Hyaluronic filler 1 ml", "price": 24000 },
-          { "name": "Botox 3 regions", "price": 36000 }
+          {
+            "name": "In-office teeth whitening-both jaws",
+            "price": 30000
+          },
+          {
+            "name": "Take-home teeth whitening-both jaws",
+            "price": 30000
+          },
+          {
+            "name": "Zirconium dental jewelry",
+            "price": 5000
+          },
+          {
+            "name": "Hyaluronic filler 1 ml",
+            "price": 24000
+          },
+          {
+            "name": "Botox-3 regions",
+            "price": 36000
+          }
         ]
       },
       {
@@ -921,16 +1080,46 @@
         "title": "Children & Preventive Dentistry",
         "icon": "/images/icons/teeths-children-dentistry.png",
         "items": [
-          { "name": "Filling on milk tooth-1 surface", "price": 4500 },
-          { "name": "Filling on milk tooth-2-3 surfaces", "price": 5000 },
-          { "name": "Endodontic therapy on milk teeth (1-3)", "price": 8000 },
-          { "name": "Endodontic therapy on milk teeth (4-5)", "price": 10000 },
-          { "name": "Fissure sealing on milk teeth", "price": 3000 },
-          { "name": "Fissure sealing on permanent teeth", "price": 3000 },
-          { "name": "UMN and polishing", "price": 3000 },
-          { "name": "Fluoridation", "price": 4000 },
-          { "name": "Milk tooth extraction", "price": 5000 },
-          { "name": "Late cancellation fee", "price": 4000 }
+          {
+            "name": "Filling on milk tooth-1 surface",
+            "price": 4500
+          },
+          {
+            "name": "Filling on milk tooth-2 and 3 surfaces",
+            "price": 5000
+          },
+          {
+            "name": "Endodontic therapy on milk teeth (1-3)",
+            "price": 8000
+          },
+          {
+            "name": "Endodontic therapy on milk teeth (4-5)",
+            "price": 10000
+          },
+          {
+            "name": "Fissure sealing on milk teeth",
+            "price": 3000
+          },
+          {
+            "name": "Fissure sealing on permanent teeth",
+            "price": 3000
+          },
+          {
+            "name": "UMN and polishing",
+            "price": 3000
+          },
+          {
+            "name": "Fluoridation",
+            "price": 4000
+          },
+          {
+            "name": "Milk tooth extraction",
+            "price": 5000
+          },
+          {
+            "name": "Late cancellation fee",
+            "price": 4000
+          }
         ]
       },
       {
@@ -938,12 +1127,62 @@
         "title": "Orthodontics",
         "icon": "/images/icons/teeths-ortodontics.png",
         "items": [
-          { "name": "Splint/Bruxism foil", "price": 9000 },
-          { "name": "Myobrace mobile appliance", "price": 30000 },
-          { "name": "Invisalign aligner", "price": 120000 },
-          { "name": "Fixed orthodontic appliance", "price": 76000 },
-          { "name": "Orthodontic analysis", "price": 6000 },
-          { "name": "Fixed Damon appliance", "price": 140000 }
+          {
+            "name": "Splint-bruxism foil",
+            "price": 12000
+          },
+          {
+            "name": "Myobrace-mobile appliance",
+            "price": 30000
+          },
+          {
+            "name": "Invisalign-aligner for teeth straightening",
+            "price": 12000
+          },
+          {
+            "name": "Fixed orthodontic appliance",
+            "price": 100000
+          },
+          {
+            "name": "Orthodontic analysis",
+            "price": 6000
+          },
+          {
+            "name": "Fixed Damon orthodontic appliance",
+            "price": 140000
+          },
+          {
+            "name": "Esthetic classic fixed orthodontic appliance",
+            "price": 120000
+          },
+          {
+            "name": "Esthetic Damon appliance",
+            "price": 175000
+          },
+          {
+            "name": "Gold brackets",
+            "price": 120000
+          },
+          {
+            "name": "Debonded bracket",
+            "price": 2500
+          },
+          {
+            "name": "Mini implant",
+            "price": 12000
+          },
+          {
+            "name": "Retention foils-both jaws",
+            "price": 18000
+          },
+          {
+            "name": "Reserve splint-bruxism foil",
+            "price": 6000
+          },
+          {
+            "name": "Fixed wire retainer",
+            "price": 12000
+          }
         ]
       },
       {
@@ -951,23 +1190,74 @@
         "title": "Surgery & Implants",
         "icon": "/images/icons/teeths-implantology.png",
         "items": [
-          { "name": "Routine tooth extraction", "price": 5000 },
-          { "name": "Complicated extraction", "price": 8000 },
-          { "name": "Extraction of retained roots & teeth-surgery", "price": 12000 },
-          { "name": "Extraction of impacted wisdom/eye teeth", "price": 18000 },
-          { "name": "Difficult extraction of impacted teeth", "price": 24000 },
-          { "name": "Canine liberalization with bonding", "price": 18000 },
-          { "name": "Flap surgery per tooth", "price": 6000 },
-          { "name": "Apicotomy-1,2 roots (1-4)", "price": 18000 },
-          { "name": "Apicotomy-3 roots, molars", "price": 24000 },
-          { "name": "Ridge leveling", "price": 24000 },
-          { "name": "Complicated wisdom tooth extraction", "price": 10000 },
-          { "name": "Tooth extraction communicating with nerve or sinus", "price": 30000 },
-          { "name": "BIO OSS & collagen membrane", "price": 36000 },
-          { "name": "Frenectomy", "price": 14000 },
-          { "name": "Cyst extirpation", "price": 24000 },
-          { "name": "Gingivectomy per tooth", "price": 3500 },
-          { "name": "Implant - ALPHA BIO", "price": 65000 }
+          {
+            "name": "Routine tooth extraction",
+            "price": 5000
+          },
+          {
+            "name": "Complicated tooth extraction",
+            "price": 8000
+          },
+          {
+            "name": "Surgical extraction of retained roots and teeth",
+            "price": 12000
+          },
+          {
+            "name": "Extraction of impacted wisdom teeth/canines",
+            "price": 18000
+          },
+          {
+            "name": "Difficult extraction of impacted teeth",
+            "price": 24000
+          },
+          {
+            "name": "Canine exposure with bracket bonding",
+            "price": 18000
+          },
+          {
+            "name": "Flap surgery-per tooth",
+            "price": 6000
+          },
+          {
+            "name": "Apicotomy-1,2 roots (1-4)",
+            "price": 18000
+          },
+          {
+            "name": "Apicotomy-3 roots, molars",
+            "price": 24000
+          },
+          {
+            "name": "Ridge leveling",
+            "price": 24000
+          },
+          {
+            "name": "Complicated wisdom tooth extraction",
+            "price": 12000
+          },
+          {
+            "name": "Tooth extraction communicating with nerve or sinus",
+            "price": 30000
+          },
+          {
+            "name": "BIO OSS and collagen membrane",
+            "price": 59000
+          },
+          {
+            "name": "Frenectomy",
+            "price": 14000
+          },
+          {
+            "name": "Cyst extirpation",
+            "price": 24000
+          },
+          {
+            "name": "Gingivectomy-per tooth",
+            "price": 4500
+          },
+          {
+            "name": "Implant-ALPHA BIO",
+            "price": 70000
+          }
         ]
       }
     ]

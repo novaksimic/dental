@@ -841,128 +841,418 @@
     "beljenje": "Beljenje zuba"
   },
   "services": {
-      "categories": "Kategorije",
-      "service": "Usluga",
-      "price": "Cena",
-      "scrollTop": "Vratite se na vrh",
-      "services": [
-        {
-          "id": "oral-diseases",
-          "title": "Konzervativna stomatologija",
-          "icon": "/images/icons/teeths-dental.png",
-          "items": [
-            { "name": "Kompozitni ispun-1 pov.", "price": 4500 },
-            { "name": "Kompozitni ispun-2 pov.", "price": 5000 },
-            { "name": "Kompozitni ispun-MOD", "price": 5500 },
-            { "name": "Kompozitna plomba sa metalnim/FRC kočićem", "price": 8000 },
-            { "name": "Kompozitna faseta", "price": 8000 },
-            { "name": "UZK-dubinsko čišćenje zuba, peskiranje", "price": 5000 },
-            { "name": "Obrada parodontalnog džepa-1 zub", "price": 3500 },
-            { "name": "Interseansni lek", "price": 3000 },
-            { "name": "Incizija, drenaža, prva pomoć", "price": 5000 },
-            { "name": "Endodonska terapija-1 kanal (zubi 1-3)", "price": 8000 },
-            { "name": "Endodonska terapija-2 kanala (zubi 4-5)", "price": 10000 },
-            { "name": "Endodonska terapija-3,4 kanala (zubi 6-8)", "price": 12000 },
-            { "name": "Kauzalna terapija parodontopatije-1 vilica", "price": 18000 },
-            { "name": "Endodontska faza", "price": 4000 },
-            { "name": "Keramički inlej/onlej", "price": 20000 }
-          ]
-        },
-        {
-          "id": "prosthetics",
-          "title": "Protetika",
-          "icon": "/images/icons/teeths-prothetics.png",
-          "items": [
-            { "name": "Livena nadogradnja", "price": 12000 },
-            { "name": "Metalo-keramička kruna", "price": 14000 },
-            { "name": "Metalo-keramička kruna na implantu", "price": 24000 },
-            { "name": "Privremena kruna izrađena u ordinaciji", "price": 2000 },
-            { "name": "Privremena PMMA kruna", "price": 4000 },
-            { "name": "Bezmetalna kruna", "price": 26000 },
-            { "name": "Bezmetalna kruna na implantu", "price": 35000 },
-            { "name": "Totalna akrilatna proteza-obe vilice", "price": 65000 },
-            { "name": "Totalna akrilatna proteza-1 vilica", "price": 35000 },
-            { "name": "Parcijalna akrilatna proteza", "price": 30000 },
-            { "name": "Žabica", "price": 12000 },
-            { "name": "Skeletirana Vizil proteza", "price": 53000 },
-            { "name": "Atečmen-1 kom.", "price": 6000 },
-            { "name": "Frezovana kruna", "price": 14000 },
-            { "name": "Podlaganje proteze-direktno", "price": 6000 },
-            { "name": "Podlaganje proteze-indirektno", "price": 12000 },
-            { "name": "Reparatura proteze sa otiskom", "price": 10000 },
-            { "name": "Reparatura proteze bez otiska", "price": 8000 },
-            { "name": "Dodavanje zuba u protezu", "price": 3500 },
-            { "name": "Skidanje stare krune/mosta", "price": 1500 },
-            { "name": "Biodental plast proteza", "price": 60000 }
-          ]
-        },
-        {
-          "id": "esthetic-dentistry",
-          "title": "Estetska stomatologija",
-          "icon": "/images/icons/teeths-whitening.png",
-          "items": [
-            { "name": "Izbeljivanje zuba u ordinaciji-obe vilice", "price": 30000 },
-            { "name": "Kućno izbeljivanje zuba-obe vilice", "price": 30000 },
-            { "name": "Cirkon-zubni nakit", "price": 5000 },
-            { "name": "Hijaluronski filer 1 ml", "price": 24000 },
-            { "name": "Botox 3 regije", "price": 36000 }
-          ]
-        },
-        {
-          "id": "children-preventive",
-          "title": "Dečija i preventivna stomatologija",
-          "icon": "/images/icons/teeths-children-dentistry.png",
-          "items": [
-            { "name": "Ispun na mlečnom zubu 1 pov.", "price": 4500 },
-            { "name": "Ispun na mlečnom zubu 2 i 3 površine", "price": 5000 },
-            { "name": "Endo th na mlečnim zubima (1-3)", "price": 8000 },
-            { "name": "Endo th na mlečnim zubima (4-5)", "price": 10000 },
-            { "name": "Zalivanje fisura na mlečnim zubima", "price": 3000 },
-            { "name": "Zalivanje fisura na stalnim zubima", "price": 3000 },
-            { "name": "UMN i poliranje zuba", "price": 3000 },
-            { "name": "Fluorizacija zuba", "price": 4000 },
-            { "name": "Ekstrakcija mlečnog zuba", "price": 5000 },
-            { "name": "Naknada za kasno otkazivanje termina", "price": 4000 }
-          ]
-        },
-        {
-          "id": "orthodontics",
-          "title": "Ortodoncija",
-          "icon": "/images/icons/teeths-ortodontics.png",
-          "items": [
-            { "name": "Splint-folija za bruksizam", "price": 9000 },
-            { "name": "Myobrace-mobilni aparat", "price": 30000 },
-            { "name": "Invisalign-folija za ispravljanje zuba", "price": 120000 },
-            { "name": "Fiksni ortodonski aparat", "price": 76000 },
-            { "name": "Ortodonska analiza", "price": 6000 },
-            { "name": "Fiksni ortodonski aparat Damon", "price": 140000 }
-          ]
-        },
-        {
-          "id": "surgery-implants",
-          "title": "Hirurgija i implanti",
-          "icon": "/images/icons/teeths-implantology.png",
-          "items": [
-            { "name": "Ekstrakcija zuba-rutinska", "price": 5000 },
-            { "name": "Ekstrakcija zuba-komplikovana", "price": 8000 },
-            { "name": "Ekstrakcija zaostalih korenova i zuba-hiruška", "price": 12000 },
-            { "name": "Ekstrakcija impaktiranih umnjaka/očnjaka", "price": 18000 },
-            { "name": "Teška ekstrakcija impaktiranih zuba", "price": 24000 },
-            { "name": "Liberalizacija očnjaka sa lepljenjem bravice", "price": 18000 },
-            { "name": "Režanj operacija –po zubu", "price": 6000 },
-            { "name": "Apikotomija-1,2 korena(1-4)", "price": 18000 },
-            { "name": "Apikotomija-3 korena, molari", "price": 24000 },
-            { "name": "Nivelacija grebena", "price": 24000 },
-            { "name": "Komplikovana ekstrakcija umnjaka", "price": 10000 },
-            { "name": "Ekstrakcija zuba koji komunicira sa nervom ili sinusom", "price": 30000 },
-            { "name": "BIO OSS i kolagena membrana", "price": 36000 },
-            { "name": "Frenektomija", "price": 14000 },
-            { "name": "Ekstirpacija ciste", "price": 24000 },
-            { "name": "Gingivektomija po zubu", "price": 3500 },
-            { "name": "Implant -ALPHA BIO", "price": 65000 }
-          ]
-        }
-      ]
+    "categories": "Kategorije",
+    "service": "Usluga",
+    "price": "Cena",
+    "scrollTop": "Nazad na vrh",
+    "services": [
+      {
+        "id": "oral-diseases",
+        "title": "Bolesti usta i zuba",
+        "icon": "/images/icons/teeths-dental.png",
+        "items": [
+          {
+            "name": "Kompozitni ispun-1 pov.",
+            "price": 4500
+          },
+          {
+            "name": "Kompozitni ispun-2 pov.",
+            "price": 5000
+          },
+          {
+            "name": "Kompozitni ispun-MOD",
+            "price": 5500
+          },
+          {
+            "name": "Kompozitna plomba sa metalnim/FRC kočićem",
+            "price": 10000
+          },
+          {
+            "name": "Kompozitna faseta",
+            "price": 10000
+          },
+          {
+            "name": "UZK-poliranje zuba",
+            "price": 5000
+          },
+          {
+            "name": "UZK-dubinsko čišćenje zuba, peskiranje zuba",
+            "price": 6000
+          },
+          {
+            "name": "Obrada parodontalnog džepa-1 zub",
+            "price": 3500
+          },
+          {
+            "name": "Interseansni lek",
+            "price": 3000
+          },
+          {
+            "name": "Incizija, drenaža, prva pomoć",
+            "price": 5000
+          },
+          {
+            "name": "Endodonska terapija-1 kanal (zubi 1-3)",
+            "price": 10000
+          },
+          {
+            "name": "Endodonska terapija-2 kanala (zubi 4-5)",
+            "price": 12000
+          },
+          {
+            "name": "Endodonska terapija-3,4 kanala (zubi 6-8)",
+            "price": 14000
+          },
+          {
+            "name": "Revizija endodontskog lečenja",
+            "price": 6000
+          },
+          {
+            "name": "Kauzalna terapija parodontopatije-1 vilica",
+            "price": 18000
+          },
+          {
+            "name": "Endodontska faza",
+            "price": 5000
+          },
+          {
+            "name": "Keramički inlej/onlej",
+            "price": 20000
+          },
+          {
+            "name": "Kompozitna faseta injectable",
+            "price": 14000
+          }
+        ]
+      },
+      {
+        "id": "prosthetics",
+        "title": "Protetika",
+        "icon": "/images/icons/teeths-prothetics.png",
+        "items": [
+          {
+            "name": "Livena nadogradnja",
+            "price": 12000
+          },
+          {
+            "name": "Metalo-keramička kruna",
+            "price": 14000
+          },
+          {
+            "name": "Solo metalo-keramička kruna",
+            "price": 18000
+          },
+          {
+            "name": "Metalo-keramička kruna na implantu",
+            "price": 29000
+          },
+          {
+            "name": "Privremena kruna izrađena u ordinaciji",
+            "price": 2000
+          },
+          {
+            "name": "Privremena PMMA kruna",
+            "price": 4000
+          },
+          {
+            "name": "Bezmetalna kruna",
+            "price": 26000
+          },
+          {
+            "name": "Solo bezmetalna kruna",
+            "price": 30000
+          },
+          {
+            "name": "Bezmetalna kruna na implantu",
+            "price": 41000
+          },
+          {
+            "name": "Totalna akrilatna proteza-obe vilice",
+            "price": 76000
+          },
+          {
+            "name": "Totalna akrilatna proteza-1 vilica",
+            "price": 41000
+          },
+          {
+            "name": "Parcijalna akrilatna proteza",
+            "price": 41000
+          },
+          {
+            "name": "Žabica",
+            "price": 12000
+          },
+          {
+            "name": "Skeletirana Vizil proteza",
+            "price": 53000
+          },
+          {
+            "name": "Atečmen-1 kom.",
+            "price": 6000
+          },
+          {
+            "name": "Frezovana kruna",
+            "price": 16000
+          },
+          {
+            "name": "Podlaganje proteze-direktno",
+            "price": 6000
+          },
+          {
+            "name": "Podlaganje proteze-indirektno",
+            "price": 12000
+          },
+          {
+            "name": "Reparatura proteze sa otiskom",
+            "price": 15000
+          },
+          {
+            "name": "Reparatura proteze bez otiska",
+            "price": 12000
+          },
+          {
+            "name": "Dodavanje zuba u protezu",
+            "price": 3500
+          },
+          {
+            "name": "Skidanje stare krune-mosta",
+            "price": 1500
+          },
+          {
+            "name": "Biodental plast proteza",
+            "price": 60000
+          },
+          {
+            "name": "Vinir",
+            "price": 29000
+          },
+          {
+            "name": "Luminir",
+            "price": 35000
+          },
+          {
+            "name": "Recementiranje krunice",
+            "price": 3000
+          },
+          {
+            "name": "Recementiranje mosta",
+            "price": 5000
+          }
+        ]
+      },
+      {
+        "id": "esthetic-dentistry",
+        "title": "Estetska stomatologija",
+        "icon": "/images/icons/teeths-whitening.png",
+        "items": [
+          {
+            "name": "Izbeljivanje zuba u ordinaciji-obe vilice",
+            "price": 30000
+          },
+          {
+            "name": "Kućno izbeljivanje zuba-obe vilice",
+            "price": 30000
+          },
+          {
+            "name": "Cirkon-zubni nakit",
+            "price": 5000
+          },
+          {
+            "name": "Hijaluronski filer 1 ml",
+            "price": 24000
+          },
+          {
+            "name": "Botox-3 regije",
+            "price": 36000
+          }
+        ]
+      },
+      {
+        "id": "children-preventive",
+        "title": "Dečija i preventivna stomatologija",
+        "icon": "/images/icons/teeths-children-dentistry.png",
+        "items": [
+          {
+            "name": "Ispun na mlečnom zubu-1 pov.",
+            "price": 4500
+          },
+          {
+            "name": "Ispun na mlečnom zubu-2 i 3 površine",
+            "price": 5000
+          },
+          {
+            "name": "Endo th na mlečnim zubima (1-3)",
+            "price": 8000
+          },
+          {
+            "name": "Endo th na mlečnim zubima (4-5)",
+            "price": 10000
+          },
+          {
+            "name": "Zalivanje fisura na mlečnim zubima",
+            "price": 3000
+          },
+          {
+            "name": "Zalivanje fisura na stalnim zubima",
+            "price": 3000
+          },
+          {
+            "name": "UMN i poliranje zuba",
+            "price": 3000
+          },
+          {
+            "name": "Fluorizacija zuba",
+            "price": 4000
+          },
+          {
+            "name": "Ekstrakcija mlečnog zuba",
+            "price": 5000
+          },
+          {
+            "name": "Naknada za kasno otkazivanje termina",
+            "price": 4000
+          }
+        ]
+      },
+      {
+        "id": "orthodontics",
+        "title": "Ortodoncija",
+        "icon": "/images/icons/teeths-ortodontics.png",
+        "items": [
+          {
+            "name": "Splint-folija za bruksizam",
+            "price": 12000
+          },
+          {
+            "name": "Myobrace-mobilni aparat",
+            "price": 30000
+          },
+          {
+            "name": "Invisalign-folija za ispravljanje zuba",
+            "price": 12000
+          },
+          {
+            "name": "Fiksni ortodonski aparat",
+            "price": 100000
+          },
+          {
+            "name": "Ortodonska analiza",
+            "price": 6000
+          },
+          {
+            "name": "Fiksni ortodonski aparat Damon",
+            "price": 140000
+          },
+          {
+            "name": "Estetski klasičan fiksni ortodontski aparat",
+            "price": 120000
+          },
+          {
+            "name": "Damon estetski aparat",
+            "price": 175000
+          },
+          {
+            "name": "Zlatne bravice",
+            "price": 120000
+          },
+          {
+            "name": "Odlepljena bravica",
+            "price": 2500
+          },
+          {
+            "name": "Mini implant",
+            "price": 12000
+          },
+          {
+            "name": "Retencione folije obe vilice",
+            "price": 18000
+          },
+          {
+            "name": "Splint-folija za bruksizam rezerva",
+            "price": 6000
+          },
+          {
+            "name": "Žičani ritejner",
+            "price": 12000
+          }
+        ]
+      },
+      {
+        "id": "surgery-implants",
+        "title": "Hirurgija i implanti",
+        "icon": "/images/icons/teeths-implantology.png",
+        "items": [
+          {
+            "name": "Ekstrakcija zuba-rutinska",
+            "price": 5000
+          },
+          {
+            "name": "Ekstrakcija zuba-komplikovana",
+            "price": 8000
+          },
+          {
+            "name": "Ekstrakcija zaostalih korenova i zuba-hirurška",
+            "price": 12000
+          },
+          {
+            "name": "Ekstrakcija impaktiranih umnjaka/očnjaka",
+            "price": 18000
+          },
+          {
+            "name": "Teška ekstrakcija impaktiranih zuba",
+            "price": 24000
+          },
+          {
+            "name": "Liberalizacija očnjaka sa lepljenjem bravice",
+            "price": 18000
+          },
+          {
+            "name": "Režanj operacija-po zubu",
+            "price": 6000
+          },
+          {
+            "name": "Apikotomija-1,2 korena (1-4)",
+            "price": 18000
+          },
+          {
+            "name": "Apikotomija-3 korena, molari",
+            "price": 24000
+          },
+          {
+            "name": "Nivelacija grebena",
+            "price": 24000
+          },
+          {
+            "name": "Komplikovana ekstrakcija umnjaka",
+            "price": 12000
+          },
+          {
+            "name": "Ekstrakcija zuba koji komunicira sa nervom ili sinusom",
+            "price": 30000
+          },
+          {
+            "name": "BIO OSS i kolagena membrana",
+            "price": 59000
+          },
+          {
+            "name": "Frenektomija",
+            "price": 14000
+          },
+          {
+            "name": "Ekstirpacija ciste",
+            "price": 24000
+          },
+          {
+            "name": "Gingivektomija po zubu",
+            "price": 4500
+          },
+          {
+            "name": "Implant-ALPHA BIO",
+            "price": 70000
+          }
+        ]
+      }
+    ]
   },
   "pricing": {
     "title": "Cenovnik usluga",
