@@ -1,10 +1,9 @@
 "use client";
 
-import Footer from "@/app/components/Footer";
-import Header from "@/app/components/Header";
 import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import ServicesAccordion from "../../service-accordion";
+import Link from "next/link";
 
 const SectionWrapper = ({ children }: { children: React.ReactNode }) => (
   <motion.section
@@ -22,85 +21,6 @@ type ServiceItem = {
   description: string;
 };
 
-
-const services = [
-  {
-    title: "Ekstrakcija zuba",
-    description:
-      "Bezbedno i pažljivo vađenje zuba uz minimalnu nelagodnost, uz očuvanje zdravih okolnih struktura."
-  },
-  {
-    title: "Ekstrakcija zaostalih korenova i zuba",
-    description:
-      "Uklanjanje preostalih korenova ili delimično očuvanih zuba radi sprečavanja infekcija i oštećenja okolnog tkiva."
-  },
-  {
-    title: "Ekstrakcija impaktiranih umnjaka/očnjaka",
-    description:
-      "Hirurško vađenje impaktiranih zuba koji nisu pravilno iznikli, uz kontrolisanu i bezbednu proceduru."
-  },
-  {
-    title: "Teška ekstrakcija impaktiranih zuba",
-    description:
-      "Komplikovana hirurška ekstrakcija zuba koji su potpuno ili delimično zarobljeni u vilici, uz minimalnu nelagodnost."
-  },
-  {
-    title: "Liberalizacija očnjaka sa lepljenjem bravice",
-    description:
-      "Priprema i oslobađanje očnjaka radi ortodontskog tretmana, uz postavljanje bravice za kontrolisano pomeranje zuba."
-  },
-  {
-    title: "Režanj operacija",
-    description:
-      "Hirurška intervencija na desnima radi pristupa zubu ili kosti, uz pažljivu kontrolu krvarenja i optimalno zarastanje."
-  },
-  {
-    title: "Apikotomija",
-    description:
-      "Precizna hirurška intervencija uklanjanja vrha korena zuba radi očuvanja preostalog zuba i sprečavanja infekcije."
-  },
-  {
-    title: "Nivelacija grebena",
-    description:
-      "Prilagođavanje vilice radi pripreme za protetski rad ili implant, uz ravnomerno i estetski oblikovan greben."
-  },
-  {
-    title: "Komplikovana ekstrakcija umnjaka",
-    description:
-      "Hirurško vađenje problematičnih umnjaka koji mogu biti delimično impaktirani ili nepravilno položeni."
-  },
-  {
-    title: "Ekstrakcija zuba koji komunicira sa nervom ili sinusom",
-    description:
-      "Posebno pažljiva hirurška procedura za zube u neposrednoj blizini nerva ili sinusa, uz minimalni rizik od komplikacija."
-  },
-  {
-    title: "BIO OSS i kolagena membrana",
-    description:
-      "Upotreba biomaterijala za nadoknadu kosti i kolagenih membrana za brže i kvalitetnije zarastanje posle hirurških intervencija."
-  },
-  {
-    title: "Frenektomija",
-    description:
-      "Hirurško uklanjanje ili skraćivanje usnih ili jezičnih frenula radi olakšavanja oralne funkcije i prevencije problema sa zubima."
-  },
-  {
-    title: "Ekstirpacija ciste",
-    description:
-      "Bezbedno uklanjanje cističnih formacija u vilici radi očuvanja okolne kosti i zuba."
-  },
-  {
-    title: "Gingivektomija po zubu",
-    description:
-      "Precizno uklanjanje ili oblikovanje gingive radi poboljšanja estetike i oralnog zdravlja pojedinačnog zuba."
-  },
-  {
-    title: "Implant",
-    description:
-      "Postavljanje dentalnog implanta kao trajnog rešenja za nadoknadu izgubljenog zuba, uz optimalnu funkciju i estetiku osmeha."
-  }
-];
-
 export default function SurgeryPage() {
   const t = useTranslations("surgery");
   const services = t.raw("services") as ServiceItem[]
@@ -116,11 +36,11 @@ export default function SurgeryPage() {
             </h1>
 
             <div className="text-slate-600 text-sm md:text-base space-x-2">
-              <a href="/" className="hover:text-mint transition">
+              <Link href="/" className="hover:text-green-700 transition">
                 {t("breadcrumbs.home")}
-              </a>
+              </Link>
               <span>/</span>
-              <a href="/usluge" className="hover:text-mint transition">
+              <a href="/usluge" className="hover:text-green-700 transition">
                 {t("breadcrumbs.services")}
               </a>
               <span>/</span>

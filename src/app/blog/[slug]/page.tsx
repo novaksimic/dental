@@ -6,6 +6,7 @@ import { useTranslations } from 'next-intl';
 
 import BlogArticle from '../BlogArticle';
 import { BLOG_CONFIG } from '../blog-config';
+import { FAQ, Section } from '../types';
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -24,8 +25,8 @@ export default function Page({ params }: Props) {
     `blog-content.articles.${config.translationKey}`
   );
 
-  const sections = Object.values(t.raw('sections') ?? {});
-  const faq = Object.values(t.raw('faq') ?? {});
+  const sections: Section[] = Object.values(t.raw('sections') ?? {});
+  const faq: FAQ[] = Object.values(t.raw('faq') ?? {});
 
 const article = {
     meta: {

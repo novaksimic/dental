@@ -1,9 +1,12 @@
 import { getRequestConfig } from 'next-intl/server';
 
 export default getRequestConfig(async ({ locale }) => {
-  // Ensure locale is always a string
-  const safeLocale = await locale || 'sr';
-  console.log(locale)
+  const safeLocale =
+    locale === 'en' ||
+    locale === 'sr' ||
+    locale === 'ru'
+      ? locale
+      : 'sr';
 
   return {
     locale: safeLocale,

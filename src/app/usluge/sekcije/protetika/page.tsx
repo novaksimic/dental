@@ -1,10 +1,9 @@
 "use client";
 
-import Footer from "@/app/components/Footer";
-import Header from "@/app/components/Header";
 import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import ServicesAccordion from "../../service-accordion";
+import Link from "next/link";
 
 const SectionWrapper = ({ children }: { children: React.ReactNode }) => (
   <motion.section
@@ -22,84 +21,6 @@ type ServiceItem = {
   description: string;
 };
 
-const services = [
-  {
-    title: "Livena nadogradnja",
-    description:
-      "Izrada metalne nadogradnje za ojačavanje zuba nakon endodontske terapije, koja obezbeđuje stabilnu osnovu za krunu i dugotrajnost rada."
-  },
-  {
-    title: "Metalo-keramička kruna",
-    description:
-      "Kombinacija čvrstoće metala i estetike keramike, idealna za funkcionalnu i dugotrajnu nadoknadu oštećenih zuba."
-  },
-  {
-    title: "Privremena kruna",
-    description:
-      "Privremeno rešenje koje štiti zub i desni dok se ne izradi trajna kruna, uz očuvanje estetike i funkcije."
-  },
-  {
-    title: "Bezmetalna kruna",
-    description:
-      "Estetski vrhunska kruna bez metalne osnove koja pruža prirodan izgled i savršeno se uklapa sa ostatkom zuba."
-  },
-  {
-    title: "Totalna akrilatna proteza",
-    description:
-      "Kompletna proteza za nadoknadu svih zuba u vilici, izrađena tako da obezbedi funkcionalnost i prirodan izgled osmeha."
-  },
-  {
-    title: "Parcijalna akrilatna proteza",
-    description:
-      "Delimična proteza koja nadoknađuje više izgubljenih zuba, uz očuvanje postojećih prirodnih zuba."
-  },
-  {
-    title: "Žabica",
-    description:
-      "Privremena parcijalna proteza koja se koristi kao brzo i praktično rešenje do izrade trajnog protetskog rada."
-  },
-  {
-    title: "Skeletirana Vizil proteza",
-    description:
-      "Metalna parcijalna proteza visoke stabilnosti i dugotrajnosti, sa boljim prianjanjem i većim komforom za pacijenta."
-  },
-  {
-    title: "Atečmen",
-    description:
-      "Precizni retencioni element koji omogućava stabilno i estetski diskretno vezivanje proteze za postojeće zube."
-  },
-  {
-    title: "Frezovana kruna",
-    description:
-      "Visokoprecizna kruna izrađena CAD/CAM tehnologijom, koja pruža maksimalno prijanjanje i dugotrajnost."
-  },
-  {
-    title: "Podlaganje proteze",
-    description:
-      "Korekcija unutrašnje površine proteze radi boljeg prijanjanja i povećanog komfora nakon promena u vilici."
-  },
-  {
-    title: "Reparatura proteze",
-    description:
-      "Popravka oštećene ili polomljene proteze kako bi se ponovo uspostavila njena funkcionalnost."
-  },
-  {
-    title: "Dodavanje zuba u protezu",
-    description:
-      "Ugradnja dodatnog zuba u postojeću protezu nakon gubitka zuba, bez potrebe za izradom nove proteze."
-  },
-  {
-    title: "Skidanje stare krune ili mosta",
-    description:
-      "Bezbedno uklanjanje dotrajalih protetskih radova uz očuvanje strukture zuba za dalju terapiju."
-  },
-  {
-    title: "Biodental plast proteza",
-    description:
-      "Savremena fleksibilna proteza izrađena od biokompatibilnog materijala, izuzetno udobna i estetski diskretna."
-  }
-];
-
 export default function ProestethicsPage() {
   const t = useTranslations("prosthetics");
   const services = t.raw("services") as ServiceItem[]
@@ -115,11 +36,11 @@ export default function ProestethicsPage() {
             </h1>
 
             <div className="text-slate-600 text-sm md:text-base space-x-2">
-              <a href="/" className="hover:text-mint transition">
+              <Link href="/" className="hover:text-green-700 transition">
                 {t("breadcrumbs.home")}
-              </a>
+              </Link>
               <span>/</span>
-              <a href="/usluge" className="hover:text-mint transition">
+              <a href="/usluge" className="hover:text-green-700 transition">
                 {t("breadcrumbs.services")}
               </a>
               <span>/</span>

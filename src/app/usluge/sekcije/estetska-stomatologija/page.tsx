@@ -1,10 +1,9 @@
 "use client";
 
-import Footer from "@/app/components/Footer";
-import Header from "@/app/components/Header";
 import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import ServicesAccordion from "../../service-accordion";
+import Link from "next/link";
 
 const SectionWrapper = ({ children }: { children: React.ReactNode }) => (
   <motion.section
@@ -22,33 +21,6 @@ type ServiceItem = {
   description: string;
 };
 
-const services = [
-  {
-    title: "Izbeljivanje zuba u ordinaciji",
-    description:
-      "Brzo i efikasno profesionalno izbeljivanje zuba u ordinaciji uz zaštitu desni i minimalnu osetljivost, za blistav i prirodan osmeh."
-  },
-  {
-    title: "Kućno izbeljivanje zuba",
-    description:
-      "Sigurna i udobna metoda izbeljivanja kod kuće uz prilagođene šine i gelove, za postepeno i kontrolisano posvetljivanje zuba."
-  },
-  {
-    title: "Cirkon - zubni nakit",
-    description:
-      "Elegantna i diskretna dekoracija zuba pomoću cirkon kristala, koja dodaje sofisticirani sjaj vašem osmehu bez oštećenja zuba."
-  },
-  {
-    title: "Hijaluronski filer 1 ml",
-    description:
-      "Bezbedna i precizna aplikacija hijaluronskog filera za oblikovanje usana, popunjavanje bora ili poboljšanje kontura lica uz prirodan izgled."
-  },
-  {
-    title: "Botox - 3 regije",
-    description:
-      "Estetski tretman botoksom za opuštanje mimičnih bora u predelu čela, između obrva i oko očiju, za svež i mladalački izgled."
-  }
-];
 
 export default function EsteticsPage() {
   const t = useTranslations("estetics");
@@ -65,11 +37,11 @@ export default function EsteticsPage() {
             </h1>
 
             <div className="text-slate-600 text-sm md:text-base space-x-2">
-              <a href="/" className="hover:text-mint transition">
+              <Link href="/" className="hover:text-green-700 transition">
                 {t("breadcrumbs.home")}
-              </a>
+              </Link>
               <span>/</span>
-              <a href="/usluge" className="hover:text-mint transition">
+              <a href="/usluge" className="hover:text-green-700 transition">
                 {t("breadcrumbs.services")}
               </a>
               <span>/</span>

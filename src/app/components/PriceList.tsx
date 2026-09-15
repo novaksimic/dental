@@ -129,8 +129,8 @@ export default function Cenovnik() {
         <div className="grid grid-cols-1 gap-8 md:grid-cols-5">
 
           {/* SIDEBAR */}
-          <aside className="hidden md:block md:col-span-2">
-            <div className="sticky top-24 rounded-2xl bg-white p-6 shadow-sm border border-gray-100">
+          <aside className="w-full md:sticky md:col-span-2 md:top-36 md:h-fit md:self-start">
+            <div className="rounded-2xl bg-white p-6 shadow-lg border border-gray-100 p-6">
               <h2 className="mb-4 text-lg font-semibold">
                 {t("categories")}
               </h2>

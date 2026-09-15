@@ -1,9 +1,6 @@
-// next-intl.config.ts
-import type { NextIntlConfig } from 'next-intl';
+import {defineRouting} from 'next-intl/routing';
 
-const config: NextIntlConfig = {
+export const routing = defineRouting({
   locales: ['en', 'sr', 'ru'],
   defaultLocale: 'sr'
-};
-
-export default config;
+});

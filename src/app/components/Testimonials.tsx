@@ -1,7 +1,7 @@
 "use client";
 
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation, Autoplay } from "swiper/modules";
+import { Autoplay } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 
@@ -74,9 +74,9 @@ export default function Testimonials() {
                   </h3>
 
                   {/* ROLE */}
-                  <p className="text-sm opacity-80 sm:text-base">
+                  {/* <p className="text-sm opacity-80 sm:text-base">
                     {t(`testimonial${i}.role`)}
-                  </p>
+                  </p> */}
 
                 </div>
               </SwiperSlide>

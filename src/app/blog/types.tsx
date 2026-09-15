@@ -1,3 +1,13 @@
+export interface Section {
+  heading: string;
+  content: string;
+}
+
+export interface FAQ {
+  question: string;
+  answer: string;
+}
+
 export interface BlogArticleMeta {
   slug: string;
   image: string;
@@ -19,16 +29,10 @@ export interface BlogArticleContent {
         current: string;
     };
 
-  sections: {
-    heading: string;
-    content: string;
-  }[];
+  sections: Section[];
 
   faqTitle?: string;
-  faq?: {
-    question: string;
-    answer: string;
-  }[];
+  faq?: FAQ[];
 
   conclusionTitle?: string;
   conclusion?: string;

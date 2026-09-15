@@ -55,7 +55,7 @@ export default function TopBar() {
 
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
 
-        <div className="flex flex-wrap items-center justify-between gap-2 py-2">
+        <div className="flex flex-wrap items-center justify-between gap-1 py-2">
 
           {/* LEFT SIDE */}
           <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs sm:text-sm">

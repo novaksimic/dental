@@ -7,24 +7,50 @@ import { useRef } from "react";
 import { useParams } from "next/navigation";
 import "swiper/css";
 import "swiper/css/autoplay";
+import Link from "next/link";
 
+
+export interface Doctor {
+  id: string;
+  image: string;
+
+  doctor: {
+    name: string;
+    title: string;
+  };
+
+  intro: {
+    title: string;
+    breadcrumbHome: string;
+    breadcrumbCurrent: string;
+  };
+
+  hero: {
+    description: string;
+    cta: string;
+  };
+
+  aboutDoctor: {
+    title: string;
+    paragraph1: string;
+    paragraph2: string;
+    paragraph3: string;
+  };
+
+  cta: {
+    title: string;
+    description: string;
+    button: string;
+  };
+
+  rating: string;
+
+  hobbies: {
+    images: string[];
+  };
+}
 
 export default function DoctorPage() {
-  const t = useTranslations("doctorPage");
-  const params = useParams();
-  const slug = params.slug;
-
-  // 🔥 Uzimamo sve doktore iz translations
-  const doctors = t.raw("doctors");
-  console.log(t.raw("doctors"));
-  const doctor = doctors.find((d: any) => d.id === slug);
-  console.log('slug', doctor)
-
-  // ✅ fallback
-  if (!doctor) {
-    return <div className="p-20 text-center">Doctor not found</div>;
-  }
-
   const heroRef = useRef(null);
 
   const { scrollYProgress } = useScroll({
@@ -33,6 +59,17 @@ export default function DoctorPage() {
   });
 
   const yParallax = useTransform(scrollYProgress, [0, 1], [0, -80]);
+
+  const t = useTranslations("doctorPage");
+  const params = useParams();
+  const slug = params.slug;
+
+  const doctors = t.raw("doctors") as Doctor[];
+  const doctor = doctors.find((d: Doctor) => d.id === slug);
+
+  if (!doctor) {
+    return <div className="p-20 text-center">Doctor not found</div>;
+  }
 
   const rating = Number(doctor.rating);
 
@@ -46,9 +83,9 @@ export default function DoctorPage() {
           </h1>
 
           <div className="text-slate-700 text-sm md:text-base">
-            <a href="/" className="hover:text-green-700">
+            <Link href="/" className="hover:text-green-700">
               {doctor.intro.breadcrumbHome}
-            </a>{" "}
+            </Link>{" "}
             /{" "}
             <span className="font-semibold">
               {doctor.intro.breadcrumbCurrent}
@@ -82,7 +119,7 @@ export default function DoctorPage() {
               {doctor.doctor.title}
             </p>
 
-            <p className="text-slate-600 leading-relaxed mb-8">
+            <p className="text-slate-600 leading-relaxed mb-8 text-justify">
               {doctor.hero.description}
             </p>
 
@@ -139,9 +176,9 @@ export default function DoctorPage() {
           <h2 className="text-3xl font-bold text-mint mb-8">
             {doctor.aboutDoctor.title}
           </h2>
-          <p className="text-slate-600 mb-4">{doctor.aboutDoctor.paragraph1}</p>
-          <p className="text-slate-600 mb-4">{doctor.aboutDoctor.paragraph2}</p>
-          <p className="text-slate-600 mb-4">{doctor.aboutDoctor.paragraph3}</p>
+          <p className="text-slate-600 mb-4 text-justify">{doctor.aboutDoctor.paragraph1}</p>
+          <p className="text-slate-600 mb-4 text-justify">{doctor.aboutDoctor.paragraph2}</p>
+          <p className="text-slate-600 mb-4 text-justify">{doctor.aboutDoctor.paragraph3}</p>
         </div>
 
         {/* HOBBIES / PRIVATE LIFE */}

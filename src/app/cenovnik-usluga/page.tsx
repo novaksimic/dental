@@ -1,13 +1,12 @@
 "use client";
 import React from "react";
 import PriceList from "../components/PriceList";
-import Header from "../components/Header";
-import Footer from "../components/Footer";
 import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 
 // Wrapper za animirane sekcije
-const SectionWrapper = ({ children }) => (
+const SectionWrapper = ({ children }: { children: React.ReactNode }) => (
   <motion.section
     initial={{ opacity: 0, y: 40 }}
     whileInView={{ opacity: 1, y: 0 }}
@@ -33,9 +32,9 @@ export default function PricingPage() {
             </h1>
 
             <div className="text-slate-700 text-sm md:text-base">
-              <a href="/" className="hover:text-green-700">
+              <Link href="/" className="hover:text-green-700">
                 {t("breadcrumbs.home")}
-              </a>{" "}
+              </Link>{" "}
               /{" "}
               <span className="font-semibold">
                 {t("breadcrumbs.current")}

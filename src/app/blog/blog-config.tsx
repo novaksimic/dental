@@ -1,4 +1,23 @@
-export const BLOG_CONFIG = {
+export interface BlogSeo {
+  metaTitle: string;
+  metaDescription: string;
+}
+
+export interface BlogConfigItem {
+  slug: string;
+  image: string;
+  date: string;
+
+  translationKey: string;
+  sidePanelKey: string;
+  sideBarKey: string;
+
+  seo: BlogSeo;
+}
+
+export type BlogConfig = Record<string, BlogConfigItem>;
+
+export const BLOG_CONFIG: BlogConfig = {
   implanti: {
     slug: "implanti",
     image: "/images/webp/zubni-implant.webp",

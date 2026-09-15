@@ -141,7 +141,7 @@ export const priceService = {
 
 // formatPrice.ts
 export const formatPrice = (price: number, locale: "sr" | "en" | "ru") => {
-  let options: Intl.NumberFormatOptions = { minimumFractionDigits: 0 };
+  const options: Intl.NumberFormatOptions = { minimumFractionDigits: 0 };
   let currency = "RSD";
   let loc = "sr-RS";
 
