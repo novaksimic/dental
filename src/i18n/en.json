@@ -917,11 +917,11 @@
           },
           {
             "name": "Temporary crown made in-office",
-            "price": 2000
+            "price": 2400
           },
           {
             "name": "Temporary PMMA crown",
-            "price": 4000
+            "price": 4700
           },
           {
             "name": "All-ceramic crown",
@@ -985,7 +985,7 @@
           },
           {
             "name": "Removal of old crown/bridge",
-            "price": 1500
+            "price": 2400
           },
           {
             "name": "Biodental Plast denture",
@@ -1080,6 +1080,18 @@
           {
             "name": "Late cancellation fee",
             "price": 4000
+          },
+          {
+            "name": "Dental examination",
+            "price": 4000
+          },
+          {
+            "name": "Specialist examination",
+            "price": 6000
+          },
+          {
+            "name": "Tooth desensitization",
+            "price": 3000
           }
         ]
       },
@@ -1217,7 +1229,27 @@
           },
           {
             "name": "Implant-ALPHA BIO",
-            "price": 70000
+            "price": 59000
+          },
+          {
+            "name": "Healing abutment placement",
+            "price": 12000
+          },
+          {
+            "name": "Sinus lift",
+            "price": 12000
+          },
+          {
+            "name": "All-on-X metal-ceramic",
+            "price": 590000
+          },
+          {
+            "name": "All-on-X zirconia",
+            "price": 702000
+          },
+          {
+            "name": "All-on-X acrylic-titanium",
+            "price": 590000
           }
         ]
       }

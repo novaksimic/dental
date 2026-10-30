@@ -916,11 +916,11 @@
           },
           {
             "name": "Privremena kruna izrađena u ordinaciji",
-            "price": 2000
+            "price": 2400
           },
           {
             "name": "Privremena PMMA kruna",
-            "price": 4000
+            "price": 4700
           },
           {
             "name": "Bezmetalna kruna",
@@ -984,7 +984,7 @@
           },
           {
             "name": "Skidanje stare krune-mosta",
-            "price": 1500
+            "price": 2400
           },
           {
             "name": "Biodental plast proteza",
@@ -1079,6 +1079,18 @@
           {
             "name": "Naknada za kasno otkazivanje termina",
             "price": 4000
+          },
+          {
+            "name": "Stomatološki pregled",
+            "price": 4000
+          },
+          {
+            "name": "Specijalistički pregled",
+            "price": 6000
+          },
+          {
+            "name": "Desenzibilizacija zuba",
+            "price": 3000
           }
         ]
       },
@@ -1216,7 +1228,27 @@
           },
           {
             "name": "Implant-ALPHA BIO",
-            "price": 70000
+            "price": 59000
+          },
+          {
+            "name": "Postavka healing abutmenta",
+            "price": 12000
+          },
+          {
+            "name": "Plastika sinusa",
+            "price": 12000
+          },
+          {
+            "name": "All on X metalokeramika",
+            "price": 590000
+          },
+          {
+            "name": "All on X cirkonija",
+            "price": 702000
+          },
+          {
+            "name": "All on X akrilat-titanijum",
+            "price": 590000
           }
         ]
       }
