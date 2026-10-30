@@ -2,7 +2,7 @@
   "topBar": {
     "phone": "+381 60 684 0500",
     "email": "dentalhouse.bg@gmail.com",
-    "workingHours": "09:00–17:00",
+    "workingHours": "11:00–19:00",
     "bookAppointment": "Book an appointment",
     "languages": { 
       "sr": "Serbian", 
@@ -125,7 +125,7 @@
     "service5": {
       "icon": "/images/icons/ortodoncija.svg",
       "title": "Orthodontics",
-      "description": "Teeth and bite alignment using fixed or clear braces. Teeth and bite alignment using fixed or clear braces.",
+      "description": "Teeth and bite alignment using fixed or clear braces.",
       "link": "/usluge/sekcije/ortodoncija"
     },
     "service6": {

@@ -10,16 +10,16 @@ export const services = [
   },
   {
     title: "Ortodoncija",
-    description: "Ispravljanje zuba i ugriza pomoću fiksnih ili providnih aparata. Ispravljanje zuba i ugriza pomoću fiksnih ili providnih aparata.",
+    description: "Ispravljanje zuba i ugriza pomoću fiksnih ili providnih aparata.",
     icon: "/images/icons/ortodoncija.svg",
     link: "#",
     slug: "ortodoncija"
   },
   {
     title: "Protetika",
-    description: `Protetika se bavi nadoknadom izgubljenih zuba i obnavljanjem funkcije i estetike Vašeg osmeha. 
-    Koristimo savremene metode i materijale kako bismo izradili krunice, mostove, proteze i implantoprotetska rešenja koja su prilagođena Vašim potrebama. 
-    Naš cilj je da Vam omogućimo prirodan izgled i udobnost, uz vraćanje pravilne funkcije žvakanja i govora. 
+    description: `Protetika se bavi nadoknadom izgubljenih zuba i obnavljanjem funkcije i estetike vašeg osmeha. 
+    Koristimo savremene metode i materijale kako bismo izradili krunice, mostove, proteze i implantoprotetska rešenja koja su prilagođena vašim potrebama. 
+    Naš cilj je da vam omogućimo prirodan izgled i udobnost, uz vraćanje pravilne funkcije žvakanja i govora. 
     Bilo da je reč o jednom zubu ili potpunoj rekonstrukciji, pružamo individualni pristup kako biste ponovo mogli da se osmehujete sa samopouzdanjem.`,
     icon: "/images/icons/ortodoncija.svg", // SVG ili PNG
     link: "#",

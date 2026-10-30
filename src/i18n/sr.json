@@ -2,7 +2,7 @@
   "topBar": {
     "phone": "+381 60 684 0500",
     "email": "dentalhouse.bg@gmail.com",
-    "workingHours": "09:00–17:00",
+    "workingHours": "11:00–19:00",
     "bookAppointment": "Zakažite pregled",
     "languages": { 
       "sr": "Srpski", 
@@ -24,7 +24,7 @@
         "estetic": "Estetska stomatologija",
         "preventive": "Decija i preventivna stomatologija",
         "orthodontics": "Ortodoncija",
-        "implants": "Hirurgija i implanti",
+        "implants": "Hirurgija i implantologija",
         "facts": "Zanimljivosti"
       }
     }
@@ -52,7 +52,7 @@
     {
       "title": "Osmeh koji zaslužujete",
       "subtitle": "Stručna stomatološka nega za celu porodicu",
-      "buttonText": "Zakazite pregled",
+      "buttonText": "Zakažite pregled",
       "buttonLink": "/kontakt"
     },
     {
@@ -73,7 +73,7 @@
     "paragraph1": "Dobrodošli u Dental House Vračar, stomatološku ordinaciju smeštenu u srcu Vračara, gde svaki osmeh dobija posebnu pažnju. Naša priča počinje vizijom jednog posvećenog stručnjaka koji je svojim trudom i dugogodišnjim iskustvom stvorio mesto gde stomatologija postaje prijatno iskustvo. Svaki detalj ordinacije je pažljivo osmišljen i uređen rukama našeg osnivača, čineći ga toplim, modernim i prijatnim za sve naše pacijente.",
     "paragraph2": "U Dental House Vračar verujemo u savremenu, estetsku i bezbolnu stomatologiju, kombinujući najnovije tehnologije sa individualnim pristupom svakom pacijentu. Naš cilj je ne samo da lečimo zube, već da stvaramo osmehe koji održavaju vašu ličnost i samopouzdanje.",
     "paragraph3": "Naša misija je jednostavna, ali moćna `Stvaramo osmeh kakav zaslužujete`. Svaki osmeh koji izlazi iz naše ordinacije rezultat je pažnje, preciznosti i strasti koje ulažemo u svaki tretman. Bilo da je u pitanju estetska korekcija, preventivna nega ili složenija stomatološka intervencija, ovde ćete uvek biti u sigurnim rukama i u prijatnom ambijentu.",
-    "paragraph4": "Pridružite nam se i otkrijete kako moderni pristup stomatologiji može učiniti da poseta zubara bude iskustvo koje volite.",
+    "paragraph4": "Pridružite nam se i otkrijete kako moderni pristup stomatologiji može učiniti da poseta stomatologu bude iskustvo koje volite.",
     "stats": {
       "experienceYears": "35+",
       "experienceLabel": "Godina iskustva",
@@ -88,7 +88,7 @@
       "aesteticDentistry": "Estetska stomatologija",
       "pediatricDentistry": "Dečija i preventivna stomatologija",
       "orthodontics": "Ortodoncija za odrasle i decu",
-      "surgery": "Hirurgija i implenti"
+      "surgery": "Hirurgija i implantologija"
     },
     "ctaButton": "Zakažite pregled"
   },
@@ -104,7 +104,7 @@
     "service2": {
       "icon": "/images/icons/ortodoncija.svg",
       "title": "Protetika",
-      "description": "Protetika se bavi nadoknadom izgubljenih zuba i obnavljanjem funkcije i estetike Vašeg osmeha. Koristimo savremene metode i materijale kako bismo izradili krunice, mostove, proteze i implantoprotetska rešenja koja su prilagođena Vašim potrebama. Naš cilj je da Vam omogućimo prirodan izgled i udobnost, uz vraćanje pravilne funkcije žvakanja i govora. Bilo da je reč o jednom zubu ili potpunoj rekonstrukciji, pružamo individualni pristup kako biste ponovo mogli da se osmehujete sa samopouzdanjem.",
+      "description": "Protetika se bavi nadoknadom izgubljenih zuba i obnavljanjem funkcije i estetike vašeg osmeha. Koristimo savremene metode i materijale kako bismo izradili krunice, mostove, proteze i implantoprotetska rešenja koja su prilagođena vašim potrebama. Naš cilj je da vam omogućimo prirodan izgled i udobnost, uz vraćanje pravilne funkcije žvakanja i govora. Bilo da je reč o jednom zubu ili potpunoj rekonstrukciji, pružamo individualni pristup kako biste ponovo mogli da se osmehujete sa samopouzdanjem.",
       "link": "/usluge/sekcije/protetika"
     },
     "service3": {
@@ -122,12 +122,12 @@
     "service5": {
       "icon": "/images/icons/ortodoncija.svg",
       "title": "Ortodoncija",
-      "description": "Ispravljanje zuba i ugriza pomoću fiksnih ili providnih aparata. Ispravljanje zuba i ugriza pomoću fiksnih ili providnih aparata.",
+      "description": "Ispravljanje zuba i ugriza pomoću fiksnih ili providnih aparata.",
       "link": "/usluge/sekcije/ortodoncija"
     },
     "service6": {
       "icon": "/images/icons/ortodoncija.svg",
-      "title": "Hirurgija i implanti",
+      "title": "Hirurgija i implantologija",
       "description": "Oralna hirurgija i ugradnja implantata obuhvataju savremene i bezbolne zahvate za rešavanje složenijih stomatoloških problema i trajnu nadoknadu izgubljenih zuba. Uz preciznu dijagnostiku i vrhunsku tehnologiju, omogućavamo sigurne intervencije, brz oporavak i prirodan izgled i funkcionalnost vašeg osmeha.",
       "link": "/usluge/sekcije/hirurgija-i-implanti"
     },
@@ -198,9 +198,9 @@
   "doctor4": {
     "name": "Dr Vanja Bojić",
     "specialties": [
-      "Dečiji stomatolog"
+      "Dečja i preventivna stomatologija"
     ],
-    "bio": "Specijalista pedijatrijske stomatologije sa više godina iskustva. Posvećena zdravlju i pravilnom razvoju mlečnih i stalnih zuba kod dece, sa fokusom na bezbolne i edukativne tretmane.",
+    "bio": "Specijalista dečje i preventivne stomatologije sa više godina iskustva. Posvećena zdravlju i pravilnom razvoju mlečnih i stalnih zuba kod dece, sa fokusom na bezbolne i edukativne tretmane.",
     "rating": "5"
   },
   "doctor5": {
@@ -380,7 +380,7 @@
       },
       {
         "title": "Medikamentozna terapija između tretmana",
-        "description": "Privremena terapija za smanjenje infekcije između tretmana."
+        "description": "Postavka interseansnog leka."
       },
       {
         "title": "Incizija i drenaža",
@@ -461,7 +461,7 @@
         "description": "Detaljna procena zuba, vilice i zagrižaja uz pomoć savremene dijagnostike za planiranje efikasne terapije."
       },
       {
-        "title": "Damon fiksna proteza",
+        "title": "Damon (Dejmon) fiksna proteza",
         "description": "Napredni Damon sistem fiksne proteze sa niskim trenjem za brže i udobnije pomeranje zuba uz minimalnu nelagodnost."
       }
     ],
@@ -697,13 +697,13 @@
 
   "surgery": {
     "breadcrumbs": {
-      "title": "Oralna hirurgija i implanti",
+      "title": "Oralna hirurgija i implantologija",
       "home": "Početna",
       "services": "Naše usluge",
-      "current": "Oralna hirurgija i implanti"
+      "current": "Oralna hirurgija i implantologija"
     },
     "hero": {
-      "title": "Oralna hirurgija i implanti"
+      "title": "Oralna hirurgija i implantologija"
     },
     "services": [
       {
@@ -732,7 +732,7 @@
       },
       {
         "title": "Apikotomija",
-        "description": "Uklanjanje vrha korena zuba."
+        "description": "Uklanjanje infekcije sa vrha korena zuba."
       },
       {
         "title": "Nivelacija grebena",
@@ -752,7 +752,7 @@
       },
       {
         "title": "Frenektomija",
-        "description": "Uklanjanje frenuluma."
+        "description": "Uklanjanje frenuluma (resice)."
       },
       {
         "title": "Uklanjanje cisti",
@@ -820,15 +820,15 @@
         "icon": "/images/icons/teeths-dental.png",
         "items": [
           {
-            "name": "Kompozitni ispun-1 pov.",
+            "name": "Kompozitna plomba-1 pov.",
             "price": 4500
           },
           {
-            "name": "Kompozitni ispun-2 pov.",
+            "name": "Kompozitna plomba-2 pov.",
             "price": 5000
           },
           {
-            "name": "Kompozitni ispun-MOD",
+            "name": "Kompozitna plomba-MOD",
             "price": 5500
           },
           {
@@ -1159,7 +1159,7 @@
       },
       {
         "id": "surgery-implants",
-        "title": "Hirurgija i implanti",
+        "title": "Hirurgija i implantologija",
         "icon": "/images/icons/teeths-implantology.png",
         "items": [
           {
@@ -1239,7 +1239,7 @@
             "price": 12000
           },
           {
-            "name": "All on X metalokeramika",
+            "name": "All on X metalkeramika",
             "price": 590000
           },
           {
@@ -1587,7 +1587,7 @@
         "breadcrumbCurrent": "Doktor"
       },
       "hero": {
-        "description": "Vodjen intuicijom, odlučujem da se specijalizujem za oralnu hirurgiju i implantologiju, kojom se bavim sa velikom strašću.",
+        "description": "Vođen intuicijom, odlučujem da se specijalizujem za oralnu hirurgiju i implantologiju, kojom se bavim sa velikom strašću.",
         "cta": "Zakažite pregled"
       },
       "aboutDoctor": {
@@ -1628,7 +1628,7 @@
       "aboutDoctor": {
         "title": "Upoznajte doktora bliže",
         "paragraph1": "Van ordinacije, strastveni sam trkač, sa istrčanim brojnim polumaratonima - hobi koiji me uči disciplini, istrajnosti i pomeranju sopstvanih granica.",
-        "paragraph2": "Te vrednosti prenosim u rad sa pacijentima, gradeći odnos poverenja i posvećenosti, dajući sebi u potpunosti kako bih svakom osmehu dala najlepši i najsigurniji izraz.",
+        "paragraph2": "Te vrednosti prenosim u rad sa pacijentima, gradeći odnos poverenja i posvećenosti, dajući sebe u potpunosti kako bih svakom osmehu dala najlepši i najsigurniji izraz.",
         "paragraph3": ""
       },
       "cta": {
@@ -1663,7 +1663,7 @@
       "aboutDoctor": {
         "title": "Upoznajte doktora bliže",
         "paragraph1": "U radu negujem pažljiv i posvećen pristup, dok kroz putovanja, duge šetnje i radoznalo istraživanje svakog novog kutka sveta i različitih kultura pronalazim inspiraciju.",
-        "paragraph2": "Kroz ovaj hobi pronalazim unutrašnji balans i energiju koju prenosim u odnosu sa pacijentima, gradeći poverenje i pružajući im potpunu posvećenost.",
+        "paragraph2": "Kroz ovaj hobi pronalazim unutrašnji balans i energiju koju prenosim u odnos sa pacijentima, gradeći poverenje i pružajući im potpunu posvećenost.",
         "paragraph3": ""
       },
       "cta": {
@@ -1692,7 +1692,7 @@
         "breadcrumbCurrent": "Doktor"
       },
       "hero": {
-        "description": "Ispunjenje mog sna počinje upisom Stomatološkog fakulteta a življenje sna jeste bavljenje stomatologijom koa specijalista dečije i preventivne stomatologije.",
+        "description": "Ispunjenje mog sna počinje upisom Stomatološkog fakulteta a življenje sna jeste bavljenje stomatologijom kao specijalista dečije i preventivne stomatologije.",
         "cta": "Zakažite pregled"
       },
       "aboutDoctor": {
@@ -1727,7 +1727,7 @@
         "breadcrumbCurrent": "Doktor"
       },
       "hero": {
-        "description": "Ispunjenje mog sna počinje upisom Stomatološkog fakulteta, a život tog sna znači bavljenje stomatologijom kao specijalista dečije i preventivne stomatologije.",
+        "description": "Ispunjenje mog sna počinje upisom Stomatološkog fakulteta, a život tog sna znači bavljenje stomatologijom kao specijalizant ortodoncije.",
         "cta": "Zakažite pregled"
       },
       "aboutDoctor": {
